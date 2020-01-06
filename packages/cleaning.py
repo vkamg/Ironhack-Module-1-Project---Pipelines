@@ -97,3 +97,16 @@ def resetindex(df_cleaned):
 def save_to_parquet(df_cleaned):
     df_cleaned.to_parquet(f'../data/processed/cleaned_data.parquet')
     return df_cleaned
+
+def cleaning_dataset(df_merged):
+    print("Cleaning the dataset... This may take a while")
+    df_merged1 = create_columns(df_merged)
+    df_merged2 = clean_worthcolumn(df_merged1)
+    df_merged3 = clean_age(df_merged2)
+    df_merged4 = clean_countrycolumn(df_merged3)
+    df_merged5 = drop_nullvalues(df_merged4)
+    df_merged6 = clean_namecolumn(df_merged5)
+    df_merged7 = df_columns(df_merged6)
+    df_merged8 = sort_values(df_merged7)
+    df_cleaned = resetindex(df_merged8)
+    return df_cleaned
