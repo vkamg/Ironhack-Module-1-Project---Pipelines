@@ -1,123 +1,15 @@
-import pandas as pd
-from sqlalchemy import create_engine
-import re
+import argparse
+
+def main(country, inform):
+    data = create_dataset('../data/raw/veronicamg.db')
+    data_cleaned = cleaning(data)
+    data_imported = impor(data_cleaned,"https://restcountries.eu/rest/v2/name/")
+    data_filtered= filtering(data_imported, year)
+    path, path2, path3,path4 = analyze(data_filtered,year)
+    file_to_send = pdf(path,path2,path3,path4, 'Helvetica',year,inform)
+    emailing(file_to_send, year)
 
 
-def create_engine_db(sqlitedb_path):
-    print('Creating engine...')
-    engine = create_engine(f'sqlite:///{sqlitedb_path}')
-    return engine
 
-
-def read_tables(engine):
-    print('Reading tables from database...')
-    df_business_info = pd.read_sql_query("select * from business_info", engine)
-    df_personal_info = pd.read_sql_query("select * from personal_info", engine)
-    df_rank_info = pd.read_sql_query("select * from rank_info", engine)
-    return df_business_info, df_personal_info, df_rank_info
-
-
-def merge_tables(df_business_info, df_personal_info, df_rank_info):
-    df_business_personal = pd.merge(df_business_info, df_personal_info, on='Unnamed: 0')
-    df_merged = pd.merge(df_business_personal, df_rank_info, on='Unnamed: 0')
-    return df_merged
-
-
-def clean_sourcecolumn(s):
-    return s.split('  ==> ')
-
-
-def create_columns(df_merged):
-    df_merged['Source'] = df_merged['Source'].apply(clean_sourcecolumn)
-    df_merged['company_name'] = df_merged['Source'].apply(lambda x: x[1:])
-    df_merged['company_name'] = df_merged['company_name'].apply(lambda x: x[0])
-    df_merged['company_sector'] = df_merged['Source'].apply(lambda x: x[:1])
-    df_merged['company_sector'] = df_merged['company_sector'].apply(lambda x: x[0])
-    df_merged.drop(columns=['Source'], inplace=True)
-    return df_merged
-
-
-def clean_worthcolumn(df_merged):
-    df_merged['worth'] = df_merged['worth'].apply(lambda x: x.split(' '))
-    df_merged['worth_unit'] = df_merged['worth'].apply(lambda x: x[1:])
-    df_merged['worth_unit'] = df_merged['worth_unit'].apply(lambda x: x[0])
-    df_merged["worth_amount_(BUSD)"] = df_merged['worth'].apply(lambda x: x[:1])
-    df_merged["worth_amount_(BUSD)"] = df_merged["worth_amount_(BUSD)"].apply(lambda x: x[0])
-    df_merged["worth_amount_(BUSD)"] = df_merged["worth_amount_(BUSD)"].astype(float)
-    df_merged.drop(columns=['worth_unit', 'worth'], inplace=True)
-    return df_merged
-
-
-def change_age(age):
-    if age == None:
-        return None
-    elif re.search('years old', age) is not None:
-        num = re.sub('[a-zA-Z ]', '', age)
-        return int(num)
-    else:
-        year = int(age)
-        age_2018 = 2018 - year
-        return int(age_2018)
-
-
-def clean_age(df_merged):
-    df_merged['age'] = df_merged['age'].apply(change_age)
-    return df_merged
-
-
-def country_clean(country):
-    if country is None:
-        return None
-    elif re.search('USA', country) is not None:
-        return 'United States'
-    elif re.search('China', country) is not None:
-        return 'China'
-    elif re.search('UK', country) is not None:
-        return 'United Kingdom'
-    elif re.search('UAE', country) is not None:
-        return 'United Arab Emirates'
-    elif re.search('None', country) is not None:
-        return None
-    else:
-        return country
-
-
-def clean_countrycolumn(df_merged):
-    df_merged['country'] = df_merged['country'].apply(country_clean)
-    return df_merged
-
-
-def drop_nullvalues(df_merged):
-    df_merged.dropna(subset=['country'], inplace=True)
-    return df_merged
-
-
-def capitalize(name):
-    return name.title()
-
-
-def clean_namecolumn(df_merged):
-    df_merged['name'] = df_merged['name'].apply(capitalize)
-    df_merged['lastName'] = df_merged['lastName'].apply(capitalize)
-    return df_merged
-
-
-def df_columns(df_merged):
-    columns = ['name', 'worth_amount_(BUSD)', 'country', 'company_sector', 'company_name', 'age']
-    df_cleaned = df_merged[columns]
-    return df_cleaned
-
-
-def sort_values(df_cleaned):
-    df_cleaned = df_cleaned.sort_values(by='worth_amount_(BUSD)', ascending=False)
-    return df_cleaned
-
-def resetindex(df_cleaned):
-    df_cleaned.reset_index(drop=True, inplace=True)
-    return df_cleaned
-
-def save_to_parquet(df_cleaned):
-    df_cleaned.to_parquet(f'../data/processed/cleaned_data.parquet')
-    return df_cleaned
 
 
