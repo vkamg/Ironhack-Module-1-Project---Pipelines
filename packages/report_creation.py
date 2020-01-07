@@ -15,8 +15,8 @@ def plot1_bar_x(label, BUSD, country):
     plt.ylabel('Billions of USD', fontsize=12)
     plt.xticks(index, label, fontsize=10, rotation=0)
     plt.title(f'The 5 richest people in {country} according to Forbes List (2018)', fontsize=20)
-    plt.savefig(f'../data/results/5richest.png')
-    return f'../data/results/5richest.png'
+    plt.savefig(f'data/results/5richest.png')
+    return f'data/results/5richest.png'
 
 def country_gdp(dataframe, country):
     filter_country = dataframe['country'] == country
@@ -35,8 +35,8 @@ def plot2_bar_x(label, BUSD, country):
     plt.xticks(index, label, fontsize=12, rotation=0)
     country = label[0]
     plt.title(f'{country} compared to Average GDP (2018)', fontsize=16)
-    plt.savefig(f'../data/results/gdpcountry.png')
-    return f'../data/results/gdpcountry.png'
+    plt.savefig(f'data/results/gdpcountry.png')
+    return f'data/results/gdpcountry.png'
 
 def gdp_per_capita(dataframe, country):
     filter_country = dataframe['country'] == country
@@ -53,12 +53,11 @@ def plot3_bar_x(label, BUSD, country):
     plt.bar(index, BUSD)
     plt.ylabel('USD', fontsize=12)
     plt.xticks(index, label, fontsize=12, rotation=0)
-    country = label[0]
     plt.title(f'{country} compared to Average GDP per capita (2018)', fontsize=16)
-    plt.savefig(f'../data/results/gdppercapita.png')
-    return f'../data/results/gdppercapita.png'
+    plt.savefig(f'data/results/gdppercapita.png')
+    return f'data/results/gdppercapita.png'
 
-def create_pdf(plot1, plot2, plot3):
+def create_pdf(plot1, plot2, plot3, country):
     pdf = FPDF(orientation='P', unit='mm', format='A4')
     pdf.add_page()
     pdf.set_font("Arial", size=20)
@@ -68,7 +67,7 @@ def create_pdf(plot1, plot2, plot3):
     for image in images:
         pdf.image(image, w=pdf.w/1, h=pdf.h/3.5)
         pdf.ln(0.15)
-    pdf.output(f'../data/results/report.pdf')
+    pdf.output(f'data/results/report_{country}.pdf')
     return "PDF successfully created. You can find the report in the results folder"
 
 
@@ -85,5 +84,5 @@ def analysis(dataframe, country):
     BUSD3 = gdp_per_capita(dataframe, country)
     label3 = [f'{country} GDP per capita', 'Average GDP per capita']
     gdp_percapita_plot = plot3_bar_x(label3, BUSD3, country)
-    create_pdf(richest_people_plot, gdp_country_plot, gdp_percapita_plot)
-    return "PDF successfully created. You can find the report in the results folder"
+    create_pdf(richest_people_plot, gdp_country_plot, gdp_percapita_plot, country)
+    print("PDF successfully created. You can find the report in the results folder")

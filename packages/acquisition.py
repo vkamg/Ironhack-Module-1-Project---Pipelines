@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 def create_engine_db(sqlitedb_path):
-    engine = create_engine(f'sqlite:///{sqlitedb_path}')
+    engine = create_engine(f'sqlite://{sqlitedb_path}')
     return engine
 
 
@@ -25,9 +25,9 @@ def merge_tables(df_business_info, df_personal_info, df_rank_info):
 
 def create_dataset(sqlitedb_path):
     print("Charging dataset...")
-    engine = create_engine_db(sqlitedb_path)
-    df_business_info = read_business_info(engine)
-    df_personal_info = read_personal_info(engine)
-    df_rank_info = read_rank_info(engine)
-    df_merged = merge_tables(df_business_info, df_personal_info, df_rank_info)
+    engine_generated = create_engine_db(sqlitedb_path)
+    df_business = read_business_info(engine_generated)
+    df_personal = read_personal_info(engine_generated)
+    df_rank = read_rank_info(engine_generated)
+    df_merged = merge_tables(df_business, df_personal, df_rank)
     return df_merged
