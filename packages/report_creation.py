@@ -1,7 +1,7 @@
-import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from fpdf import FPDF
+
 
 def richest_people(dataframe, country):
     filter_country = dataframe['country'] == country
@@ -73,7 +73,7 @@ def create_pdf(plot1, plot2, plot3, country):
 
 
 def analysis(dataframe, country):
-    print("Generating plots and report...This may take a while ")
+    print("Generating plots and report...This may take a while")
     plot1 = richest_people(dataframe, country)
     label1 = plot1['name']
     BUSD1 = plot1['worth_amount_(BUSD)']
