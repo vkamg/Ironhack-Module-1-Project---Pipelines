@@ -1,7 +1,14 @@
 import pandas as pd
 
-def import_newdata(url):
-    gdp_data = pd.read_html(url)
+
+
+
+
+
+
+
+def import_newdata(url2):
+    gdp_data = pd.read_html(url2)
     gdp_dataset = gdp_data[1]
     return gdp_dataset
 
