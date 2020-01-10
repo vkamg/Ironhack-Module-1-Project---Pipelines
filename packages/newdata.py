@@ -13,7 +13,7 @@ def merge_countrydata(df_forbeslist, df_countrydata):
 def clean_countrydata(df_country):
     df_country['country'] = df_country['country_y']
     df_country['age'] = df_country['age_x']
-    columns = ['name', 'worth_amount_(BUSD)', 'country', 'company_sector', 'company_name', 'age']
+    columns = ['name', 'worth_amount_(BUSD)', 'country', 'age', 'gender', 'company_sector', 'company_name']
     df_country_clean = df_country[columns]
     return df_country_clean
 
