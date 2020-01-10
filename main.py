@@ -9,7 +9,7 @@ from packages.report_creation import analysis
 def main(country):
     data = create_dataset('/data/raw/veronicamg.db')
     data_cleaned = cleaning_dataset(data)
-    data_imported = import_data(data_cleaned,'http://statisticstimes.com/economy/gdp-indicators-2018.php')
+    data_imported = import_data(data_cleaned, 'https://www.forbes.com/ajax/list/data?year=2018&uri=billionaires&type=person', 'http://statisticstimes.com/economy/gdp-indicators-2018.php')
     analysis(data_imported, country)
 
 if __name__ == "__main__":
