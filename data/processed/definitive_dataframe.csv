@@ -1,0 +1,2021 @@
+,name,gender,age,worth_amount_(BUSD),country,company_sector,company_name,GDP_per_capita_USD
+0,Jeff Bezos,M,54.0,112.0,United States,Technology,Amazon,62641
+1,Bill Gates,M,62.0,90.0,United States,Technology,Microsoft,62641
+2,Warren Buffett,M,87.0,84.0,United States,Finance and Investments,Berkshire Hathaway,62641
+3,Mark Zuckerberg,M,33.0,71.0,United States,Technology,Facebook,62641
+4,Charles Koch,M,82.0,60.0,United States,Diversified,Koch Industries,62641
+5,David Koch,M,78.0,60.0,United States,Diversified,Koch Industries,62641
+6,Larry Ellison,M,73.0,58.5,United States,Technology,software,62641
+7,Michael Bloomberg,M,76.0,50.0,United States,Media & Entertainment,Bloomberg LP,62641
+8,Larry Page,M,45.0,48.8,United States,Technology,Google,62641
+9,Sergey Brin,M,44.0,47.5,United States,Technology,Google,62641
+10,Jim Walton,M,70.0,46.4,United States,Fashion & Retail,Walmart,62641
+11,Alice Walton,F,68.0,46.0,United States,Fashion & Retail,Walmart,62641
+12,Sheldon Adelson,M,84.0,38.5,United States,Gambling & Casinos,casinos,62641
+13,Steve Ballmer,M,62.0,38.4,United States,Technology,Microsoft,62641
+14,Phil Knight,M,80.0,29.6,United States,Fashion & Retail,Nike,62641
+15,Jacqueline Mars,F,78.0,23.6,United States,Food and Beverage,"candy, pet food",62641
+16,John Mars,M,82.0,23.6,United States,Food and Beverage,"candy, pet food",62641
+17,Michael Dell,M,53.0,22.7,United States,Technology,Dell computers,62641
+18,Paul Allen,M,65.0,21.7,United States,Technology,"Microsoft, investments",62641
+19,Thomas Peterffy,M,73.0,20.3,United States,Finance and Investments,discount brokerage,62641
+20,Len Blavatnik,M,61.0,20.2,United States,Diversified,diversified,62641
+21,James Simons,M,80.0,20.0,United States,Finance and Investments,hedge funds,62641
+22,Elon Musk,M,46.0,19.9,United States,Automotive,Tesla Motors,62641
+23,Laurene Powell Jobs,F,54.0,18.8,United States,Philanthropy/NGO,"Apple, Disney",62641
+24,Ray Dalio,M,68.0,17.7,United States,Finance and Investments,hedge funds,62641
+25,Carl Icahn,M,82.0,16.8,United States,Finance and Investments,investments,62641
+26,Donald Bren,M,86.0,16.3,United States,Real Estate,real estate,62641
+27,Abigail Johnson,F,56.0,15.9,United States,Finance and Investments,money management,62641
+28,Lukas Walton,M,30.0,15.9,United States,Fashion & Retail,Walmart,62641
+29,Rupert Murdoch,M,87.0,15.0,United States,Media & Entertainment,"newspapers, TV network",62641
+30,Harold Hamm,M,72.0,14.1,United States,Energy,oil & gas,62641
+31,Steve Cohen,M,62.0,14.0,United States,Finance and Investments,hedge funds,62641
+32,Dustin Moskovitz,M,33.0,14.0,United States,Technology,Facebook,62641
+33,Charles Ergen,M,65.0,13.4,United States,Media & Entertainment,satellite TV,62641
+34,Eric Schmidt,M,63.0,13.4,United States,Technology,Google,62641
+35,Philip Anschutz,M,78.0,13.0,United States,Finance and Investments,investments,62641
+36,Jim Kennedy,M,70.0,13.0,United States,Media & Entertainment,media,62641
+37,Blair Parry-Okeden,F,68.0,13.0,United States,Media & Entertainment,media,62641
+38,Leonard Lauder,M,81.0,12.9,United States,Fashion & Retail,Estee Lauder,62641
+39,Stephen Schwarzman,M,71.0,12.6,United States,Finance and Investments,investments,62641
+40,Donald Newhouse,M,88.0,12.3,United States,Media & Entertainment,media,62641
+41,Andrew Beal,M,65.0,11.6,United States,Finance and Investments,"banks, real estate",62641
+42,"John Menard, Jr.",M,78.0,11.5,United States,Fashion & Retail,home improvement stores,62641
+43,David Tepper,M,60.0,11.0,United States,Finance and Investments,hedge funds,62641
+44,Pierre Omidyar,M,51.0,10.5,United States,Technology,eBay,62641
+45,Ronald Perelman,M,75.0,9.8,United States,Finance and Investments,leveraged buyouts,62641
+46,Micky Arison,M,68.0,9.7,United States,Service,Carnival Cruises,62641
+47,"Thomas Frist, Jr.",M,79.0,9.6,United States,Healthcare,health care,62641
+48,Charles Schwab,M,80.0,9.4,United States,Finance and Investments,discount brokerage,62641
+49,"Herbert Kohler, Jr.",M,79.0,9.3,United States,Manufacturing,plumbing fixtures,62641
+50,Jan Koum,M,42.0,9.1,United States,Technology,WhatsApp,62641
+51,James Goodnight,M,75.0,9.0,United States,Technology,software,62641
+52,Ken Griffin,M,49.0,9.0,United States,Finance and Investments,hedge funds,62641
+53,James Chambers,M,61.0,8.7,United States,Media & Entertainment,media,62641
+54,Katharine Rayner,F,73.0,8.7,United States,Media & Entertainment,media,62641
+55,Margaretta Taylor,F,76.0,8.7,United States,Media & Entertainment,media,62641
+56,Gordon Moore,M,89.0,8.5,United States,Technology,Intel,62641
+57,Stanley Kroenke,M,70.0,8.3,United States,Sports,"sports, real estate",62641
+58,John Malone,M,77.0,8.1,United States,Media & Entertainment,cable television,62641
+59,Carl Cook,M,55.0,8.0,United States,Healthcare,medical devices,62641
+60,David Geffen,M,75.0,8.0,United States,Media & Entertainment,"movies, record labels",62641
+61,George Soros,M,87.0,8.0,United States,Finance and Investments,hedge funds,62641
+62,David Duffield,M,77.0,7.8,United States,Technology,business software,62641
+63,George Kaiser,M,75.0,7.8,United States,Energy,"oil & gas, banking",62641
+64,Patrick Soon-Shiong,M,65.0,7.8,United States,Healthcare,pharmaceuticals,62641
+65,Stephen Ross,M,78.0,7.6,United States,Real Estate,real estate,62641
+66,Eli Broad,M,85.0,7.3,United States,Finance and Investments,investments,62641
+67,Sun Hongbin,M,55.0,7.3,United States,Real Estate,real estate,62641
+68,Christy Walton,F,69.0,7.3,United States,Fashion & Retail,Walmart,62641
+69,Shahid Khan,M,67.0,7.2,United States,Automotive,auto parts,62641
+70,John Doerr,M,66.0,7.1,United States,Technology,venture capital,62641
+71,David Green,M,76.0,6.8,United States,Fashion & Retail,retail,62641
+72,Hank & Doug Meijer,M,,6.8,United States,Fashion & Retail,supermarkets,62641
+73,Brian Acton,M,46.0,6.6,United States,Technology,WhatsApp,62641
+74,Ann Walton Kroenke,F,69.0,6.6,United States,Fashion & Retail,Walmart,62641
+75,Leon Black,M,66.0,6.5,United States,Finance and Investments,private equity,62641
+76,John Paulson,M,62.0,6.5,United States,Finance and Investments,hedge funds,62641
+77,David Shaw,M,67.0,6.4,United States,Finance and Investments,hedge funds,62641
+78,John A. Sobrato,M,79.0,6.4,United States,Real Estate,real estate,62641
+79,Daniel Gilbert,M,56.0,6.3,United States,Finance and Investments,Quicken Loans,62641
+80,Richard Kinder,M,73.0,6.2,United States,Energy,pipelines,62641
+81,Robert Kraft,M,77.0,6.2,United States,Sports,New England Patriots,62641
+82,Ralph Lauren,M,78.0,6.2,United States,Fashion & Retail,Ralph Lauren,62641
+83,Les Wexner,M,80.0,6.1,United States,Fashion & Retail,retail,62641
+84,Marijke Mars,F,53.0,5.9,United States,Food and Beverage,"candy, pet food",62641
+85,Pamela Mars,F,57.0,5.9,United States,Food and Beverage,"candy, pet food",62641
+86,Valerie Mars,F,59.0,5.9,United States,Food and Beverage,"candy, pet food",62641
+87,Victoria Mars,F,61.0,5.9,United States,Food and Beverage,"candy, pet food",62641
+88,Nancy Walton Laurie,F,67.0,5.8,United States,Fashion & Retail,Walmart,62641
+89,Tom & Judy Love,,81.0,5.8,United States,Fashion & Retail,retail & gas stations,62641
+90,Robert Rowling,M,64.0,5.8,United States,Energy,investments,62641
+91,Dennis Washington,M,83.0,5.8,United States,Logistics,"construction, mining",62641
+92,David Sun,M,66.0,5.7,United States,Technology,computer hardware,62641
+93,John Tu,M,76.0,5.7,United States,Technology,computer hardware,62641
+94,Charles Johnson,M,85.0,5.6,United States,Finance and Investments,money management,62641
+95,Jerry Jones,M,75.0,5.6,United States,Sports,Dallas Cowboys,62641
+96,Steven Rales,M,67.0,5.6,United States,Manufacturing,manufacturing,62641
+97,Dannine Avara,F,54.0,5.5,United States,Energy,pipelines,62641
+98,Scott Duncan,M,34.0,5.5,United States,Energy,pipelines,62641
+99,Milane Frantz,F,48.0,5.5,United States,Energy,pipelines,62641
+100,Diane Hendricks,F,71.0,5.5,United States,Construction & Engineering,roofing,62641
+101,Gabe Newell,M,55.0,5.5,United States,Gambling & Casinos,videogames,62641
+102,Randa Williams,F,56.0,5.5,United States,Energy,pipelines,62641
+103,George Roberts,M,74.0,5.4,United States,Finance and Investments,private equity,62641
+104,"Edward Roski, Jr.",M,79.0,5.4,United States,Real Estate,real estate,62641
+105,Jim Davis,M,75.0,5.3,United States,Manufacturing,New Balance,62641
+106,Jim Davis,M,75.0,5.3,United States,Manufacturing,New Balance,62641
+107,Jim Davis,M,58.0,2.8,United States,Service,staffing & recruiting,62641
+108,Jim Davis,M,58.0,2.8,United States,Service,staffing & recruiting,62641
+109,David Filo,M,52.0,5.3,United States,Technology,Yahoo,62641
+110,Henry Kravis,M,74.0,5.3,United States,Finance and Investments,private equity,62641
+111,Israel Englander,M,69.0,5.2,United States,Finance and Investments,hedge funds,62641
+112,Marian Ilitch,F,85.0,5.2,United States,Food and Beverage,"pizza, sports team",62641
+113,Bruce Kovner,M,73.0,5.2,United States,Finance and Investments,hedge funds,62641
+114,George Lucas,M,74.0,5.2,United States,Media & Entertainment,Star Wars,62641
+115,"Robert Rich, Jr.",M,77.0,5.2,United States,Food and Beverage,frozen foods,62641
+116,Bernard Marcus,M,89.0,5.1,United States,Fashion & Retail,Home Depot,62641
+117,Ronda Stryker,F,64.0,5.1,United States,Healthcare,medical equipment,62641
+118,Martha Ingram,F,82.0,5.0,United States,Media & Entertainment,"book distribution, transportation",62641
+119,Karen Pritzker,F,60.0,5.0,United States,Service,"hotels, investments",62641
+120,Robert Bass,M,70.0,4.9,United States,Energy,"oil, investments",62641
+121,Marc Benioff,M,53.0,4.9,United States,Technology,business software,62641
+122,Charles Dolan,M,91.0,4.9,United States,Media & Entertainment,cable television,62641
+123,Ray Lee Hunt,M,75.0,4.9,United States,Energy,"oil, real estate",62641
+124,John Overdeck,M,48.0,4.9,United States,Finance and Investments,hedge funds,62641
+125,Sumner Redstone,M,95.0,4.9,United States,Media & Entertainment,media,62641
+126,Reinhold Schmieding,M,63.0,4.9,United States,Healthcare,medical devices,62641
+127,David Siegel,M,56.0,4.9,United States,Finance and Investments,hedge funds,62641
+128,Sam Zell,M,76.0,4.9,United States,Real Estate,"real estate, private equity",62641
+129,Bubba Cathy,M,64.0,4.8,United States,Food and Beverage,Chick-fil-A,62641
+130,Dan Cathy,M,65.0,4.8,United States,Food and Beverage,Chick-fil-A,62641
+131,"Rupert Johnson, Jr.",M,77.0,4.8,United States,Finance and Investments,money management,62641
+132,Travis Kalanick,M,41.0,4.8,United States,Technology,Uber,62641
+133,Trevor Rees-Jones,M,66.0,4.8,United States,Energy,oil & gas,62641
+134,Daniel Ziff,M,46.0,4.8,United States,Finance and Investments,investments,62641
+135,Dirk Ziff,M,54.0,4.8,United States,Finance and Investments,investments,62641
+136,Robert Ziff,M,51.0,4.8,United States,Finance and Investments,investments,62641
+137,Stanley Druckenmiller,M,65.0,4.7,United States,Finance and Investments,hedge funds,62641
+138,Ted Lerner,M,92.0,4.7,United States,Real Estate,real estate,62641
+139,Gwendolyn Sontheim Meyer,F,56.0,4.7,United States,Food and Beverage,Cargill,62641
+140,J. Christopher Reyes,M,64.0,4.7,United States,Food and Beverage,food distribution,62641
+141,Jude Reyes,M,62.0,4.7,United States,Food and Beverage,food distribution,62641
+142,Sheldon Solow,M,89.0,4.7,United States,Real Estate,real estate,62641
+143,"Jeremy Jacobs, Sr.",M,78.0,4.6,United States,Service,concessions,62641
+144,Chris Larsen,M,58.0,4.6,United States,Finance and Investments,cryptocurrency,62641
+145,John Sall,M,70.0,4.5,United States,Technology,software,62641
+146,Leonard Stern,M,80.0,4.5,United States,Real Estate,real estate,62641
+147,Tamara Gustavson,F,56.0,4.4,United States,Service,self storage,62641
+148,John Morris,M,70.0,4.4,United States,Fashion & Retail,sporting goods retail,62641
+149,Russ Weiner,M,48.0,4.4,United States,Food and Beverage,energy drinks,62641
+150,Rocco Commisso,M,68.0,4.3,United States,Telecom,telecom,62641
+151,Tilman Fertitta,M,60.0,4.3,United States,Food and Beverage,"Houston Rockets, entertainment",62641
+152,Terrence Pegula,M,67.0,4.3,United States,Energy,natural gas,62641
+153,Robert Pera,M,40.0,4.3,United States,Technology,wireless networking gear,62641
+154,Gary Rollins,M,73.0,4.3,United States,Service,pest control,62641
+155,Randall Rollins,M,86.0,4.3,United States,Service,pest control,62641
+156,Alejandro Santo Domingo,M,41.0,4.3,United States,Food and Beverage,beer,62641
+157,Andres Santo Domingo,M,40.0,4.3,United States,Food and Beverage,beer,62641
+158,Roger Wang,M,69.0,4.3,United States,Fashion & Retail,retail,62641
+159,Stephen Bisciotti,M,58.0,4.2,United States,Sports,"staffing, Baltimore Ravens",62641
+160,Archie Aldis Emmerson,M,89.0,4.2,United States,Manufacturing,"timberland, lumber mills",62641
+161,Marianne Liebmann,F,64.0,4.2,United States,Food and Beverage,Cargill,62641
+162,Bobby Murphy,M,28.0,4.2,United States,Technology,Snapchat,62641
+163,Igor Olenicoff,M,75.0,4.2,United States,Real Estate,real estate,62641
+164,"Walter Scott, Jr.",M,87.0,4.2,United States,Energy,"utilities, telecom",62641
+165,"Clemmie Spangler, Jr.",M,86.0,4.2,United States,Finance and Investments,investments,62641
+166,Arthur Blank,M,75.0,4.1,United States,Sports,Home Depot,62641
+167,James Jannard,M,69.0,4.1,United States,Fashion & Retail,sunglasses,62641
+168,Isaac Perlmutter,M,75.0,4.1,United States,Media & Entertainment,Marvel comics,62641
+169,"H. Ross Perot, Sr.",M,87.0,4.1,United States,Diversified,"computer services, real estate",62641
+170,Thomas Pritzker,M,68.0,4.1,United States,Finance and Investments,"hotels, investments",62641
+171,"Julian Robertson, Jr.",M,85.0,4.1,United States,Finance and Investments,hedge funds,62641
+172,Evan Spiegel,M,27.0,4.1,United States,Technology,Snapchat,62641
+173,Kelcy Warren,M,62.0,4.1,United States,Energy,pipelines,62641
+174,Ben Ashkenazy,M,48.0,4.0,United States,Real Estate,real estate,62641
+175,Dagmar Dolby,F,76.0,4.0,United States,Technology,Dolby Laboratories,62641
+176,Dan Friedkin,M,53.0,4.0,United States,Automotive,Toyota dealerships,62641
+177,Ronald Lauder,M,74.0,4.0,United States,Fashion & Retail,Estee Lauder,62641
+178,Michael Moritz,M,63.0,4.0,United States,Technology,venture capital,62641
+179,Richard Schulze,M,77.0,4.0,United States,Fashion & Retail,Best Buy,62641
+180,Jeff Sutton,M,58.0,4.0,United States,Real Estate,real estate,62641
+181,Rick Caruso,M,59.0,3.9,United States,Real Estate,real estate,62641
+182,Tom Gores,M,53.0,3.9,United States,Finance and Investments,private equity,62641
+183,Jerry Speyer,M,78.0,3.9,United States,Real Estate,real estate,62641
+184,Harry Stine,M,76.0,3.9,United States,Food and Beverage,agriculture,62641
+185,Steven Udvar-Hazy,M,72.0,3.9,United States,Service,aircraft leasing,62641
+186,Nathan Blecharczyk,M,34.0,3.8,United States,Technology,Airbnb,62641
+187,Brian Chesky,M,35.0,3.8,United States,Technology,Airbnb,62641
+188,Joe Gebbia,M,35.0,3.8,United States,Technology,Airbnb,62641
+189,Jeff Greene,M,63.0,3.8,United States,Real Estate,"real estate, investments",62641
+190,Ira Rennert,M,84.0,3.8,United States,Finance and Investments,investments,62641
+191,Henry Samueli,M,63.0,3.8,United States,Technology,semiconductors,62641
+192,Nick Caporella,M,82.0,3.7,United States,Food and Beverage,beverages,62641
+193,Mark Cuban,M,59.0,3.7,United States,Media & Entertainment,online media,62641
+194,Ken Fisher,M,67.0,3.7,United States,Finance and Investments,money management,62641
+195,H. Fisk Johnson,M,60.0,3.7,United States,Manufacturing,cleaning products,62641
+196,Imogene Powers Johnson,F,87.0,3.7,United States,Manufacturing,cleaning products,62641
+197,S. Curtis Johnson,M,63.0,3.7,United States,Manufacturing,cleaning products,62641
+198,Helen Johnson-Leipold,F,61.0,3.7,United States,Manufacturing,cleaning products,62641
+199,Winifred Johnson-Marquart,F,59.0,3.7,United States,Manufacturing,cleaning products,62641
+200,Michael Milken,M,71.0,3.7,United States,Finance and Investments,investments,62641
+201,Jeffery Hildebrand,M,59.0,3.6,United States,Energy,oil,62641
+202,Elizabeth Johnson,F,55.0,3.6,United States,Finance and Investments,money management,62641
+203,Peter Kellogg,M,75.0,3.6,United States,Finance and Investments,investments,62641
+204,Rodger Riney,M,72.0,3.6,United States,Finance and Investments,discount brokerage,62641
+205,Steven Spielberg,M,71.0,3.6,United States,Media & Entertainment,Movies,62641
+206,Anita Zucker,F,66.0,3.6,United States,Manufacturing,chemicals,62641
+207,Judy Faulkner,F,74.0,3.5,United States,Technology,health IT,62641
+208,Joshua Harris,M,53.0,3.5,United States,Finance and Investments,private equity,62641
+209,Douglas Leone,M,60.0,3.5,United States,Finance and Investments,venture capital,62641
+210,Anthony Pritzker,M,57.0,3.5,United States,Service,"hotels, investments",62641
+211,Mitchell Rales,M,61.0,3.5,United States,Manufacturing,"manufacturing, investments",62641
+212,Donald Sterling,M,84.0,3.5,United States,Real Estate,real estate,62641
+213,Riley Bechtel,M,66.0,3.4,United States,Construction & Engineering,"engineering, construction",62641
+214,"Stephen Bechtel, Jr.",M,93.0,3.4,United States,Construction & Engineering,"engineering, construction",62641
+215,Jimmy Haslam,M,64.0,3.4,United States,Fashion & Retail,"gas stations, retail",62641
+216,Min Kao,M,69.0,3.4,United States,Technology,navigation equipment,62641
+217,Steve Wynn,M,76.0,3.4,United States,Gambling & Casinos,"casinos, hotels",62641
+218,John Arnold,M,44.0,3.3,United States,Finance and Investments,hedge funds,62641
+219,Sid Bass,M,76.0,3.3,United States,Energy,"oil, investments",62641
+220,John Brown,M,83.0,3.3,United States,Healthcare,medical equipment,62641
+221,Charles Cohen,M,66.0,3.3,United States,Real Estate,real estate,62641
+222,Rakesh Gangwal,M,64.0,3.3,United States,Service,airline,62641
+223,Reid Hoffman,M,50.0,3.3,United States,Technology,LinkedIn,62641
+224,"Amos Hostetter, Jr.",M,81.0,3.3,United States,Media & Entertainment,cable television,62641
+225,George Lindemann,M,82.0,3.3,United States,Finance and Investments,investments,62641
+226,Mary Alice Dorrance Malone,F,68.0,3.3,United States,Food and Beverage,Campbell Soup,62641
+227,Pat Stryker,F,62.0,3.3,United States,Healthcare,medical equipment,62641
+228,Neil Bluhm,M,80.0,3.2,United States,Real Estate,real estate,62641
+229,Andrew & Peggy Cherng,,,3.2,United States,Food and Beverage,restaurants,62641
+230,Scott Cook,M,65.0,3.2,United States,Technology,software,62641
+231,Leon G. Cooperman,M,75.0,3.2,United States,Finance and Investments,hedge funds,62641
+232,Tom Golisano,M,76.0,3.2,United States,Service,payroll services,62641
+233,Daniel Loeb,M,56.0,3.2,United States,Finance and Investments,hedge funds,62641
+234,Daniel Och,M,57.0,3.2,United States,Finance and Investments,hedge funds,62641
+235,Marc Rowan,M,55.0,3.2,United States,Finance and Investments,private equity,62641
+236,Haim Saban,M,73.0,3.2,United States,Media & Entertainment,"TV network, investments",62641
+237,Lynn Schusterman,F,79.0,3.2,United States,Energy,"oil & gas, investments",62641
+238,Mark Shoen,M,67.0,3.2,United States,Automotive,U-Haul,62641
+239,Meg Whitman,F,61.0,3.2,United States,Technology,eBay,62641
+240,John Catsimatidis,M,69.0,3.1,United States,Energy,"oil, real estate",62641
+241,Do Won & Jin Sook Chang,,62.0,3.1,United States,Fashion & Retail,fashion retail,62641
+242,Barry Diller,M,76.0,3.1,United States,Media & Entertainment,online media,62641
+243,Jack Dorsey,M,41.0,3.1,United States,Technology,Twitter,62641
+244,Allan Goldman,M,75.0,3.1,United States,Real Estate,real estate,62641
+245,Jane Goldman,F,62.0,3.1,United States,Real Estate,real estate,62641
+246,Amy Goldman Fowler,F,64.0,3.1,United States,Real Estate,real estate,62641
+247,Diane Kemper,F,72.0,3.1,United States,Real Estate,real estate,62641
+248,James Leprino,M,80.0,3.1,United States,Food and Beverage,cheese,62641
+249,Richard Sands,M,67.0,3.1,United States,Food and Beverage,Food & Beverage,62641
+250,Donald Trump,M,72.0,3.1,United States,Real Estate,"television, real estate",62641
+251,Romesh T. Wadhwani,M,70.0,3.1,United States,Technology,software,62641
+252,Clifford Asness,M,51.0,3.0,United States,Finance and Investments,Investment Management,62641
+253,Tom Benson,M,90.0,3.0,United States,Sports,New Orleans Saints,62641
+254,Jim Breyer,M,56.0,3.0,United States,Technology,venture capital,62641
+255,Valentin Gapontsev,M,79.0,3.0,United States,Manufacturing,lasers,62641
+256,Johnelle Hunt,F,86.0,3.0,United States,Logistics,trucking,62641
+257,John Middleton,M,63.0,3.0,United States,Food and Beverage,tobacco,62641
+258,Jorge Perez,M,68.0,3.0,United States,Real Estate,real estate,62641
+259,Jean (Gigi) Pritzker,F,55.0,3.0,United States,Service,"hotels, investments",62641
+260,Michael Rubin,M,45.0,3.0,United States,Fashion & Retail,online retail,62641
+261,Robert Sands,M,60.0,3.0,United States,Food and Beverage,Food & Beverage,62641
+262,Don Vultaggio,M,66.0,3.0,United States,Food and Beverage,AriZona Beverages,62641
+263,Chuck Bundrant,M,76.0,2.9,United States,Food and Beverage,fishing,62641
+264,Gerald Ford,M,73.0,2.9,United States,Finance and Investments,banking,62641
+265,Joseph Grendys,M,56.0,2.9,United States,Food and Beverage,poultry processing,62641
+266,Randal Kirk,M,64.0,2.9,United States,Healthcare,pharmaceuticals,62641
+267,Jeff Rothschild,M,63.0,2.9,United States,Technology,Facebook,62641
+268,Thomas Siebel,M,65.0,2.9,United States,Technology,business software,62641
+269,Paul Singer,M,73.0,2.9,United States,Finance and Investments,hedge funds,62641
+270,Jon Stryker,M,60.0,2.9,United States,Healthcare,medical equipment,62641
+271,Vincent Viola,M,62.0,2.9,United States,Finance and Investments,electronic trading,62641
+272,"William Conway, Jr.",M,68.0,2.8,United States,Finance and Investments,private equity,62641
+273,Daniel D'Aniello,M,71.0,2.8,United States,Finance and Investments,private equity,62641
+274,Doris Fisher,F,86.0,2.8,United States,Fashion & Retail,Gap,62641
+275,John Fisher,M,57.0,2.8,United States,Fashion & Retail,Gap,62641
+276,Kieu Hoang,M,73.0,2.8,United States,Healthcare,medical products,62641
+277,H. Wayne Huizenga,M,80.0,2.8,United States,Finance and Investments,investments,62641
+278,Osman Kibar,M,47.0,2.8,United States,Healthcare,biotech,62641
+279,Penny Pritzker,F,59.0,2.8,United States,Finance and Investments,"hotels, investments",62641
+280,David Rubenstein,M,68.0,2.8,United States,Finance and Investments,private equity,62641
+281,Mark Walter,M,58.0,2.8,United States,Finance and Investments,finance,62641
+282,"William Wrigley, Jr.",M,54.0,2.8,United States,Food and Beverage,chewing gum,62641
+283,Mortimer Zuckerman,M,81.0,2.8,United States,Real Estate,"real estate, media",62641
+284,Ray Davis,M,76.0,2.7,United States,Energy,pipelines,62641
+285,Bennett Dorrance,M,72.0,2.7,United States,Food and Beverage,Campbell Soup,62641
+286,Don Hankey,M,75.0,2.7,United States,Finance and Investments,auto loans,62641
+287,Reed Hastings,M,57.0,2.7,United States,Media & Entertainment,Netflix,62641
+288,James Irsay,M,59.0,2.7,United States,Sports,Indianapolis Colts,62641
+289,Bob Parsons,M,67.0,2.7,United States,Technology,web hosting,62641
+290,Howard Schultz,M,64.0,2.7,United States,Food and Beverage,Starbucks,62641
+291,E. Joe Shoen,M,68.0,2.7,United States,Automotive,U-Haul,62641
+292,Ty Warner,M,73.0,2.7,United States,Real Estate,"real estate, plush toys",62641
+293,Oprah Winfrey,F,64.0,2.7,United States,Media & Entertainment,TV shows,62641
+294,David Bonderman,M,75.0,2.6,United States,Finance and Investments,private equity,62641
+295,Phillip Frost,M,81.0,2.6,United States,Healthcare,pharmaceuticals,62641
+296,B. Wayne Hughes,M,84.0,2.6,United States,Service,self storage,62641
+297,"Stephen Mandel, Jr.",M,62.0,2.6,United States,Finance and Investments,hedge funds,62641
+298,Sean Parker,M,38.0,2.6,United States,Technology,Facebook,62641
+299,Jay Paul,M,70.0,2.6,United States,Real Estate,real estate,62641
+300,Patrick Ryan,M,81.0,2.6,United States,Finance and Investments,insurance,62641
+301,Thomas Secunda,M,64.0,2.6,United States,Media & Entertainment,Bloomberg LP,62641
+302,Warren Stephens,M,61.0,2.6,United States,Finance and Investments,investment banking,62641
+303,Glen Taylor,M,77.0,2.6,United States,Service,printing,62641
+304,Jerry Yang,M,49.0,2.6,United States,Technology,Yahoo,62641
+305,Edward Bass,M,72.0,2.5,United States,Energy,"oil, investments",62641
+306,Lee Bass,M,62.0,2.5,United States,Energy,"oil, investments",62641
+307,Bert Beveridge,M,56.0,2.5,United States,Food and Beverage,vodka,62641
+308,George Bishop,M,80.0,2.5,United States,Energy,oil & gas,62641
+309,Norman Braman,M,85.0,2.5,United States,Automotive,"art, car dealerships",62641
+310,Kenneth Feld,M,69.0,2.5,United States,Media & Entertainment,"circus, live entertainment",62641
+311,Noam Gottesman,M,57.0,2.5,United States,Finance and Investments,hedge funds,62641
+312,Jonathan Gray,M,48.0,2.5,United States,Finance and Investments,investments,62641
+313,John Henry,M,68.0,2.5,United States,Sports,sports,62641
+314,Jane Lauder,F,45.0,2.5,United States,Fashion & Retail,cosmetics,62641
+315,Jeffrey Lorberbaum,M,63.0,2.5,United States,Manufacturing,flooring,62641
+316,Joe Mansueto,M,61.0,2.5,United States,Finance and Investments,investment research,62641
+317,C. Dean Metropoulos,M,72.0,2.5,United States,Food and Beverage,investments,62641
+318,Arturo Moreno,M,71.0,2.5,United States,Sports,"billboards, Anaheim Angels",62641
+319,Richard Peery,M,79.0,2.5,United States,Real Estate,real estate,62641
+320,Larry Robbins,M,48.0,2.5,United States,Finance and Investments,hedge funds,62641
+321,Charles Simonyi,M,69.0,2.5,United States,Technology,Microsoft,62641
+322,Mark Stevens,M,58.0,2.5,United States,Finance and Investments,venture capital,62641
+323,Peter Thiel,M,50.0,2.5,United States,Finance and Investments,"Facebook, Palantir",62641
+324,Elaine Wynn,F,76.0,2.5,United States,Gambling & Casinos,"casinos, hotels",62641
+325,Denise York,F,67.0,2.5,United States,Sports,San Francisco 49ers,62641
+326,David Zalik,M,44.0,2.5,United States,Technology,technology,62641
+327,George Argyros,M,81.0,2.4,United States,Real Estate,"real estate, investments",62641
+328,John Arrillaga,M,81.0,2.4,United States,Real Estate,real estate,62641
+329,Peter Buck,M,87.0,2.4,United States,Food and Beverage,Subway sandwich shops,62641
+330,Daniel Pritzker,M,58.0,2.4,United States,Service,"hotels, investments",62641
+331,John Pritzker,M,65.0,2.4,United States,Finance and Investments,"hotels, investments",62641
+332,Eric Smidt,M,58.0,2.4,United States,Fashion & Retail,hardware stores,62641
+333,Alexander Spanos,M,94.0,2.4,United States,Sports,"real estate, Los Angeles Chargers",62641
+334,David Gottesman,M,92.0,2.3,United States,Finance and Investments,investments,62641
+335,Bill Haslam,M,59.0,2.3,United States,Fashion & Retail,truck stops,62641
+336,W. Herbert Hunt,M,89.0,2.3,United States,Energy,oil,62641
+337,Bradley Jacobs,M,61.0,2.3,United States,Logistics,logistics,62641
+338,Brad Kelley,M,61.0,2.3,United States,Real Estate,tobacco,62641
+339,Vinod Khosla,M,63.0,2.3,United States,Technology,venture capital,62641
+340,Clayton Mathile,M,77.0,2.3,United States,Food and Beverage,pet food,62641
+341,J. Joe Ricketts,M,76.0,2.3,United States,Finance and Investments,TD Ameritrade,62641
+342,Dan Snyder,M,53.0,2.3,United States,Sports,Washington Redskins,62641
+343,John Tyson,M,64.0,2.3,United States,Food and Beverage,food processing,62641
+344,Ron Baron,M,75.0,2.2,United States,Finance and Investments,money management,62641
+345,Timothy Boyle,M,68.0,2.2,United States,Fashion & Retail,Columbia Sportswear,62641
+346,Lorenzo Fertitta,M,49.0,2.2,United States,Sports,"casinos, mixed martial arts",62641
+347,Stanley Hubbard,M,85.0,2.2,United States,Media & Entertainment,DirecTV,62641
+348,Thomas Lee,M,74.0,2.2,United States,Finance and Investments,private equity,62641
+349,Eric Lefkofsky,M,48.0,2.2,United States,Technology,Groupon,62641
+350,Phillip T. (Terry) Ragon,M,69.0,2.2,United States,Technology,health IT,62641
+351,Stewart Rahr,M,72.0,2.2,United States,Healthcare,drug distribution,62641
+352,T. Denny Sanford,M,82.0,2.2,United States,Finance and Investments,"banking, credit cards",62641
+353,Ted Turner,M,79.0,2.2,United States,Media & Entertainment,cable television,62641
+354,William Young,M,77.0,2.2,United States,Manufacturing,plastics,62641
+355,Leslie Alexander,M,74.0,2.1,United States,Sports,sports team,62641
+356,Todd Christopher,M,55.0,2.1,United States,Fashion & Retail,hair care products,62641
+357,Gordon Getty,M,84.0,2.1,United States,Energy,Getty Oil,62641
+358,Alec Gores,M,65.0,2.1,United States,Finance and Investments,private equity,62641
+359,Catherine Lozick,F,73.0,2.1,United States,Manufacturing,valve manufacturing,62641
+360,David Murdock,M,95.0,2.1,United States,Food and Beverage,"Dole, real estate",62641
+361,"H. Ross Perot, Jr.",M,59.0,2.1,United States,Real Estate,real estate,62641
+362,Tor Peterson,M,53.0,2.1,United States,Metals & Mining,commodities,62641
+363,Kavitark Ram Shriram,M,61.0,2.1,United States,Technology,"venture capital, Google",62641
+364,David Walentas,M,79.0,2.1,United States,Real Estate,real estate,62641
+365,Ronald Wanek,M,77.0,2.1,United States,Manufacturing,furniture,62641
+366,S. Daniel Abraham,M,93.0,2.0,United States,Food and Beverage,Slim-Fast,62641
+367,Ron Burkle,M,65.0,2.0,United States,Finance and Investments,"supermarkets, investments",62641
+368,James Clark,M,74.0,2.0,United States,Technology,"Netscape, investments",62641
+369,Christopher Cline,M,59.0,2.0,United States,Energy,coal,62641
+370,Alexandra Daitch,F,55.0,2.0,United States,Food and Beverage,Cargill,62641
+371,Glenn Dubin,M,61.0,2.0,United States,Finance and Investments,hedge funds,62641
+372,Robert Duggan,M,74.0,2.0,United States,Healthcare,pharmaceuticals,62641
+373,Thomas Hagen,M,82.0,2.0,United States,Finance and Investments,insurance,62641
+374,Bruce Karsh,M,62.0,2.0,United States,Finance and Investments,private equity,62641
+375,Henry Laufer,M,72.0,2.0,United States,Finance and Investments,hedge funds,62641
+376,Li Ge,M,51.0,2.0,United States,Healthcare,biotech,62641
+377,Jeffrey Lurie,M,66.0,2.0,United States,Sports,Philadelphia Eagles,62641
+378,Howard Marks,M,72.0,2.0,United States,Finance and Investments,private equity,62641
+379,Jonathan Nelson,M,62.0,2.0,United States,Finance and Investments,private equity,62641
+380,Peter Peterson,M,92.0,2.0,United States,Finance and Investments,investments,62641
+381,Antony Ressler,M,56.0,2.0,United States,Finance and Investments,finance,62641
+382,Rodney Sacks,M,68.0,2.0,United States,Food and Beverage,energy drinks,62641
+383,Brian Sheth,M,42.0,2.0,United States,Finance and Investments,investments,62641
+384,Lucy Stitzer,F,58.0,2.0,United States,Food and Beverage,Cargill,62641
+385,Katherine Tanner,F,62.0,2.0,United States,Food and Beverage,Cargill,62641
+386,Amy Wyss,F,47.0,2.0,United States,Healthcare,medical equipment,62641
+387,Jon Yarbrough,M,61.0,2.0,United States,Gambling & Casinos,video games,62641
+388,Charles Zegar,M,70.0,2.0,United States,Media & Entertainment,Bloomberg LP,62641
+389,James Dinan,M,59.0,1.9,United States,Finance and Investments,hedge funds,62641
+390,Bill Gross,M,74.0,1.9,United States,Finance and Investments,investments,62641
+391,Jeffrey Gundlach,M,59.0,1.9,United States,Finance and Investments,investments,62641
+392,Jennifer Pritzker,F,67.0,1.9,United States,Service,"hotels, investments",62641
+393,Evan Williams,M,46.0,1.9,United States,Technology,Twitter,62641
+394,Nicolas Berggruen,M,56.0,1.8,United States,Finance and Investments,investments,62641
+395,James France,M,73.0,1.8,United States,Sports,"Nascar, racing",62641
+396,Stewart Horejsi,M,80.0,1.8,United States,Finance and Investments,Berkshire Hathaway,62641
+397,Hamilton James,M,66.0,1.8,United States,Finance and Investments,investments,62641
+398,John Kapoor,M,74.0,1.8,United States,Healthcare,healthcare,62641
+399,William Lauder,M,58.0,1.8,United States,Fashion & Retail,Estee Lauder,62641
+400,Linda Pritzker,F,64.0,1.8,United States,Service,"hotels, investments",62641
+401,Brian Roberts,M,58.0,1.8,United States,Service,Comcast,62641
+402,William Stone,M,63.0,1.8,United States,Technology,software,62641
+403,"Herbert Allen, Jr.",M,78.0,1.7,United States,Finance and Investments,investment banking,62641
+404,John Farber,M,92.0,1.7,United States,Manufacturing,chemicals,62641
+405,Robert Fisher,M,64.0,1.7,United States,Service,Gap,62641
+406,William Fisher,M,61.0,1.7,United States,Fashion & Retail,Gap,62641
+407,Timothy Headington,M,68.0,1.7,United States,Energy,"oil & gas, investments",62641
+408,William Koch,M,78.0,1.7,United States,Energy,"oil, investments",62641
+409,Marc Lasry,M,57.0,1.7,United States,Finance and Investments,hedge funds,62641
+410,David Lichtenstein,M,56.0,1.7,United States,Real Estate,real estate,62641
+411,Gary Michelson,M,69.0,1.7,United States,Healthcare,medical patents,62641
+412,Jerry Moyes,M,74.0,1.7,United States,Logistics,Transportation,62641
+413,Charles Munger,M,94.0,1.7,United States,Finance and Investments,Berkshire Hathaway,62641
+414,Nelson Peltz,M,76.0,1.7,United States,Finance and Investments,investments,62641
+415,Roger Penske,M,81.0,1.7,United States,Automotive,cars,62641
+416,Henry Swieca,M,61.0,1.7,United States,Finance and Investments,hedge funds,62641
+417,Todd Wagner,M,57.0,1.7,United States,Media & Entertainment,online media,62641
+418,Louis Bacon,M,61.0,1.6,United States,Finance and Investments,hedge funds,62641
+419,William Berkley,M,71.0,1.6,United States,Finance and Investments,insurance,62641
+420,Aneel Bhusri,M,52.0,1.6,United States,Technology,business software,62641
+421,O. Francis Biondi,M,53.0,1.6,United States,Finance and Investments,hedge funds,62641
+422,David Booth,M,72.0,1.6,United States,Finance and Investments,mutual funds,62641
+423,Steve Conine,M,45.0,1.6,United States,Technology,online retail,62641
+424,Stephen Feinberg,M,58.0,1.6,United States,Finance and Investments,private equity,62641
+425,Paul Foster,M,60.0,1.6,United States,Energy,oil refining,62641
+426,Mario Gabelli,M,76.0,1.6,United States,Finance and Investments,money management,62641
+427,Christopher Goldsbury,M,75.0,1.6,United States,Food and Beverage,salsa,62641
+428,Brian Higgins,M,53.0,1.6,United States,Finance and Investments,hedge funds,62641
+429,Michael Jordan,M,55.0,1.6,United States,Sports,"Charlotte Hornets, endorsements",62641
+430,Edward Lampert,M,55.0,1.6,United States,Finance and Investments,Sears,62641
+431,Thai Lee,F,59.0,1.6,United States,Technology,IT provider,62641
+432,Manuel Moroun,M,91.0,1.6,United States,Logistics,transportation,62641
+433,Sheryl Sandberg,F,48.0,1.6,United States,Technology,Facebook,62641
+434,Niraj Shah,M,44.0,1.6,United States,Technology,online retail,62641
+435,Ben Silbermann,M,34.0,1.6,United States,Technology,Pinterest,62641
+436,Thomas Steyer,M,60.0,1.6,United States,Finance and Investments,hedge funds,62641
+437,Charlotte Colket Weber,F,75.0,1.6,United States,Food and Beverage,Campbell Soup,62641
+438,Bill Alfond,M,70.0,1.5,United States,Fashion & Retail,shoes,62641
+439,Susan Alfond,F,72.0,1.5,United States,Fashion & Retail,shoes,62641
+440,Ted Alfond,M,73.0,1.5,United States,Fashion & Retail,shoes,62641
+441,Carol Jenkins Barnett,F,61.0,1.5,United States,Food and Beverage,Publix supermarkets,62641
+442,Martha Ford,F,92.0,1.5,United States,Automotive,Ford Motor,62641
+443,Richard Hayne,M,70.0,1.5,United States,Fashion & Retail,Urban Outfitters,62641
+444,Seth Klarman,M,61.0,1.5,United States,Finance and Investments,investments,62641
+445,Eren Ozmen,F,59.0,1.5,United States,Manufacturing,aerospace,62641
+446,Fatih Ozmen,M,60.0,1.5,United States,Manufacturing,aerospace,62641
+447,Mark Pincus,M,52.0,1.5,United States,Technology,online games,62641
+448,Kevin Plank,M,45.0,1.5,United States,Fashion & Retail,Under Armour,62641
+449,Fayez Sarofim,M,89.0,1.5,United States,Finance and Investments,money management,62641
+450,Kevin Systrom,M,33.0,1.5,United States,Technology,Instagram,62641
+451,Jim Thompson,M,78.0,1.5,United States,Logistics,logistics,62641
+452,Jonathan Tisch,M,64.0,1.5,United States,Diversified,"insurance, NFL team",62641
+453,Kenneth Tuchman,M,58.0,1.5,United States,Service,outsourcing,62641
+454,Herb Chambers,M,76.0,1.4,United States,Automotive,car dealerships,62641
+455,John Edson,M,86.0,1.4,United States,Manufacturing,leisure craft,62641
+456,David Einhorn,M,49.0,1.4,United States,Finance and Investments,hedge funds,62641
+457,Victor Fung,M,72.0,1.4,United States,Logistics,trading company,62641
+458,Alan Gerry,M,89.0,1.4,United States,Media & Entertainment,cable television,62641
+459,J. Tomilson Hill,M,70.0,1.4,United States,Finance and Investments,investments,62641
+460,George Joseph,M,96.0,1.4,United States,Finance and Investments,insurance,62641
+461,Michael Krasny,M,64.0,1.4,United States,Technology,retail,62641
+462,James Leininger,M,73.0,1.4,United States,Healthcare,medical products,62641
+463,Gary Magness,M,64.0,1.4,United States,Media & Entertainment,"cable TV, investments",62641
+464,Forrest Preston,M,85.0,1.4,United States,Healthcare,health care,62641
+465,Jerry Reinsdorf,M,82.0,1.4,United States,Sports,sports teams,62641
+466,Evgeny (Eugene) Shvidler,M,54.0,1.4,United States,Energy,"oil & gas, investments",62641
+467,Peter Sperling,M,58.0,1.4,United States,Service,education,62641
+468,Kenny Troutt,M,70.0,1.4,United States,Telecom,telecom,62641
+469,Dan Wilks,M,62.0,1.4,United States,Energy,natural gas,62641
+470,Farris Wilks,M,66.0,1.4,United States,Energy,natural gas,62641
+471,"Richard Yuengling, Jr.",M,75.0,1.4,United States,Food and Beverage,beer,62641
+472,Edmund Ansin,M,82.0,1.3,United States,Media & Entertainment,television,62641
+473,Steve Case,M,59.0,1.3,United States,Technology,AOL,62641
+474,Darwin Deason,M,78.0,1.3,United States,Service,Xerox,62641
+475,Jamie Dimon,M,62.0,1.3,United States,Finance and Investments,banking,62641
+476,Anne Gittinger,F,82.0,1.3,United States,Fashion & Retail,Nordstrom department stores,62641
+477,Irwin Jacobs,M,84.0,1.3,United States,Technology,semiconductors,62641
+478,Mitchell Jacobson,M,67.0,1.3,United States,Service,industrial equipment,62641
+479,Alexander Karp,M,50.0,1.3,United States,Technology,software firm,62641
+480,Sidney Kimmel,M,90.0,1.3,United States,Fashion & Retail,retail,62641
+481,Rodney Lewis,M,63.0,1.3,United States,Energy,natural gas,62641
+482,Craig Newmark,M,65.0,1.3,United States,Technology,Craigslist,62641
+483,Bruce Nordstrom,M,84.0,1.3,United States,Fashion & Retail,Nordstrom department stores,62641
+484,Alexander Rovt,M,65.0,1.3,United States,Manufacturing,"fertilizer, real estate",62641
+485,Leonard Schleifer,M,65.0,1.3,United States,Healthcare,pharmaceuticals,62641
+486,Wilma Tisch,F,90.0,1.3,United States,Finance and Investments,diversified,62641
+487,Jayshree Ullal,F,57.0,1.3,United States,Technology,technology,62641
+488,Marc Andreessen,M,46.0,1.2,United States,Finance and Investments,venture capital investing,62641
+489,Thomas Bailey,M,81.0,1.2,United States,Finance and Investments,money management,62641
+490,Charles Brandes,M,75.0,1.2,United States,Finance and Investments,money management,62641
+491,Henry Engelhardt,M,60.0,1.2,United States,Finance and Investments,insurance,62641
+492,Donald Foss,M,74.0,1.2,United States,Automotive,auto loans,62641
+493,Robert Friedland,M,67.0,1.2,United States,Metals & Mining,mining,62641
+494,Donald Friese,M,77.0,1.2,United States,Manufacturing,manufacturing,62641
+495,Ryan Graves,M,33.0,1.2,United States,Technology,uber,62641
+496,"B. Wayne Hughes, Jr.",M,57.0,1.2,United States,Real Estate,storage facilities,62641
+497,Thomas James,M,76.0,1.2,United States,Finance and Investments,finance,62641
+498,Gail Miller,F,74.0,1.2,United States,Automotive,"basketball, car dealers",62641
+499,Michael Price,M,65.0,1.2,United States,Finance and Investments,investments,62641
+500,Lynsi Snyder,F,35.0,1.2,United States,Food and Beverage,In-N-Out Burger,62641
+501,Thomas Tull,M,48.0,1.2,United States,Media & Entertainment,movies,62641
+502,"Alfred West, Jr.",M,75.0,1.2,United States,Finance and Investments,money management,62641
+503,William Ackman,M,52.0,1.1,United States,Finance and Investments,hedge funds,62641
+504,J. Hyatt Brown,M,80.0,1.1,United States,Finance and Investments,insurance,62641
+505,Bharat Desai,M,65.0,1.1,United States,Technology,IT consulting,62641
+506,Joseph Edelman,M,63.0,1.1,United States,Finance and Investments,hedge funds,62641
+507,Paul Fireman,M,74.0,1.1,United States,Fashion & Retail,Reebok,62641
+508,J. Christopher Flowers,M,60.0,1.1,United States,Finance and Investments,investments,62641
+509,Drew Houston,M,34.0,1.1,United States,Technology,file hosting service,62641
+510,Richard Kayne,M,72.0,1.1,United States,Finance and Investments,investments,62641
+511,Isaac Larian,M,64.0,1.1,United States,Manufacturing,toys,62641
+512,Frank Laukien,M,58.0,1.1,United States,Manufacturing,scientific equipment,62641
+513,Nancy Lerner,F,58.0,1.1,United States,Finance and Investments,"banking, credit cards",62641
+514,Norma Lerner,F,82.0,1.1,United States,Finance and Investments,banking,62641
+515,Randolph Lerner,M,56.0,1.1,United States,Finance and Investments,"banking, credit cards",62641
+516,William Macaulay,M,72.0,1.1,United States,Energy,energy investments,62641
+517,John Martin,M,67.0,1.1,United States,Healthcare,pharmaceuticals,62641
+518,Andrea Reimann-Ciardelli,F,61.0,1.1,United States,Fashion & Retail,consumer goods,62641
+519,Chris Sacca,M,43.0,1.1,United States,Finance and Investments,venture capital investing,62641
+520,Michael Steinhardt,M,77.0,1.1,United States,Finance and Investments,finance,62641
+521,Laurie Tisch,F,67.0,1.1,United States,Diversified,"insurance, NFL team",62641
+522,Steven Tisch,M,69.0,1.1,United States,Diversified,insurance,62641
+523,James Truchard,M,74.0,1.1,United States,Technology,software,62641
+524,Sara Blakely,F,47.0,1.0,United States,Fashion & Retail,Spanx,62641
+525,Yvon Chouinard,M,79.0,1.0,United States,Fashion & Retail,Patagonia,62641
+526,Henry Davis,M,67.0,1.0,United States,Food and Beverage,beef processing,62641
+527,David Hall,M,66.0,1.0,United States,Automotive,automotive technology,62641
+528,David Kabiller,M,54.0,1.0,United States,Finance and Investments,investment management,62641
+529,Theodore Leonsis,M,62.0,1.0,United States,Sports,sports teams,62641
+530,John Liew,M,50.0,1.0,United States,Finance and Investments,Investment Management,62641
+531,George Marcus,M,76.0,1.0,United States,Real Estate,real estate,62641
+532,Lowell Milken,M,69.0,1.0,United States,Finance and Investments,investments,62641
+533,Carolyn Rafaelian,F,51.0,1.0,United States,Fashion & Retail,jewelry,62641
+534,Alice Schwartz,F,91.0,1.0,United States,Manufacturing,biotech,62641
+535,Martin Selig,M,80.0,1.0,United States,Real Estate,real estate,62641
+536,Evan Sharp,M,34.0,1.0,United States,Technology,Pinterest,62641
+537,Axel Stawski,M,67.0,1.0,United States,Real Estate,real estate,62641
+538,Robert Toll,M,77.0,1.0,United States,Real Estate,home building,62641
+539,Sandy Weill,M,85.0,1.0,United States,Finance and Investments,Citigroup,62641
+540,Bernard Arnault,M,69.0,72.0,France,Fashion & Retail,LVMH,41464
+541,Francoise Bettencourt Meyers,F,64.0,42.2,France,Fashion & Retail,L'Oreal,41464
+542,Serge Dassault,M,93.0,22.6,France,Diversified,diversified,41464
+543,Emmanuel Besnier,M,47.0,14.7,France,Food and Beverage,cheese,41464
+544,Alain Wertheimer,M,69.0,13.0,France,Fashion & Retail,Chanel,41464
+545,Gerard Wertheimer,M,67.0,13.0,France,Fashion & Retail,Chanel,41464
+546,Xavier Niel,M,50.0,8.1,France,Telecom,"internet, telecom",41464
+547,Carrie Perrodo,F,67.0,7.2,France,Energy,oil,41464
+548,Patrick Drahi,M,54.0,7.1,France,Telecom,telecom,41464
+549,Jacques Saade,M,81.0,7.0,France,Logistics,shipping,41464
+550,Pierre Bellon,M,88.0,6.1,France,Service,food services,41464
+551,Jean-Michel Besnier,M,51.0,5.4,France,Food and Beverage,cheese,41464
+552,Marie Besnier Beauvalot,F,36.0,5.4,France,Food and Beverage,cheese,41464
+553,Martin & Olivier Bouygues,M,,4.9,France,Construction & Engineering,"construction, media",41464
+554,Jean-Pierre Cayard,M,75.0,4.5,France,Food and Beverage,spirits,41464
+555,Michel Leclercq,M,79.0,4.0,France,Fashion & Retail,sporting goods,41464
+556,Alain Merieux,M,80.0,3.2,France,Healthcare,pharmaceuticals,41464
+557,Anne Beaufour,F,54.0,3.0,France,Healthcare,pharmaceuticals,41464
+558,Henri Beaufour,M,53.0,3.0,France,Healthcare,pharmaceuticals,41464
+559,Philippe Foriel-Destezet,M,82.0,2.9,France,Service,employment agency,41464
+560,Louis Le Duff,M,71.0,2.9,France,Food and Beverage,bakeries,41464
+561,Nicolas Puech,M,75.0,2.8,France,Fashion & Retail,Hermes,41464
+562,Mohed Altrad,M,70.0,2.7,France,Construction & Engineering,"scaffolding, cement mixers",41464
+563,Gilles Martin,M,54.0,2.6,France,Healthcare,laboratory services,41464
+564,Bernard Fraisse,M,61.0,2.3,France,Healthcare,pharmaceuticals,41464
+565,Alain Taravella,M,70.0,2.2,France,Real Estate,real estate,41464
+566,Philippe Ginestet,M,64.0,2.1,France,Fashion & Retail,retail stores,41464
+567,Christian Latouche,M,77.0,2.1,France,Finance and Investments,accounting services,41464
+568,Charles Edelstenne,M,80.0,1.9,France,Manufacturing,aviation,41464
+569,Edouard Carmignac,M,70.0,1.8,France,Finance and Investments,asset management,41464
+570,Clement Fayat,M,86.0,1.8,France,Construction & Engineering,construction,41464
+571,Dominique Desseigne,M,73.0,1.7,France,Gambling & Casinos,casinos,41464
+572,Michel Chalhoub,M,86.0,1.6,France,Fashion & Retail,retail,41464
+573,Norbert Dentressangle,M,63.0,1.2,France,Logistics,"transport, logistics",41464
+574,Francis Holder,M,77.0,1.2,France,Food and Beverage,bakeries,41464
+575,Yves-Loic Martin,M,52.0,1.1,France,Healthcare,laboratory services,41464
+576,Francois Feuillet,M,69.0,1.0,France,Automotive,"motorhomes, RVs",41464
+577,Amancio Ortega,M,82.0,70.0,Spain,Fashion & Retail,Zara,30524
+578,Sandra Ortega Mera,F,49.0,6.9,Spain,Fashion & Retail,Zara,30524
+579,Juan Roig,M,68.0,4.5,Spain,Fashion & Retail,supermarkets,30524
+580,Miguel Fluxa Rossello,M,79.0,4.4,Spain,Service,hotels,30524
+581,Juan-Miguel Villar Mir,M,86.0,3.4,Spain,Construction & Engineering,construction,30524
+582,Manuel Lao Hernandez,M,74.0,3.1,Spain,Gambling & Casinos,gambling,30524
+583,Alicia Koplowitz,F,64.0,2.9,Spain,Finance and Investments,"construction, investments",30524
+584,Helena Revoredo,F,71.0,2.7,Spain,Service,security services,30524
+585,Juan Abello,M,76.0,2.6,Spain,Finance and Investments,investments,30524
+586,Daniel Mate,M,55.0,2.6,Spain,Metals & Mining,"mining, commodities",30524
+587,Jaime Botin,M,82.0,2.5,Spain,Finance and Investments,banking,30524
+588,Hortensia Herrero,F,68.0,2.4,Spain,Fashion & Retail,supermarkets,30524
+589,Tomas Olivo Lopez,M,44.0,2.2,Spain,Real Estate,shopping centers,30524
+590,Manuel Jove,M,77.0,2.1,Spain,Real Estate,real estate,30524
+591,Florentino Perez,M,71.0,2.0,Spain,Construction & Engineering,construction,30524
+592,Francisco Jose Riberas Mera,M,54.0,2.0,Spain,Manufacturing,"steel, autoparts",30524
+593,Gabriel Escarrer,M,83.0,1.8,Spain,Service,hotels,30524
+594,Juan Maria Riberas Mera,M,49.0,1.7,Spain,Metals & Mining,steel,30524
+595,Alberto Alcocer,M,75.0,1.4,Spain,Finance and Investments,investments,30524
+596,Alberto Cortina,M,72.0,1.4,Spain,Finance and Investments,investments,30524
+597,Fernando Roig,M,70.0,1.4,Spain,Fashion & Retail,supermarkets,30524
+598,Jose Llado Fernandez-Urrutia,M,84.0,1.3,Spain,Construction & Engineering,construction,30524
+599,Isak Andic,M,64.0,1.2,Spain,Fashion & Retail,fashion retail,30524
+600,Jose Maria Aristrain,M,55.0,1.2,Spain,Metals & Mining,Steel,30524
+601,Sol Daurella,F,52.0,1.2,Spain,Food and Beverage,Coca-Cola,30524
+602,Alberto Palatchi,M,68.0,1.1,Spain,Fashion & Retail,wedding dresses,30524
+603,Carlos Slim Helu,M,78.0,67.1,Mexico,Telecom,telecom,9698
+604,German Larrea Mota Velasco,M,64.0,17.3,Mexico,Metals & Mining,mining,9698
+605,Alberto Bailleres Gonzalez,M,86.0,10.7,Mexico,Metals & Mining,mining,9698
+606,Ricardo Salinas Pliego,M,62.0,7.1,Mexico,Fashion & Retail,"retail, media",9698
+607,Maria Asuncion Aramburuzabala,F,55.0,5.9,Mexico,Food and Beverage,"beer, investments",9698
+608,Juan Francisco Beckmann Vidal,M,78.0,5.7,Mexico,Food and Beverage,tequila,9698
+609,Jeronimo Arango,M,92.0,4.3,Mexico,Fashion & Retail,retail,9698
+610,Antonio Del Valle Ruiz,M,79.0,3.4,Mexico,Manufacturing,chemicals,9698
+611,Carlos Hank Rhon,M,70.0,2.0,Mexico,Diversified,banking,9698
+612,Roberto Hernandez Ramirez,M,76.0,1.9,Mexico,Finance and Investments,banking,9698
+613,Emilio Azcarraga Jean,M,50.0,1.7,Mexico,Media & Entertainment,TV broadcasting,9698
+614,Rufino Vigil Gonzalez,M,70.0,1.4,Mexico,Metals & Mining,steel,9698
+615,David Penaloza Alanis,M,44.0,1.3,Mexico,Construction & Engineering,toll roads,9698
+616,Alfredo Harp Helu,M,74.0,1.2,Mexico,Finance and Investments,banking,9698
+617,Ma Huateng,M,46.0,45.3,China,Technology,internet media,9771
+618,Jack Ma,M,53.0,39.0,China,Technology,e-commerce,9771
+619,Hui Ka Yan,M,59.0,30.3,China,Real Estate,real estate,9771
+620,Wang Jianlin,M,63.0,30.0,China,Real Estate,real estate,9771
+621,Yang Huiyan,F,35.0,21.9,China,Real Estate,real estate,9771
+622,He Xiangjian,M,75.0,20.1,China,Manufacturing,home appliances,9771
+623,Wang Wei,M,48.0,18.2,China,Service,package delivery,9771
+624,William Ding,M,46.0,17.4,China,Technology,online games,9771
+625,Zhang Zhidong,M,46.0,15.6,China,Technology,internet media,9771
+626,Li Shufu,M,55.0,15.3,China,Automotive,automobiles,9771
+627,Lei Jun,M,48.0,12.5,China,Technology,smartphones,9771
+628,Robin Li,M,49.0,12.0,China,Technology,internet search,9771
+629,Wang Wenyin,M,50.0,11.7,China,Metals & Mining,"mining, copper products",9771
+630,Xu Shihui,M,60.0,11.3,China,Food and Beverage,"snacks, beverages",9771
+631,Zhou Hongyi,M,47.0,11.3,China,Technology,security software,9771
+632,Yan Zhi,M,45.0,10.1,China,Real Estate,real estate,9771
+633,Pan Zhengmin,M,48.0,9.7,China,Technology,electronics,9771
+634,Zong Qinghou,M,72.0,9.5,China,Food and Beverage,beverages,9771
+635,Yao Zhenhua,M,48.0,9.2,China,Diversified,conglomerate,9771
+636,Guo Guangchang,M,51.0,8.1,China,Diversified,conglomerate,9771
+637,Sun Piaoyang,M,59.0,7.7,China,Healthcare,pharmaceuticals,9771
+638,Wu Yajun,F,54.0,7.7,China,Real Estate,real estate,9771
+639,Wang Wenxue,M,51.0,7.2,China,Real Estate,real estate,9771
+640,Lu Zhiqiang,M,65.0,7.0,China,Real Estate,real estate,9771
+641,Wu Shaoxun,M,62.0,7.0,China,Food and Beverage,wine,9771
+642,Chan Laiwa,F,77.0,6.8,China,Real Estate,real estate,9771
+643,Liu Yongxing,M,70.0,6.7,China,Service,diversified,9771
+644,Wei Jianjun,M,54.0,6.5,China,Automotive,automobiles,9771
+645,Jason Jiang,M,45.0,6.4,China,Media & Entertainment,advertising,9771
+646,Pang Kang,M,62.0,6.4,China,Food and Beverage,soy sauce maker,9771
+647,Ma Jianrong,M,54.0,6.0,China,Fashion & Retail,"textiles, apparel",9771
+648,Yao Liangsong,M,53.0,5.8,China,Manufacturing,furniture,9771
+649,Zhang Jindong,M,55.0,5.8,China,Fashion & Retail,appliance retailer,9771
+650,Kei Hoi Pang,M,52.0,5.6,China,Real Estate,real estate,9771
+651,Zhang Bangxin,M,38.0,5.5,China,Service,after-school tutoring,9771
+652,Zhang Shiping,M,71.0,5.5,China,Metals & Mining,aluminum products,9771
+653,Lin Xiucheng,M,62.0,5.4,China,Technology,electronics,9771
+654,Xu Chuanhua,M,83.0,5.3,China,Manufacturing,"chemicals, logistics",9771
+655,Wang Chuanfu,M,52.0,5.2,China,Automotive,"batteries, automobiles",9771
+656,Liu Yonghao,M,66.0,4.9,China,Service,agribusiness,9771
+657,Yu Yong,M,57.0,4.9,China,Finance and Investments,mining,9771
+658,Zhou Jianping,M,58.0,4.9,China,Fashion & Retail,fashion retail,9771
+659,Fu Liquan,M,50.0,4.8,China,Technology,surveillance equipment,9771
+660,Li Shuirong,M,61.0,4.7,China,Manufacturing,petrochemicals,9771
+661,Cai Kui,M,55.0,4.6,China,Real Estate,real estate,9771
+662,Liang Wengen,M,61.0,4.6,China,Manufacturing,construction equipment,9771
+663,Fang Wei,M,44.0,4.5,China,Manufacturing,steel,9771
+664,Ji Changqun,M,50.0,4.5,China,Real Estate,real estate,9771
+665,Chu Mang Yee,M,58.0,4.4,China,Real Estate,real estate,9771
+666,Wang Yusuo,M,54.0,4.2,China,Energy,natural gas distribution,9771
+667,Fan Hongwei,F,51.0,4.1,China,Energy,petrochemicals,9771
+668,Wang Xing,M,45.0,4.1,China,Technology,e-commerce,9771
+669,Che Jianxing,M,51.0,4.0,China,Fashion & Retail,furniture retailing,9771
+670,Huang Rulun,M,66.0,4.0,China,Real Estate,real estate,9771
+671,Yu Huijiao,M,52.0,4.0,China,Logistics,package delivery,9771
+672,Zhang Xuexin,M,70.0,4.0,China,Metals & Mining,aluminum,9771
+673,Zhang Yiming,M,33.0,4.0,China,Technology,software,9771
+674,Chen Dongsheng,M,60.0,3.8,China,Finance and Investments,insurance,9771
+675,Jiang Weiping,M,63.0,3.8,China,Manufacturing,chemicals,9771
+676,Zeng Fangqin,F,52.0,3.8,China,Technology,smartphone components,9771
+677,Zhang Jin,M,46.0,3.8,China,Diversified,diversified,9771
+678,Li Gaiteng,M,46.0,3.7,China,Manufacturing,hair dryers,9771
+679,Tse Ping,M,66.0,3.7,China,Healthcare,pharmaceuticals,9771
+680,Cao Longxiang,M,60.0,3.6,China,Healthcare,pharmaceuticals,9771
+681,Jiang Rensheng,M,64.0,3.6,China,Healthcare,vaccine production,9771
+682,Qin Yinglin,M,53.0,3.6,China,Food and Beverage,pig breeding,9771
+683,Qiu Guanghe,M,66.0,3.6,China,Fashion & Retail,fashion retail,9771
+684,Xu Jingren,M,73.0,3.6,China,Healthcare,pharmaceuticals,9771
+685,Zhang Li,M,65.0,3.6,China,Real Estate,real estate,9771
+686,Chen Bang,M,52.0,3.5,China,Healthcare,hospitals,9771
+687,Gao Tianguo,M,66.0,3.5,China,Real Estate,"real estate, finance",9771
+688,Melissa Ma,F,48.0,3.4,China,Technology,internet search,9771
+689,Sun Guangxin,M,55.0,3.4,China,Diversified,diversified,9771
+690,Ji Qi,M,51.0,3.3,China,Real Estate,"hotels, motels",9771
+691,Liu Zhongtian,M,54.0,3.3,China,Manufacturing,aluminum products,9771
+692,Luo Liguo,M,62.0,3.3,China,Manufacturing,chemicals,9771
+693,Jiang Bin,M,51.0,3.2,China,Technology,acoustic components,9771
+694,Nie Tengyun,M,42.0,3.2,China,Service,logistics,9771
+695,Frank Wang,M,36.0,3.2,China,Technology,drones,9771
+696,Cheng Cheung Ling,F,54.0,3.1,China,Healthcare,pharmaceuticals,9771
+697,Lai Meisong,M,47.0,3.1,China,Logistics,package delivery,9771
+698,Liang Xinjun,M,50.0,3.1,China,Diversified,conglomerate,9771
+699,Ren Jianhua,M,61.0,3.1,China,Manufacturing,kitchen appliances,9771
+700,Wang Jian,M,64.0,3.1,China,Technology,healthcare services,9771
+701,Lu Xiangyang,M,55.0,3.0,China,Automotive,"automobiles, batteries",9771
+702,Wang Zhenhua,M,56.0,3.0,China,Real Estate,real estate,9771
+703,Simon Xie,M,48.0,3.0,China,Technology,online payment service,9771
+704,Cai Dongchen,M,65.0,2.9,China,Healthcare,pharmaceuticals,9771
+705,Ding Shizhong,M,47.0,2.9,China,Fashion & Retail,sports apparel,9771
+706,Feng Hailiang,M,57.0,2.9,China,Metals & Mining,"copper, education",9771
+707,Ke Zunhong,M,63.0,2.9,China,Healthcare,pharmaceuticals,9771
+708,Wang Laichun,F,51.0,2.9,China,Technology,electronics components,9771
+709,Wang Laisheng,M,53.0,2.9,China,Technology,electronics components,9771
+710,Ding Shijia,M,54.0,2.8,China,Fashion & Retail,sportswear,9771
+711,Shi Yuzhu,M,55.0,2.8,China,Diversified,"online games, investments",9771
+712,Gu Yuhua,M,68.0,2.7,China,Manufacturing,furniture,9771
+713,Huang Wei,M,58.0,2.7,China,Real Estate,real estate,9771
+714,Zhang Wenzhong,M,56.0,2.7,China,Fashion & Retail,Retail,9771
+715,Zuo Hui,M,47.0,2.7,China,Real Estate,real estate services,9771
+716,Chen Fashu,M,57.0,2.6,China,Finance and Investments,investments,9771
+717,Lam Kong,M,54.0,2.6,China,Healthcare,pharmaceuticals,9771
+718,Shen Wenrong,M,72.0,2.6,China,Metals & Mining,steel production,9771
+719,Shen Yuxing,M,59.0,2.6,China,Real Estate,real estate,9771
+720,Song Zuowen,M,71.0,2.6,China,Diversified,"aluminum, diversified",9771
+721,Zhang Fan,M,52.0,2.6,China,Technology,touch screens,9771
+722,Zhu Xingliang,M,59.0,2.6,China,Construction & Engineering,construction,9771
+723,Du Jiangtao,M,48.0,2.5,China,Manufacturing,chemicals,9771
+724,Hui Lin Chit,M,65.0,2.5,China,Manufacturing,hygiene products,9771
+725,Sze Man Bok,M,68.0,2.5,China,Manufacturing,hygiene products,9771
+726,Chen Jinxia,F,50.0,2.4,China,Finance and Investments,investments,9771
+727,Geng Jianming,M,55.0,2.4,China,Real Estate,real estate,9771
+728,Li Zhongchu,M,54.0,2.4,China,Technology,software,9771
+729,Tong Jinquan,M,63.0,2.4,China,Real Estate,real estate,9771
+730,Yu Minhong,M,56.0,2.4,China,Service,education,9771
+731,Chen Hua,M,52.0,2.3,China,Real Estate,real estate,9771
+732,Hu Baifan,M,55.0,2.3,China,Healthcare,pharmaceuticals,9771
+733,Lin Li,M,55.0,2.3,China,Finance and Investments,investments,9771
+734,He Qiaonv,F,52.0,2.2,China,Service,landscape architecture,9771
+735,Ke Xiping,M,58.0,2.2,China,Diversified,investments,9771
+736,Kong Jian Min,M,50.0,2.2,China,Real Estate,real estate,9771
+737,Shen Guojun,M,55.0,2.2,China,Fashion & Retail,retail,9771
+738,Wu Zhigang,M,83.0,2.2,China,Food and Beverage,bakery chain,9771
+739,Xiao Wenge,M,51.0,2.2,China,Media & Entertainment,entertainment,9771
+740,Zhang Xiugen,M,57.0,2.2,China,Automotive,automobiles,9771
+741,Cheng Xue,F,48.0,2.1,China,Food and Beverage,soy sauce,9771
+742,Huang Hongyun,M,51.0,2.1,China,Real Estate,real estate,9771
+743,Huang Zhenda,M,70.0,2.1,China,Construction & Engineering,construction,9771
+744,Jiang Yehua,M,55.0,2.1,China,Real Estate,real estate,9771
+745,Li Hongxin,M,65.0,2.1,China,Manufacturing,paper & related products,9771
+746,Li Xiting,M,67.0,2.1,China,Healthcare,medical devices,9771
+747,Liang Yunchao,M,49.0,2.1,China,Food and Beverage,nutrition supplements,9771
+748,Mao Lixiang,M,77.0,2.1,China,Technology,cooking appliances,9771
+749,Wang Changtian,M,53.0,2.1,China,Media & Entertainment,"TV, movie production",9771
+750,Wang Wenjing,M,53.0,2.1,China,Technology,business software,9771
+751,Ye Cheng,M,56.0,2.1,China,Diversified,conglomerate,9771
+752,Zhu Gongshan,M,60.0,2.1,China,Manufacturing,solar panel materials,9771
+753,Dong Wei,M,47.0,2.0,China,Healthcare,pharmaceuticals,9771
+754,Hu Kaijun,M,56.0,2.0,China,Healthcare,pharmaceuticals,9771
+755,Liu Ming Hui,M,55.0,2.0,China,Energy,natural gas distribution,9771
+756,Ma Xingtian,M,48.0,2.0,China,Healthcare,pharmaceuticals,9771
+757,Miao Shouliang,M,63.0,2.0,China,Real Estate,real estate,9771
+758,Ren Zhengfei,M,74.0,2.0,China,Telecom,telecom equipment,9771
+759,Su Suyu,F,69.0,2.0,China,Real Estate,"utilities, real estate",9771
+760,Wang Liping,M,52.0,2.0,China,Manufacturing,hydraulic machinery,9771
+761,Wang Xicheng,M,69.0,2.0,China,Manufacturing,tires,9771
+762,Wei Shaojun,M,55.0,2.0,China,Real Estate,real estate,9771
+763,Zhu Baoguo,M,56.0,2.0,China,Healthcare,pharmaceuticals,9771
+764,Liang Jiankun,M,56.0,1.9,China,Metals & Mining,cobalt mining,9771
+765,Qiu Jianping,M,56.0,1.9,China,Manufacturing,hand tools,9771
+766,Wang Qingtao,M,56.0,1.9,China,Metals & Mining,steel smelting,9771
+767,Xiao Yongming,M,53.0,1.9,China,Diversified,fertilizer,9771
+768,Xie Zhikun,M,57.0,1.9,China,Finance and Investments,investments,9771
+769,Xue Xiangdong,M,59.0,1.9,China,Technology,software,9771
+770,Yuan Yafei,M,54.0,1.9,China,Fashion & Retail,"retail, investments",9771
+771,Zhang Daocai,M,68.0,1.9,China,Diversified,valves,9771
+772,Zhang Xuansong,M,46.0,1.9,China,Fashion & Retail,supermarket,9771
+773,Zheng Yuewen,M,56.0,1.9,China,Diversified,investments,9771
+774,Zhou Xiaoguang,F,56.0,1.9,China,Real Estate,real estate,9771
+775,An Kang,M,69.0,1.8,China,Healthcare,pharmaceuticals,9771
+776,Chen Jianhua,M,47.0,1.8,China,Manufacturing,chemicals,9771
+777,Cheung Yan,F,61.0,1.8,China,Manufacturing,paper manufacturing,9771
+778,Cui Genliang,M,60.0,1.8,China,Manufacturing,electric components,9771
+779,Dou Zhenggang,M,65.0,1.8,China,Diversified,"energy, chemicals",9771
+780,Huang Qisen,M,53.0,1.8,China,Real Estate,real estate,9771
+781,Li Zongsong,M,51.0,1.8,China,Healthcare,pharmaceuticals,9771
+782,Qin Hui,M,50.0,1.8,China,Media & Entertainment,movie theaters,9771
+783,Sun Shoukuan,M,68.0,1.8,China,Manufacturing,metals. coal,9771
+784,Wong Luen Hei,M,56.0,1.8,China,Manufacturing,building materials,9771
+785,Wu Yulan,F,48.0,1.8,China,Healthcare,pharmaceuticals,9771
+786,Xu Hang,M,52.0,1.8,China,Healthcare,medical devices,9771
+787,Yang Erzhu,M,67.0,1.8,China,Real Estate,real estate,9771
+788,Yao Kuizhang,M,53.0,1.8,China,Food and Beverage,beverages,9771
+789,Chen Dejun,M,48.0,1.7,China,Logistics,package delivery,9771
+790,Chen Xueli,M,67.0,1.7,China,Healthcare,pharmaceuticals,9771
+791,Huo Qinghua,M,57.0,1.7,China,Energy,coal,9771
+792,Jiang Yintai,M,67.0,1.7,China,Automotive,auto parts,9771
+793,Li San Yim,M,68.0,1.7,China,Manufacturing,construction equipment,9771
+794,Ma Xiuhui,F,47.0,1.7,China,Manufacturing,LED lighting,9771
+795,Ou Zongrong,M,54.0,1.7,China,Real Estate,real estate,9771
+796,Pan Weiming,M,54.0,1.7,China,Real Estate,real estate,9771
+797,Qi Jinxing,M,56.0,1.7,China,Real Estate,real estate,9771
+798,Qi Shi,M,48.0,1.7,China,Technology,financial information,9771
+799,Wang Chaobin,M,62.0,1.7,China,Real Estate,real estate,9771
+800,Wang Yanqing,M,52.0,1.7,China,Manufacturing,electrical equipment,9771
+801,Wu Guangming,M,56.0,1.7,China,Healthcare,medical equipment,9771
+802,Xu Qiming,M,54.0,1.7,China,Diversified,"food, art",9771
+803,Zhang Xiaojuan,F,48.0,1.7,China,Logistics,logistics,9771
+804,Cai Wensheng,M,48.0,1.6,China,Technology,photo sharing app,9771
+805,Chen Xiaoying,F,41.0,1.6,China,Logistics,package delivery,9771
+806,Lei Jufang,F,65.0,1.6,China,Healthcare,pharmaceuticals,9771
+807,Li Li,M,54.0,1.6,China,Healthcare,pharmaceuticals,9771
+808,Li Li,M,54.0,1.6,China,Healthcare,pharmaceuticals,9771
+809,Li Liufa,M,61.0,1.6,China,Diversified,"steel, diversified",9771
+810,Liu Hanyuan,M,54.0,1.6,China,Food and Beverage,agribusiness,9771
+811,Ni Zugen,M,61.0,1.6,China,Manufacturing,appliances,9771
+812,Ruan Shuilong,M,82.0,1.6,China,Manufacturing,chemicals,9771
+813,Su Weizhong,M,49.0,1.6,China,Energy,"oil, fertilizers",9771
+814,Wang Jinshu,M,61.0,1.6,China,Manufacturing,chemicals,9771
+815,Wang Yaohai,M,51.0,1.6,China,Technology,lighting,9771
+816,Wong Kwong Yu,M,49.0,1.6,China,Fashion & Retail,retail,9771
+817,Wu Xushun,M,70.0,1.6,China,Diversified,"internet, auto parts",9771
+818,Yu Rong,M,46.0,1.6,China,Healthcare,health clinics,9771
+819,Zhou Chengjian,M,53.0,1.6,China,Fashion & Retail,fashion retail,9771
+820,Zhou Yaoting,M,75.0,1.6,China,Diversified,"apparel, real estate",9771
+821,Zhuang Kuilong,M,56.0,1.6,China,Manufacturing,polyester,9771
+822,Che Fengsheng,M,55.0,1.5,China,Healthcare,pharmaceuticals,9771
+823,Chen Qingzhou,M,52.0,1.5,China,Telecom,communications equipment,9771
+824,Huang Qiaoling,M,59.0,1.5,China,Media & Entertainment,amusement parks,9771
+825,Huang Zhuangmian,M,48.0,1.5,China,Logistics,logistics,9771
+826,Lee Yin Yee,M,66.0,1.5,China,Manufacturing,glass,9771
+827,Li Weiwei,M,41.0,1.5,China,Technology,online games,9771
+828,William Li,M,43.0,1.5,China,Automotive,automobiles,9771
+829,Li Yihai,M,55.0,1.5,China,Healthcare,pharmaceuticals,9771
+830,Li Yong,M,41.0,1.5,China,Manufacturing,chemicals,9771
+831,Lou Zhongfu,M,64.0,1.5,China,Real Estate,real estate,9771
+832,Ou Zonghong,M,48.0,1.5,China,Real Estate,real estate,9771
+833,Que Wenbin,M,54.0,1.5,China,Healthcare,pharmaceuticals,9771
+834,Tang Jianfang,F,,1.5,China,Food and Beverage,packaged foods,9771
+835,Ning Tang,M,44.0,1.5,China,Finance and Investments,online lending,9771
+836,Wang Jiufang,M,54.0,1.5,China,Real Estate,real estate,9771
+837,Wong Hong King,M,56.0,1.5,China,Real Estate,real estate,9771
+838,Xiao Chunhong,M,50.0,1.5,China,Real Estate,real estate,9771
+839,Zhang Hongwei,M,63.0,1.5,China,Diversified,"oil, banking",9771
+840,Zhang Tao,M,45.0,1.5,China,Fashion & Retail,e-commerce,9771
+841,Chen Liying,F,42.0,1.4,China,Logistics,package delivery,9771
+842,Chen Tianqiao,M,45.0,1.4,China,Technology,online games,9771
+843,Chi Yufeng,M,47.0,1.4,China,Technology,software,9771
+844,Du Weimin,M,54.0,1.4,China,Healthcare,vaccines,9771
+845,Li Guoqiang,M,54.0,1.4,China,Automotive,auto dealerships,9771
+846,Li Liangbin,M,50.0,1.4,China,Manufacturing,lithium,9771
+847,Ma Hong,M,50.0,1.4,China,Fashion & Retail,fashion retail,9771
+848,Nan Cunhui,M,54.0,1.4,China,Manufacturing,power equipment,9771
+849,Ou Xueming,M,69.0,1.4,China,Real Estate,real estate,9771
+850,Su Rubo,M,63.0,1.4,China,Real Estate,real estate,9771
+851,Wang Jianfeng,M,48.0,1.4,China,Automotive,auto parts,9771
+852,Wang Jing,M,45.0,1.4,China,Telecom,telecom services,9771
+853,Wang Qunbin,M,48.0,1.4,China,Diversified,conglomerate,9771
+854,Yi Zheng,M,47.0,1.4,China,Technology,software,9771
+855,Yuan Fugen,M,67.0,1.4,China,Manufacturing,metal processing,9771
+856,Zeng Kaitian,M,43.0,1.4,China,Technology,online games,9771
+857,Zhang Wanzhen,M,68.0,1.4,China,Manufacturing,electronic components,9771
+858,Zhang Yubai,M,53.0,1.4,China,Food and Beverage,wine,9771
+859,Changpeng Zhao,M,,1.4,China,Finance and Investments,cryptocurrency,9771
+860,Zhou Yifeng,M,49.0,1.4,China,Manufacturing,chemicals,9771
+861,Zhou Yongli,M,63.0,1.4,China,Manufacturing,conglomerate,9771
+862,Zhu Wenchen,M,52.0,1.4,China,Healthcare,pharmaceuticals,9771
+863,Cheng Xianfeng,M,49.0,1.3,China,Healthcare,pharmaceuticals,9771
+864,Fu Meicheng,M,60.0,1.3,China,Media & Entertainment,"TV shows, movies",9771
+865,Don Gao,M,53.0,1.3,China,Manufacturing,power tools,9771
+866,Gao Yunfeng,M,51.0,1.3,China,Manufacturing,industrial lasers,9771
+867,Hu Keqin,M,60.0,1.3,China,Diversified,chemicals,9771
+868,Li Jiaquan,M,54.0,1.3,China,Manufacturing,chemicals,9771
+869,Lin Fanlian,M,57.0,1.3,China,Energy,gas,9771
+870,Lin Jianhua,M,55.0,1.3,China,Manufacturing,solar panel components,9771
+871,Liu Baolin,M,65.0,1.3,China,Fashion & Retail,pharmacies,9771
+872,Lu Di,M,,1.3,China,Technology,drones,9771
+873,Shao Qinxiang,M,63.0,1.3,China,Manufacturing,diversified,9771
+874,Eric Ya Shen,M,47.0,1.3,China,Technology,online apparel retail,9771
+875,Shum Chiu Hung,M,48.0,1.3,China,Real Estate,real estate,9771
+876,Sun Qinghuan,M,45.0,1.3,China,Technology,lighting,9771
+877,Sun Yinhuan,M,68.0,1.3,China,Real Estate,real estate,9771
+878,Wan Long,M,77.0,1.3,China,Food and Beverage,food,9771
+879,Wang Muqing,M,67.0,1.3,China,Automotive,auto distribution,9771
+880,Wang Yong,M,68.0,1.3,China,Food and Beverage,food sweeteners,9771
+881,Wen Yibo,M,52.0,1.3,China,Service,wastewater treatment,9771
+882,Wu Lanlan,F,44.0,1.3,China,Manufacturing,packaging,9771
+883,Xu Ziquan,M,59.0,1.3,China,Technology,software,9771
+884,Yang Meirong,F,,1.3,China,Service,education,9771
+885,Yang Tingdong,M,58.0,1.3,China,Food and Beverage,brewery,9771
+886,You Xiaoping,M,60.0,1.3,China,Manufacturing,"chemicals, spandex",9771
+887,Yu Qibing,M,52.0,1.3,China,Manufacturing,glass,9771
+888,Yu Yunxin,M,56.0,1.3,China,Fashion & Retail,costume jewelry,9771
+889,Zan Shengda,M,55.0,1.3,China,Diversified,diversified,9771
+890,Zhang Guiping,M,66.0,1.3,China,Real Estate,real estate,9771
+891,Zhao Weiguo,M,51.0,1.3,China,Technology,IT products,9771
+892,Zheng Jianjiang,M,57.0,1.3,China,Manufacturing,electrical equipment,9771
+893,Cai Dongqing,M,49.0,1.2,China,Media & Entertainment,animation,9771
+894,Chen Bo,M,47.0,1.2,China,Energy,wind power generation,9771
+895,Cheng Wei,M,34.0,1.2,China,Service,ride-hailing service,9771
+896,Chu Jinfu,M,61.0,1.2,China,Manufacturing,electrical equipment,9771
+897,Fang Hongbo,M,51.0,1.2,China,Manufacturing,home appliances,9771
+898,Fu Guangming,M,64.0,1.2,China,Food and Beverage,poultry,9771
+899,Gu Wei,M,53.0,1.2,China,Manufacturing,consumer electronics,9771
+900,Huang Jianrong,M,60.0,1.2,China,Metals & Mining,minerals,9771
+901,Jiang Ganjun,M,54.0,1.2,China,Manufacturing,home & office products,9771
+902,Jiang Zhaobai,M,54.0,1.2,China,Real Estate,real estate,9771
+903,Jin Huiming,M,65.0,1.2,China,Real Estate,real estate,9771
+904,Li Guangyu,M,54.0,1.2,China,Service,education,9771
+905,Li Jun,M,53.0,1.2,China,Manufacturing,electronics,9771
+906,Li Rucheng,M,67.0,1.2,China,Fashion & Retail,apparel,9771
+907,Li Xuhui,F,50.0,1.2,China,Food and Beverage,soy sauce maker,9771
+908,Liu Jiang,M,50.0,1.2,China,Energy,gas,9771
+909,Liu Xuejing,M,67.0,1.2,China,Diversified,"copper, poultry",9771
+910,Liu Zhenguo,M,53.0,1.2,China,Service,sewage treatment,9771
+911,Ma Yunsheng,M,55.0,1.2,China,Diversified,energy,9771
+912,Ni Zhaoxing,M,62.0,1.2,China,Real Estate,real estate,9771
+913,Peng Hao,M,51.0,1.2,China,Manufacturing,electronics,9771
+914,Shang Jiyong,M,50.0,1.2,China,Diversified,"tires, chemicals",9771
+915,Tian Ming,M,64.0,1.2,China,Technology,measuring instruments,9771
+916,Wang Han,M,29.0,1.2,China,Diversified,airline,9771
+917,Wang Junjin,M,49.0,1.2,China,Service,airline,9771
+918,Wang Wenbiao,M,61.0,1.2,China,Manufacturing,"natural gas, fertilizers",9771
+919,Wu Daohong,M,52.0,1.2,China,Energy,energy services,9771
+920,Wu Yiling,M,68.0,1.2,China,Healthcare,pharmaceuticals,9771
+921,Xiu Laigui,M,63.0,1.2,China,Healthcare,pharmaceuticals,9771
+922,Xu Xiong,M,46.0,1.2,China,Service,driving schools,9771
+923,Xu Xudong,M,48.0,1.2,China,Automotive,auto parts,9771
+924,Xue Hua,M,48.0,1.2,China,Manufacturing,Agribusiness,9771
+925,Yan Yude,M,57.0,1.2,China,Service,private schools,9771
+926,Yang Keng,M,57.0,1.2,China,Real Estate,real estate,9771
+927,Yang Shaopeng,M,60.0,1.2,China,Logistics,Shipping,9771
+928,Zhang Cheng Fei,M,50.0,1.2,China,Manufacturing,paper & related products,9771
+929,Zhang Jingzhang,M,82.0,1.2,China,Manufacturing,precision machinery,9771
+930,Zhang Keqiang,M,58.0,1.2,China,Real Estate,real estate,9771
+931,Zhang Xuanning,M,48.0,1.2,China,Fashion & Retail,retail,9771
+932,Zhang Zhangsun,M,61.0,1.2,China,Real Estate,real estate,9771
+933,Zhou Bajin,M,83.0,1.2,China,Manufacturing,auto parts,9771
+934,Zhou Wenyu,M,53.0,1.2,China,Real Estate,real estate,9771
+935,Bu Yang,F,,1.1,China,Fashion & Retail,retail,9771
+936,Cai Rongjun,M,45.0,1.1,China,Technology,electronic components,9771
+937,Cai Xiaoru,M,38.0,1.1,China,Technology,electronic components,9771
+938,Chen Jinshi,M,55.0,1.1,China,Real Estate,"construction, real estate",9771
+939,Chen Qixing,M,58.0,1.1,China,Technology,electronics components,9771
+940,Chen Shiliang,M,54.0,1.1,China,Manufacturing,polyester,9771
+941,Chen Xiaxin,M,56.0,1.1,China,Diversified,industrial machinery,9771
+942,Dang Yanbao,M,45.0,1.1,China,Metals & Mining,coal,9771
+943,Fu Kwan,M,60.0,1.1,China,Diversified,"real estate, diversified",9771
+944,Huang Shilin,M,51.0,1.1,China,Energy,storage batteries,9771
+945,Huang Wen Tsai,M,64.0,1.1,China,Real Estate,real estate,9771
+946,Lam Lung On,M,53.0,1.1,China,Real Estate,real estate,9771
+947,David Xueling Li,M,45.0,1.1,China,Technology,live streaming service,9771
+948,Li Tan,F,53.0,1.1,China,Healthcare,pharmaceuticals,9771
+949,Li Weiguo,M,53.0,1.1,China,Manufacturing,construction materials,9771
+950,Liang Feng,M,49.0,1.1,China,Manufacturing,manufacturing,9771
+951,Liang Guangwei,M,54.0,1.1,China,Manufacturing,conglomerate,9771
+952,Liang Shezeng,M,86.0,1.1,China,Real Estate,real estate,9771
+953,Liao Chang,M,52.0,1.1,China,Food and Beverage,wine,9771
+954,Liu Zhendong,M,47.0,1.1,China,Service,industrial parks,9771
+955,Liu Zhiqiang,M,53.0,1.1,China,Diversified,conglomerate,9771
+956,Jonathan Lu,M,49.0,1.1,China,Technology,e-commerce,9771
+957,Peng Jianhu,M,61.0,1.1,China,Media & Entertainment,tourism,9771
+958,Lucy Peng,F,45.0,1.1,China,Technology,e-commerce,9771
+959,Wan Lianbu,M,52.0,1.1,China,Manufacturing,fertilizers,9771
+960,Wang Miaotong,M,61.0,1.1,China,Automotive,auto parts,9771
+961,Wang Zhenghua,M,74.0,1.1,China,Service,budget airline,9771
+962,Wen Jianping,M,56.0,1.1,China,Service,sewage treatment,9771
+963,Xia Zuoquan,M,56.0,1.1,China,Automotive,automobiles,9771
+964,Swift Xie,M,,1.1,China,Technology,drones,9771
+965,Yao Jinbo,M,42.0,1.1,China,Technology,online marketplace,9771
+966,Zhao Yan,F,51.0,1.1,China,Diversified,"real estate, finance",9771
+967,Zhou Zongwen,M,61.0,1.1,China,Fashion & Retail,jewelry,9771
+968,Cao Kejian,M,56.0,1.0,China,Manufacturing,air compressors,9771
+969,Chen Jianming,M,62.0,1.0,China,Real Estate,real estate,9771
+970,He Simo,M,53.0,1.0,China,Manufacturing,power supply manufacturer,9771
+971,Huang Xiaofen,F,56.0,1.0,China,Technology,printed circuit boards,9771
+972,Jiang Wei,M,56.0,1.0,China,Healthcare,pharmaceuticals,9771
+973,Jiang Xuefei,M,48.0,1.0,China,Technology,printed circuit boards,9771
+974,Liang Zhaoxian,M,53.0,1.0,China,Manufacturing,appliances,9771
+975,Liu Fuhai,M,64.0,1.0,China,Diversified,"textiles, energy",9771
+976,Liu Jincheng,M,53.0,1.0,China,Technology,lithium batteries,9771
+977,Liu Shaoxi,M,54.0,1.0,China,Real Estate,real estate,9771
+978,Lu Weiding,M,47.0,1.0,China,Diversified,diversified,9771
+979,Mi Enhua,M,60.0,1.0,China,Fashion & Retail,retail,9771
+980,Sun Shangchuan,M,54.0,1.0,China,Technology,electronics components,9771
+981,Wang Jianyi,M,55.0,1.0,China,Technology,fiber optic cables,9771
+982,Wen Pengcheng,M,55.0,1.0,China,Food and Beverage,agribusiness,9771
+983,Yang Jianxin,M,49.0,1.0,China,Technology,apparel,9771
+984,Yao Xinyi,M,53.0,1.0,China,Diversified,air conditioning,9771
+985,Zhao Xiaoqiang,M,51.0,1.0,China,Fashion & Retail,"fashion, entertainment",9771
+986,Zhou Liangzhang,M,55.0,1.0,China,Manufacturing,electrical equipment,9771
+987,Zhu Xingming,M,51.0,1.0,China,Manufacturing,electrical equipment,9771
+988,Mukesh Ambani,M,61.0,40.1,India,Energy,"petrochemicals, oil & gas",2016
+989,Azim Premji,M,72.0,18.8,India,Technology,software services,2016
+990,Lakshmi Mittal,M,68.0,18.5,India,Metals & Mining,steel,2016
+991,Shiv Nadar,M,72.0,14.6,India,Technology,software services,2016
+992,Dilip Shanghvi,M,62.0,12.8,India,Healthcare,pharmaceuticals,2016
+993,Kumar Birla,M,51.0,11.8,India,Diversified,commodities,2016
+994,Uday Kotak,M,59.0,10.7,India,Finance and Investments,banking,2016
+995,Radhakishan Damani,M,63.0,10.0,India,Finance and Investments,"investments, retail",2016
+996,Gautam Adani,M,56.0,9.7,India,Diversified,"commodities, ports",2016
+997,Cyrus Poonawalla,M,77.0,9.1,India,Healthcare,vaccines,2016
+998,Savitri Jindal,F,68.0,8.8,India,Metals & Mining,steel,2016
+999,Sunil Mittal,M,60.0,8.8,India,Telecom,telecom,2016
+1000,Kushal Pal Singh,M,86.0,6.4,India,Real Estate,real estate,2016
+1001,Acharya Balkrishna,M,45.0,6.3,India,Food and Beverage,consumer goods,2016
+1002,Vikram Lal,M,76.0,6.3,India,Automotive,motorcycles,2016
+1003,Nusli Wadia,M,74.0,6.2,India,Food and Beverage,consumer goods,2016
+1004,Benu Gopal Bangur,M,87.0,6.0,India,Manufacturing,cement,2016
+1005,Kalanithi Maran,M,52.0,5.2,India,Media & Entertainment,media,2016
+1006,Subhash Chandra,M,67.0,5.0,India,Media & Entertainment,media,2016
+1007,Pankaj Patel,M,65.0,5.0,India,Healthcare,pharmaceuticals,2016
+1008,M.A. Yusuff Ali,M,62.0,5.0,India,Fashion & Retail,retail,2016
+1009,Ajay Piramal,M,62.0,4.9,India,Healthcare,pharmaceuticals,2016
+1010,Kapil & Rahul Bhatia,M,,4.5,India,Service,airlines,2016
+1011,Micky Jagtiani,M,66.0,4.4,India,Fashion & Retail,retail,2016
+1012,Rahul Bajaj,M,80.0,4.3,India,Automotive,motorcycles,2016
+1013,Pawan Munjal,M,64.0,4.1,India,Automotive,motorcycles,2016
+1014,B.R. Shetty,M,76.0,4.0,India,Healthcare,healthcare,2016
+1015,Sudhir & Samir Mehta,M,,3.9,India,Diversified,diversified,2016
+1016,Ravi Pillai,M,64.0,3.9,India,Construction & Engineering,construction,2016
+1017,Mangal Prabhat Lodha,M,62.0,3.7,India,Real Estate,real estate,2016
+1018,Kiran Mazumdar-Shaw,F,65.0,3.6,India,Healthcare,biotech,2016
+1019,Karsanbhai Patel,M,74.0,3.6,India,Diversified,consumer goods,2016
+1020,Kuldip Singh & Gurbachan Singh Dhingra,M,,3.5,India,Manufacturing,paints,2016
+1021,Baba Kalyani,M,69.0,3.5,India,Construction & Engineering,engineering,2016
+1022,Shashi & Ravi Ruia,M,,3.4,India,Diversified,diversified,2016
+1023,Anil Agarwal,M,64.0,3.3,India,Metals & Mining,"mining, metals",2016
+1024,Ashwin Dani,M,75.0,3.3,India,Manufacturing,paints,2016
+1025,Sameer Gehlaut,M,44.0,3.2,India,Finance and Investments,finance,2016
+1026,Rajan Raheja,M,64.0,3.1,India,Diversified,diversified,2016
+1027,Hasmukh Chudgar,M,84.0,3.0,India,Healthcare,pharmaceuticals,2016
+1028,Rakesh Jhunjhunwala,M,57.0,3.0,India,Finance and Investments,investments,2016
+1029,Smita Crishna-Godrej,F,67.0,2.9,India,Diversified,consumer goods,2016
+1030,Adi Godrej,M,76.0,2.9,India,Diversified,consumer goods,2016
+1031,Jamshyd Godrej,M,69.0,2.9,India,Diversified,consumer goods,2016
+1032,Nadir Godrej,M,67.0,2.9,India,Diversified,consumer goods,2016
+1033,Rishad Naoroji,M,66.0,2.9,India,Diversified,consumer goods,2016
+1034,Aloke Lohia,M,59.0,2.8,India,Manufacturing,petrochemicals,2016
+1035,Chandru Raheja,M,77.0,2.8,India,Real Estate,real estate,2016
+1036,Anil Ambani,M,59.0,2.7,India,Diversified,diversified,2016
+1037,P.V. Ramprasad Reddy,M,60.0,2.5,India,Healthcare,pharmaceuticals,2016
+1038,Jai Hari & Yadu Hari Dalmia,M,,2.4,India,Manufacturing,cement,2016
+1039,Abhay Firodia,M,73.0,2.4,India,Automotive,automobiles,2016
+1040,Leena Tewari,F,60.0,2.4,India,Healthcare,pharmaceuticals,2016
+1041,Sunny Varkey,M,61.0,2.4,India,Service,education,2016
+1042,Murali Divi,M,67.0,2.3,India,Healthcare,pharmaceuticals,2016
+1043,Harsh Goenka,M,60.0,2.3,India,Diversified,diversified,2016
+1044,Murli Dhar & Bimal Kumar Gyanchandani,M,,2.3,India,Manufacturing,Detergents,2016
+1045,Shyam & Hari Bhartia,M,65.0,2.2,India,Diversified,Diversified,2016
+1046,Vinod & Anil Rai Gupta,,72.0,2.2,India,Manufacturing,electrical equipment,2016
+1047,Jitendra Virwani,M,52.0,2.2,India,Real Estate,real estate,2016
+1048,Sanjiv Goenka,M,57.0,2.1,India,Diversified,diversified,2016
+1049,Ravi Jaipuria,M,63.0,2.1,India,Food and Beverage,soft drinks,2016
+1050,Harsh Mariwala,M,67.0,2.1,India,Food and Beverage,consumer goods,2016
+1051,N.R. Narayana Murthy,M,71.0,2.1,India,Technology,software services,2016
+1052,Vikas Oberoi,M,47.0,2.1,India,Real Estate,real estate,2016
+1053,Vivek Chand Burman,M,81.0,2.0,India,Food and Beverage,consumer goods,2016
+1054,Ramesh Juneja,M,62.0,2.0,India,Healthcare,pharmaceuticals,2016
+1055,Lachhman Das Mittal,M,87.0,2.0,India,Automotive,tractors,2016
+1056,Mofatraj Munot,M,73.0,2.0,India,Real Estate,real estate,2016
+1057,Arvind Poddar,M,60.0,2.0,India,Automotive,tires,2016
+1058,Arvind Tiku,M,48.0,2.0,India,Energy,"oil & gas, investments",2016
+1059,Nandan Nilekani,M,63.0,1.9,India,Technology,software services,2016
+1060,Ranjan Pai,M,45.0,1.9,India,Service,education,2016
+1061,Anand Burman,M,66.0,1.8,India,Food and Beverage,consumer goods,2016
+1062,Senapathy Gopalakrishnan,M,63.0,1.8,India,Technology,software services,2016
+1063,Yusuf Hamied,M,81.0,1.7,India,Healthcare,pharmaceuticals,2016
+1064,Devendra Jain,M,89.0,1.7,India,Manufacturing,chemicals,2016
+1065,Anand Mahindra,M,63.0,1.7,India,Automotive,automobiles,2016
+1066,Kishore Mariwala,M,83.0,1.7,India,Food and Beverage,consumer goods,2016
+1067,Vijay Shekhar Sharma,M,40.0,1.7,India,Service,financial technology,2016
+1068,Radhe Shyam Agarwal,M,73.0,1.6,India,Fashion & Retail,consumer goods,2016
+1069,Achal Bakeri,M,58.0,1.6,India,Manufacturing,air coolers,2016
+1070,Radhe Shyam Goenka,M,72.0,1.6,India,Fashion & Retail,consumer goods,2016
+1071,Joy Alukkas,M,61.0,1.5,India,Fashion & Retail,jewelry,2016
+1072,Niranjan Hiranandani,M,68.0,1.5,India,Real Estate,real estate,2016
+1073,Anurang Jain,M,56.0,1.5,India,Manufacturing,auto parts,2016
+1074,Rajju Shroff,M,84.0,1.5,India,Manufacturing,agrochemicals,2016
+1075,Shamsheer Vayalil,M,41.0,1.5,India,Healthcare,healthcare,2016
+1076,Anu Aga,F,75.0,1.4,India,Construction & Engineering,engineering,2016
+1077,Krishna Kumar Bangur,M,57.0,1.4,India,Manufacturing,graphite electrodes,2016
+1078,R.G. Chandramogan,M,69.0,1.4,India,Food and Beverage,dairy,2016
+1079,K. Dinesh,M,64.0,1.4,India,Technology,software services,2016
+1080,Balkrishan Goenka,M,51.0,1.4,India,Manufacturing,textiles,2016
+1081,T.S. Kalyanaraman,M,71.0,1.4,India,Fashion & Retail,jewelry,2016
+1082,Nimesh Kampani,M,71.0,1.4,India,Finance and Investments,investment banking,2016
+1083,Dinesh Nandwana,M,55.0,1.4,India,Technology,software services,2016
+1084,Subhash Runwal,M,75.0,1.4,India,Real Estate,real estate,2016
+1085,Rana Kapoor,M,60.0,1.3,India,Finance and Investments,banking,2016
+1086,Habil Khorakiwala,M,75.0,1.3,India,Healthcare,pharmaceuticals,2016
+1087,Mahendra Prasad,M,78.0,1.3,India,Healthcare,pharmaceuticals,2016
+1088,Bhadresh Shah,M,66.0,1.3,India,Manufacturing,engineering,2016
+1089,Harindarpal Banga,M,67.0,1.2,India,Finance and Investments,commodities,2016
+1090,Amit Burman,M,48.0,1.2,India,Food and Beverage,consumer goods,2016
+1091,Kochouseph Chittilappilly,M,67.0,1.2,India,Manufacturing,manufacturing,2016
+1092,Ajay Kalsi,M,57.0,1.2,India,Energy,oil & gas,2016
+1093,Hemendra Kothari,M,71.0,1.2,India,Finance and Investments,Financial Services,2016
+1094,S.D. Shibulal,M,63.0,1.2,India,Technology,software services,2016
+1095,Basudeo Singh,M,77.0,1.2,India,Healthcare,pharmaceuticals,2016
+1096,Samprada Singh,M,92.0,1.2,India,Healthcare,pharmaceuticals,2016
+1097,Chirayu Amin,M,71.0,1.1,India,Healthcare,pharmaceuticals,2016
+1098,Sheela Gautam,F,86.0,1.1,India,Fashion & Retail,mattresses,2016
+1099,Madhu Kapur,F,,1.1,India,Finance and Investments,banking,2016
+1100,Satish Mehta,M,67.0,1.1,India,Healthcare,pharmaceuticals,2016
+1101,Analjit Singh,M,64.0,1.1,India,Healthcare,healthcare,2016
+1102,Raamdeo Agrawal,M,61.0,1.0,India,Finance and Investments,financial services,2016
+1103,Tarang Jain,M,56.0,1.0,India,Manufacturing,auto components,2016
+1104,Nirmal Minda,M,60.0,1.0,India,Automotive,auto parts,2016
+1105,Ravindra Kishore Sinha,M,66.0,1.0,India,Service,security services,2016
+1106,Lee Shau Kee,M,90.0,30.3,Hong Kong,Real Estate,real estate,48717
+1107,Lui Che Woo,M,89.0,20.1,Hong Kong,Gambling & Casinos,casinos,48717
+1108,Joseph Lau,M,66.0,16.7,Hong Kong,Real Estate,real estate,48717
+1109,Thomas & Raymond Kwok,M,,16.5,Hong Kong,Real Estate,real estate,48717
+1110,Peter Woo,M,71.0,12.2,Hong Kong,Real Estate,real estate,48717
+1111,Lee Man Tat,M,88.0,11.6,Hong Kong,Food and Beverage,"Oyster sauce, real estate",48717
+1112,Gong Hongjia,M,53.0,11.2,Hong Kong,Finance and Investments,video surveillance,48717
+1113,Hui Wing Mau,M,67.0,8.0,Hong Kong,Real Estate,real estate,48717
+1114,Walter Kwok,M,67.0,8.0,Hong Kong,Real Estate,real estate,48717
+1115,Zhou Qunfei,F,48.0,7.8,Hong Kong,Technology,smartphone screens,48717
+1116,Michael Kadoorie,M,76.0,7.3,Hong Kong,Energy,"hotels, energy",48717
+1117,Pollyanna Chu,F,60.0,7.0,Hong Kong,Finance and Investments,financial services,48717
+1118,Francis Choi,M,70.0,6.4,Hong Kong,Real Estate,real estate,48717
+1119,Pan Sutong,M,55.0,5.5,Hong Kong,Real Estate,"real estate, finance",48717
+1120,Lam Wai Ying,F,,5.4,Hong Kong,Manufacturing,smartphone screens,48717
+1121,Pansy Ho,F,55.0,5.3,Hong Kong,Gambling & Casinos,casinos,48717
+1122,Law Kar Po,M,70.0,5.0,Hong Kong,Real Estate,real estate,48717
+1123,Patrick Lee,M,76.0,4.6,Hong Kong,Manufacturing,paper,48717
+1124,Ye Chenghai,M,74.0,4.5,Hong Kong,Healthcare,pharmaceuticals,48717
+1125,Richard Li,M,51.0,4.4,Hong Kong,Telecom,telecom,48717
+1126,Samuel Tak Lee,M,79.0,4.1,Hong Kong,Real Estate,real estate,48717
+1127,Li Wa,M,52.0,3.8,Hong Kong,Real Estate,real estate,48717
+1128,Angela Leong,F,57.0,3.7,Hong Kong,Gambling & Casinos,casinos,48717
+1129,Edwin Leong,M,66.0,3.5,Hong Kong,Real Estate,real estate,48717
+1130,Rita Tong Liu,F,69.0,3.4,Hong Kong,Real Estate,real estate,48717
+1131,Li Sze Lim,M,61.0,3.3,Hong Kong,Real Estate,real estate,48717
+1132,Wu Kaiting,M,48.0,3.0,Hong Kong,Telecom,electronics,48717
+1133,Huang Shih Tsai,M,67.0,2.8,Hong Kong,Real Estate,real estate,48717
+1134,Tung Chee Chen,M,76.0,2.8,Hong Kong,Logistics,shipping,48717
+1135,Fong Yun Wah,M,93.0,2.6,Hong Kong,Real Estate,real estate,48717
+1136,Cho Tak Wong,M,72.0,2.5,Hong Kong,Manufacturing,auto parts,48717
+1137,Lawrence Ho,M,41.0,2.5,Hong Kong,Gambling & Casinos,casinos,48717
+1138,Vincent Lo,M,69.0,2.5,Hong Kong,Real Estate,real estate,48717
+1139,Or Wai Sheun,M,67.0,2.5,Hong Kong,Real Estate,real estate,48717
+1140,Vivien Chen,F,59.0,2.4,Hong Kong,Real Estate,real estate,48717
+1141,Chu Lam Yiu,F,48.0,2.4,Hong Kong,Manufacturing,flavorings,48717
+1142,Michael Ying,M,68.0,2.4,Hong Kong,Fashion & Retail,retail,48717
+1143,Martin Lau,M,45.0,2.3,Hong Kong,Technology,e-commerce,48717
+1144,Tang Yiu,M,84.0,2.3,Hong Kong,Fashion & Retail,fashion retail,48717
+1145,Wong Man Li,M,53.0,2.3,Hong Kong,Manufacturing,furniture,48717
+1146,Tung Chee Hwa,M,81.0,2.2,Hong Kong,Logistics,shipping,48717
+1147,Xiong Xuqiang,M,61.0,2.2,Hong Kong,Real Estate,real estate,48717
+1148,Huang Yi,M,56.0,2.0,Hong Kong,Automotive,auto distribution,48717
+1149,Robin Zeng,M,50.0,1.9,Hong Kong,Energy,batteries,48717
+1150,Thomas Lau,M,64.0,1.6,Hong Kong,Fashion & Retail,department stores,48717
+1151,Allan Wong,M,68.0,1.6,Hong Kong,Manufacturing,electronics,48717
+1152,Wu Jianshu,M,54.0,1.6,Hong Kong,Automotive,auto parts,48717
+1153,Albert Yeung,M,75.0,1.6,Hong Kong,Diversified,"real estate, retail",48717
+1154,Henry Cheng,M,71.0,1.4,Hong Kong,Diversified,property,48717
+1155,William Fung,M,69.0,1.4,Hong Kong,Fashion & Retail,sourcing,48717
+1156,Lin Tianfu,M,55.0,1.3,Hong Kong,Fashion & Retail,"footwear, apparel",48717
+1157,Gordon Wu,M,83.0,1.3,Hong Kong,Real Estate,real estate,48717
+1158,Yu Peidi,M,58.0,1.3,Hong Kong,Real Estate,real estate,48717
+1159,King Pak Fu,M,48.0,1.2,Hong Kong,Real Estate,real estate,48717
+1160,Lo Ka Shui,M,71.0,1.2,Hong Kong,Real Estate,real estate,48717
+1161,Cui Lijie,F,60.0,1.1,Hong Kong,Gambling & Casinos,gambling,48717
+1162,Neil Shen,M,50.0,1.1,Hong Kong,Finance and Investments,venture capital,48717
+1163,Zhang Zhirong,M,49.0,1.1,Hong Kong,Diversified,"real estate, shipbuilding",48717
+1164,Hon Kwok Lung,M,63.0,1.0,Hong Kong,Fashion & Retail,real estate,48717
+1165,Zhuo Jun,F,52.0,1.0,Hong Kong,Manufacturing,printed circuit boards,48717
+1166,Beate Heister & Karl Albrecht Jr.,,66.0,29.8,Germany,Fashion & Retail,supermarkets,48196
+1167,Georg Schaeffler,M,53.0,25.3,Germany,Automotive,auto parts,48196
+1168,Susanne Klatten,F,56.0,25.0,Germany,Automotive,"BMW, pharmaceuticals",48196
+1169,Stefan Quandt,M,52.0,22.0,Germany,Automotive,BMW,48196
+1170,Dieter Schwarz,M,78.0,20.9,Germany,Fashion & Retail,retail,48196
+1171,"Theo Albrecht, Jr.",M,67.0,20.2,Germany,Fashion & Retail,"Aldi, Trader Joe's",48196
+1172,Klaus-Michael Kuehne,M,81.0,15.3,Germany,Logistics,shipping,48196
+1173,Reinhold Wuerth,M,83.0,13.6,Germany,Manufacturing,fasteners,48196
+1174,Heinz Hermann Thiele,M,77.0,12.9,Germany,Construction & Engineering,brakes,48196
+1175,Hasso Plattner,M,74.0,12.7,Germany,Technology,software,48196
+1176,Alexander Otto,M,50.0,11.8,Germany,Real Estate,real estate,48196
+1177,Udo & Harald Tschira,M,,11.7,Germany,Technology,software,48196
+1178,Michael Otto,M,75.0,11.0,Germany,Fashion & Retail,"retail, real estate",48196
+1179,Walter P.J. Droege,M,65.0,10.3,Germany,Service,consulting,48196
+1180,Dietmar Hopp,M,78.0,10.2,Germany,Technology,software,48196
+1181,Ludwig Merckle,M,53.0,6.7,Germany,Finance and Investments,pharmaceuticals,48196
+1182,Aloys Wobben,M,66.0,6.6,Germany,Energy,wind turbines,48196
+1183,Erivan Haub,M,85.0,6.4,Germany,Fashion & Retail,retail,48196
+1184,Guenther Fielmann,M,78.0,6.3,Germany,Healthcare,optometry,48196
+1185,Maria-Elisabeth Schaeffler-Thumann,F,76.0,6.3,Germany,Automotive,auto parts,48196
+1186,Ralph Dommermuth,M,54.0,5.9,Germany,Technology,internet service provider,48196
+1187,Wolfgang Marguerre,M,77.0,5.9,Germany,Healthcare,pharmaceuticals,48196
+1188,Martin Viessmann,M,64.0,5.7,Germany,Manufacturing,heating equipment,48196
+1189,Friede Springer,F,75.0,5.6,Germany,Media & Entertainment,publishing,48196
+1190,Michael Herz,M,74.0,5.4,Germany,Fashion & Retail,coffee,48196
+1191,Wolfgang Herz,M,67.0,5.4,Germany,Fashion & Retail,coffee,48196
+1192,Elisabeth Mohn,F,77.0,5.2,Germany,Media & Entertainment,publishing,48196
+1193,Gabriella Meister,F,70.0,5.0,Germany,Manufacturing,appliances,48196
+1194,Juergen Blickle,M,71.0,4.7,Germany,Manufacturing,auto parts,48196
+1195,Bernard Broermann,M,74.0,4.7,Germany,Healthcare,hospitals,48196
+1196,Alexandra Schoerghuber,F,59.0,4.7,Germany,Real Estate,real estate,48196
+1197,Paul Gauselmann,M,83.0,4.4,Germany,Gambling & Casinos,gambling,48196
+1198,Theo Mueller,M,78.0,4.4,Germany,Food and Beverage,dairy,48196
+1199,Wolfgang Reimann,M,65.0,4.4,Germany,Fashion & Retail,consumer goods,48196
+1200,Matthias Reimann-Andersen,M,53.0,4.4,Germany,Fashion & Retail,consumer goods,48196
+1201,Stefan Reimann-Andersen,M,54.0,4.4,Germany,Fashion & Retail,consumer goods,48196
+1202,Renate Reimann-Haas,F,66.0,4.4,Germany,Fashion & Retail,consumer goods,48196
+1203,Rainer Blickle,M,70.0,4.3,Germany,Manufacturing,auto parts,48196
+1204,Axel Oberwelland,M,51.0,4.1,Germany,Food and Beverage,candy,48196
+1205,Ursula Bechtolsheimer-Kipp,F,,4.0,Germany,Real Estate,retail,48196
+1206,Otto Philipp Braun,M,40.0,4.0,Germany,Healthcare,medical technology,48196
+1207,Traudl Engelhorn,F,91.0,4.0,Germany,Healthcare,"pharmaceuticals, medical equipment",48196
+1208,Daniela Herz,F,64.0,3.9,Germany,Finance and Investments,coffee,48196
+1209,Guenter Herz,M,77.0,3.9,Germany,Finance and Investments,coffee,48196
+1210,Hubert Burda,M,78.0,3.8,Germany,Media & Entertainment,publishing,48196
+1211,Katharina Otto-Bernstein,F,,3.8,Germany,Real Estate,real estate,48196
+1212,Andreas Struengmann,M,68.0,3.7,Germany,Healthcare,pharmaceuticals,48196
+1213,Thomas Struengmann,M,68.0,3.7,Germany,Healthcare,pharmaceuticals,48196
+1214,Friedhelm Loh,M,71.0,3.6,Germany,Manufacturing,manufacturing,48196
+1215,Gabriele Volkmann,F,,3.6,Germany,Automotive,auto parts,48196
+1216,Maren Otto,F,,3.5,Germany,Diversified,"retail, real estate",48196
+1217,Clemens Toennies,M,62.0,3.5,Germany,Food and Beverage,meat processing,48196
+1218,Yvonne Bauer,F,41.0,3.2,Germany,Media & Entertainment,media,48196
+1219,Otto Happel,M,70.0,3.2,Germany,Construction & Engineering,engineering,48196
+1220,Kurt Krieger,M,70.0,3.2,Germany,Fashion & Retail,furniture retailing,48196
+1221,Hans Georg Naeder,M,56.0,3.2,Germany,Manufacturing,prosthetics,48196
+1222,Michael & Reiner Schmidt-Ruthenbeck,M,75.0,3.2,Germany,Fashion & Retail,retail,48196
+1223,Robert Toennies,M,40.0,3.0,Germany,Food and Beverage,meat processing,48196
+1224,Erwin Franz Mueller,M,85.0,2.9,Germany,Fashion & Retail,drugstores,48196
+1225,Lutz Mario Helmig,M,71.0,2.6,Germany,Healthcare,hospitals,48196
+1226,Horst Julius Pudwill,M,73.0,2.5,Germany,Manufacturing,manufacturing,48196
+1227,Klaus-Peter Schulenberg,M,,2.5,Germany,Service,ticketing service,48196
+1228,Bergit Douglas,F,71.0,2.4,Germany,Food and Beverage,consumer goods,48196
+1229,Hermann Langness,M,65.0,2.4,Germany,Food and Beverage,retail,48196
+1230,Alfred Oetker,M,51.0,2.4,Germany,Fashion & Retail,consumer goods,48196
+1231,August Oetker,M,74.0,2.4,Germany,Fashion & Retail,consumer goods,48196
+1232,Carl Ferdinand Oetker,M,45.0,2.4,Germany,Fashion & Retail,consumer goods,48196
+1233,Christian Oetker,M,70.0,2.4,Germany,Fashion & Retail,consumer goods,48196
+1234,Julia Oetker,F,39.0,2.4,Germany,Fashion & Retail,consumer goods,48196
+1235,Richard Oetker,M,67.0,2.4,Germany,Fashion & Retail,consumer goods,48196
+1236,Rosely Schweizer,F,77.0,2.4,Germany,Fashion & Retail,consumer goods,48196
+1237,Peter Unger,M,73.0,2.4,Germany,Automotive,auto repair,48196
+1238,Dirk Rossmann,M,71.0,2.3,Germany,Fashion & Retail,drugstores,48196
+1239,Hans-Werner Hector,M,78.0,2.2,Germany,Technology,SAP,48196
+1240,Josef Boquoi,M,84.0,2.1,Germany,Food and Beverage,frozen foods,48196
+1241,Willibert Krueger,M,77.0,2.1,Germany,Food and Beverage,food processing,48196
+1242,Guenther Lehmann,M,,2.1,Germany,Fashion & Retail,drugstores,48196
+1243,Georg Nemetschek,M,84.0,2.1,Germany,Technology,software,48196
+1244,Sylvia Stroeher,F,63.0,2.1,Germany,Fashion & Retail,cosmetics,48196
+1245,Bernhard Braun-Luedicke,M,41.0,2.0,Germany,Healthcare,medical technology,48196
+1246,Eva Maria Braun-Luedicke,F,30.0,2.0,Germany,Healthcare,medical technology,48196
+1247,Friederike Braun-Luedicke,F,33.0,2.0,Germany,Healthcare,medical technology,48196
+1248,Fritz Draexlmaier,M,,2.0,Germany,Automotive,auto parts,48196
+1249,Christoph Henkel,M,60.0,2.0,Germany,Fashion & Retail,consumer goods,48196
+1250,Albert Berner,M,82.0,1.9,Germany,Manufacturing,fasteners,48196
+1251,Thomas Bruch,M,68.0,1.9,Germany,Fashion & Retail,retail,48196
+1252,Bernd Freier,M,61.0,1.9,Germany,Fashion & Retail,fashion retail,48196
+1253,Johannes Kaercher,M,67.0,1.9,Germany,Manufacturing,"vacuums, cleaning products",48196
+1254,Friedrich Knapp,M,67.0,1.9,Germany,Fashion & Retail,fashion retail,48196
+1255,Horst Wortmann,M,77.0,1.9,Germany,Fashion & Retail,footwear,48196
+1256,Anna Maria Braun,F,39.0,1.8,Germany,Healthcare,medical technology,48196
+1257,Johanna Braun,F,38.0,1.8,Germany,Healthcare,medical technology,48196
+1258,Karl Friedrich Braun,M,34.0,1.8,Germany,Healthcare,medical technology,48196
+1259,Julia Stoschek,F,43.0,1.8,Germany,Automotive,auto parts,48196
+1260,Maximilian Stoschek,M,,1.8,Germany,Automotive,auto parts,48196
+1261,Hubertus Benteler,M,71.0,1.7,Germany,Automotive,auto parts,48196
+1262,Ludwig Theodor Braun,M,27.0,1.7,Germany,Healthcare,medical technology,48196
+1263,Rolf Gerling,M,63.0,1.7,Germany,Finance and Investments,insurance,48196
+1264,Peter Leibinger,M,51.0,1.7,Germany,Manufacturing,machine tools,48196
+1265,Regine Leibinger,F,55.0,1.7,Germany,Manufacturing,machine tools,48196
+1266,Torsten Toeller,M,52.0,1.7,Germany,Fashion & Retail,pet food,48196
+1267,Nicola Leibinger-Kammueller,F,58.0,1.5,Germany,Manufacturing,manufacturing,48196
+1268,Monika Schoeller,F,79.0,1.5,Germany,Media & Entertainment,publishing,48196
+1269,Andreas Pohl,M,53.0,1.3,Germany,Finance and Investments,mutual funds,48196
+1270,"Reinfried Pohl, Jr.",M,58.0,1.3,Germany,Finance and Investments,mutual funds,48196
+1271,Karin Schick,F,,1.3,Germany,Technology,information technology,48196
+1272,Dieter Schnabel,M,72.0,1.3,Germany,Manufacturing,chemicals,48196
+1273,Gudrun Heine,F,63.0,1.2,Germany,Healthcare,medical devices,48196
+1274,Helga Kellerhals,F,78.0,1.2,Germany,Fashion & Retail,electronics retailer,48196
+1275,Sybill Storz,F,81.0,1.2,Germany,Healthcare,medical devices,48196
+1276,Wolfgang Egger,M,,1.1,Germany,Real Estate,real estate,48196
+1277,Frank Otto,M,60.0,1.1,Germany,Fashion & Retail,retail,48196
+1278,Alexander Samwer,M,43.0,1.1,Germany,Technology,tech investments,48196
+1279,Marc Samwer,M,47.0,1.1,Germany,Technology,tech investments,48196
+1280,Oliver Samwer,M,44.0,1.1,Germany,Technology,tech investments,48196
+1281,"Anton Kathrein, Jr.",M,32.0,1.0,Germany,Manufacturing,antennas,48196
+1282,Dirk Stroeer,M,49.0,1.0,Germany,Media & Entertainment,advertising,48196
+1283,Peter-Alexander Wacker,M,66.0,1.0,Germany,Manufacturing,chemicals,48196
+1284,Jorge Paulo Lemann,M,78.0,27.4,Brazil,Food and Beverage,beer,8921
+1285,Joseph Safra,M,79.0,23.5,Brazil,Finance and Investments,banking,8921
+1286,Marcel Herrmann Telles,M,68.0,14.0,Brazil,Food and Beverage,beer,8921
+1287,Carlos Alberto Sicupira,M,70.0,12.0,Brazil,Food and Beverage,beer,8921
+1288,Eduardo Saverin,M,35.0,10.1,Brazil,Technology,Facebook,8921
+1289,Pedro Moreira Salles,M,58.0,5.1,Brazil,Diversified,"banking, minerals",8921
+1290,Fernando Roberto Moreira Salles,M,72.0,5.0,Brazil,Diversified,"banking, minerals",8921
+1291,Joao Moreira Salles,M,56.0,5.0,Brazil,Diversified,"banking, minerals",8921
+1292,Walther Moreira Salles Junior,M,62.0,5.0,Brazil,Finance and Investments,"banking, minerals",8921
+1293,Walter Faria,M,63.0,3.2,Brazil,Food and Beverage,beer,8921
+1294,Luis Frias,M,55.0,3.0,Brazil,Technology,mobile payments,8921
+1295,Jorge Moll Filho,M,73.0,2.6,Brazil,Healthcare,hospitals,8921
+1296,Maria Helena Moraes Scripilliti,F,87.0,2.6,Brazil,Diversified,diversified,8921
+1297,Jose Roberto Marinho,M,62.0,2.5,Brazil,Media & Entertainment,media,8921
+1298,Roberto Irineu Marinho,M,70.0,2.5,Brazil,Media & Entertainment,media,8921
+1299,Carlos Sanchez,M,56.0,2.5,Brazil,Healthcare,generic drugs,8921
+1300,Jose Luis Cutrale,M,71.0,2.4,Brazil,Food and Beverage,orange juice,8921
+1301,Alfredo Egydio Arruda Villela Filho,M,48.0,2.4,Brazil,Finance and Investments,banking,8921
+1302,Andre Esteves,M,49.0,2.4,Brazil,Finance and Investments,banking,8921
+1303,Joao Roberto Marinho,M,64.0,2.4,Brazil,Media & Entertainment,media,8921
+1304,Nevaldo Rocha,M,88.0,2.4,Brazil,Fashion & Retail,retail,8921
+1305,Lia Maria Aguiar,F,80.0,2.2,Brazil,Finance and Investments,banking,8921
+1306,Alexandre Grendene Bartelle,M,68.0,2.2,Brazil,Fashion & Retail,shoes,8921
+1307,Jayme Garfinkel,M,72.0,2.0,Brazil,Finance and Investments,insurance,8921
+1308,Julio Bozano,M,82.0,1.8,Brazil,Finance and Investments,banking,8921
+1309,Liu Ming Chung,M,55.0,1.7,Brazil,Manufacturing,paper manufacturing,8921
+1310,Lirio Parisotto,M,64.0,1.6,Brazil,Finance and Investments,investments,8921
+1311,Jose Joao Abdalla Filho,M,,1.5,Brazil,Finance and Investments,investments,8921
+1312,Miguel Krigsner,M,68.0,1.5,Brazil,Fashion & Retail,cosmetics,8921
+1313,Jose Isaac Peres,M,77.0,1.5,Brazil,Real Estate,shopping malls,8921
+1314,Antonio Luiz Seabra,M,75.0,1.5,Brazil,Fashion & Retail,cosmetics,8921
+1315,Rubens Ometto Silveira Mello,M,68.0,1.4,Brazil,Energy,"sugar, ethanol",8921
+1316,Daisy Igel,F,90.0,1.2,Brazil,Energy,"gas, petrochemicals",8921
+1317,Ana Maria Marcondes Penido Sant'Anna,F,62.0,1.2,Brazil,Construction & Engineering,toll roads,8921
+1318,Maurizio Billi,M,60.0,1.0,Brazil,Healthcare,generic drugs,8921
+1319,Elie Horn,M,74.0,1.0,Brazil,Real Estate,real estate,8921
+1320,David Thomson,M,61.0,25.0,Canada,Media & Entertainment,media,46125
+1321,Joseph Tsai,M,54.0,9.7,Canada,Technology,e-commerce,46125
+1322,Galen Weston,M,77.0,9.5,Canada,Fashion & Retail,retail,46125
+1323,James Irving,M,90.0,8.3,Canada,Diversified,diversified,46125
+1324,Jim Pattison,M,89.0,6.9,Canada,Diversified,diversified,46125
+1325,David Cheriton,M,67.0,6.0,Canada,Technology,Google,46125
+1326,Emanuele (Lino) Saputo,M,81.0,5.3,Canada,Food and Beverage,cheese,46125
+1327,Garrett Camp,M,39.0,4.8,Canada,Technology,Uber,46125
+1328,Mark Scheinberg,M,44.0,4.8,Canada,Gambling & Casinos,online gambling,46125
+1329,Robert Miller,M,85.0,4.5,Canada,Fashion & Retail,retail,46125
+1330,Robert Miller,M,72.0,2.6,Canada,Technology,electronics components,46125
+1331,Peter Gilgan,M,67.0,3.8,Canada,Construction & Engineering,homebuilding,46125
+1332,Arthur Irving,M,88.0,3.5,Canada,Energy,oil,46125
+1333,Alain Bouchard,M,69.0,3.3,Canada,Fashion & Retail,retail,46125
+1334,Daryl Katz,M,56.0,3.1,Canada,Diversified,pharmacies,46125
+1335,Lawrence Stroll,M,58.0,2.7,Canada,Fashion & Retail,fashion investments,46125
+1336,Chip Wilson,M,61.0,2.6,Canada,Fashion & Retail,Lululemon,46125
+1337,Charles Bronfman,M,86.0,2.4,Canada,Food and Beverage,liquor,46125
+1338,Jean Coutu,M,91.0,2.4,Canada,Fashion & Retail,drugstores,46125
+1339,Carlo Fidani,M,63.0,2.4,Canada,Real Estate,real estate,46125
+1340,Mitchell Goldhar,M,56.0,2.4,Canada,Real Estate,real estate,46125
+1341,Bob Gaglardi,M,77.0,2.1,Canada,Real Estate,hotels,46125
+1342,Brandt Louie,M,74.0,2.1,Canada,Food and Beverage,drugstores,46125
+1343,N. Murray Edwards,M,58.0,1.8,Canada,Energy,oil & gas,46125
+1344,Gerald Schwartz,M,76.0,1.8,Canada,Finance and Investments,finance,46125
+1345,Marcel Adams,M,97.0,1.7,Canada,Real Estate,real estate,46125
+1346,Serge Godin,M,68.0,1.7,Canada,Technology,information technology,46125
+1347,Huang Chulong,M,59.0,1.7,Canada,Real Estate,real estate,46125
+1348,Jacques D'Amours,M,61.0,1.6,Canada,Fashion & Retail,retail,46125
+1349,Stephen Jarislowsky,M,92.0,1.6,Canada,Finance and Investments,money management,46125
+1350,Hal Jackman,M,86.0,1.5,Canada,Finance and Investments,"insurance, investments",46125
+1351,Frank Stronach,M,85.0,1.5,Canada,Automotive,auto parts,46125
+1352,Ronald Joyce,M,87.0,1.4,Canada,Food and Beverage,coffee chain,46125
+1353,Bruce Flatt,M,53.0,1.3,Canada,Finance and Investments,money management,46125
+1354,Ronnen Harary,M,46.0,1.3,Canada,Manufacturing,toys,46125
+1355,Pierre Karl Péladeau,M,56.0,1.3,Canada,Media & Entertainment,media,46125
+1356,Anton Rabie,M,46.0,1.3,Canada,Manufacturing,toys,46125
+1357,Guy Laliberté,M,58.0,1.2,Canada,Media & Entertainment,Cirque du Soleil,46125
+1358,Michael Lee-Chin,M,67.0,1.2,Canada,Finance and Investments,mutual funds,46125
+1359,Tobi Lutke,M,36.0,1.2,Canada,Technology,e-commerce,46125
+1360,Terence (Terry) Matthews,M,75.0,1.2,Canada,Telecom,telecom,46125
+1361,Clayton Riddell,M,80.0,1.2,Canada,Energy,oil & gas,46125
+1362,K. Rai Sahi,M,72.0,1.2,Canada,Real Estate,real estate,46125
+1363,Stephen Smith,M,67.0,1.1,Canada,Finance and Investments,finance and investments,46125
+1364,Jack Cockwell,M,77.0,1.0,Canada,Finance and Investments,"Real Estate, Private Equity",46125
+1365,Lawrence Rossy,M,75.0,1.0,Canada,Fashion & Retail,dollar stores,46125
+1366,V. Prem Watsa,M,67.0,1.0,Canada,Finance and Investments,"insurance, investments",46125
+1367,Giovanni Ferrero,M,53.0,23.0,Italy,Food and Beverage,"Nutella, chocolates",34318
+1368,Leonardo Del Vecchio,M,83.0,21.2,Italy,Fashion & Retail,eyeglasses,34318
+1369,Stefano Pessina,M,77.0,11.8,Italy,Fashion & Retail,drugstores,34318
+1370,Giorgio Armani,M,83.0,8.9,Italy,Fashion & Retail,luxury goods,34318
+1371,Silvio Berlusconi,M,81.0,8.0,Italy,Diversified,media,34318
+1372,Massimiliana Landini Aleotti,F,75.0,7.9,Italy,Healthcare,pharmaceuticals,34318
+1373,Augusto & Giorgio Perfetti,M,,6.6,Italy,Food and Beverage,candy,34318
+1374,Paolo & Gianfelice Mario Rocca,M,,4.9,Italy,Metals & Mining,pipe manufacturing,34318
+1375,Giuseppe De'Longhi,M,79.0,4.3,Italy,Fashion & Retail,coffee makers,34318
+1376,Renzo Rosso,M,62.0,4.1,Italy,Fashion & Retail,fashion,34318
+1377,Carlo Benetton,M,74.0,3.5,Italy,Fashion & Retail,"fashion retail, investments",34318
+1378,Gilberto Benetton,M,77.0,3.5,Italy,Fashion & Retail,"fashion retail, investments",34318
+1379,Giuliana Benetton,F,80.0,3.5,Italy,Fashion & Retail,"fashion retail, investments",34318
+1380,Luciano Benetton,M,83.0,3.5,Italy,Fashion & Retail,"fashion retail, investments",34318
+1381,Patrizio Bertelli,M,72.0,3.2,Italy,Fashion & Retail,luxury goods,34318
+1382,Miuccia Prada,F,69.0,3.2,Italy,Fashion & Retail,luxury goods,34318
+1383,Ennio Doris,M,77.0,3.0,Italy,Finance and Investments,financial services,34318
+1384,Piero Ferrari,M,73.0,2.7,Italy,Automotive,automobiles,34318
+1385,Sandro Veronesi,M,58.0,2.7,Italy,Fashion & Retail,fashion,34318
+1386,Francesco Gaetano Caltagirone,M,75.0,2.6,Italy,Construction & Engineering,"cement, diversified",34318
+1387,Luca Garavoglia,M,49.0,2.5,Italy,Food and Beverage,spirits,34318
+1388,Luigi Rovati,M,89.0,2.4,Italy,Healthcare,pharmaceuticals,34318
+1389,Gustavo Denegri,M,82.0,2.3,Italy,Healthcare,biotech,34318
+1390,Maria Franca Fissolo,F,83.0,2.2,Italy,Food and Beverage,"Nutella, chocolates",34318
+1391,Mario Moretti Polegato,M,65.0,2.0,Italy,Fashion & Retail,shoes,34318
+1392,Remo Ruffini,M,56.0,1.9,Italy,Fashion & Retail,winter jackets,34318
+1393,Diego Della Valle,M,64.0,1.8,Italy,Fashion & Retail,shoes,34318
+1394,Nicola Bulgari,M,77.0,1.7,Italy,Fashion & Retail,luxury goods,34318
+1395,Paolo Bulgari,M,80.0,1.7,Italy,Fashion & Retail,luxury goods,34318
+1396,Luigi Cremonini,M,79.0,1.7,Italy,Food and Beverage,meat processing,34318
+1397,Domenico Dolce,M,59.0,1.7,Italy,Fashion & Retail,luxury goods,34318
+1398,Stefano Gabbana,M,55.0,1.7,Italy,Fashion & Retail,luxury goods,34318
+1399,Massimo Moratti,M,73.0,1.7,Italy,Energy,oil refinery,34318
+1400,Pier Luigi Loro Piana,M,66.0,1.6,Italy,Fashion & Retail,fashion,34318
+1401,Gian Marco Moratti,M,81.0,1.6,Italy,Energy,oil refinery,34318
+1402,Alberto Prada,M,,1.4,Italy,Fashion & Retail,luxury goods,34318
+1403,Marina Prada,F,,1.4,Italy,Fashion & Retail,luxury goods,34318
+1404,Brunello Cucinelli,M,64.0,1.3,Italy,Fashion & Retail,fashion,34318
+1405,Andrea Della Valle,M,52.0,1.3,Italy,Fashion & Retail,shoes,34318
+1406,Emanuella Barilla,F,51.0,1.1,Italy,Food and Beverage,Barilla pasta,34318
+1407,Guido Barilla,M,59.0,1.1,Italy,Food and Beverage,Barilla pasta,34318
+1408,Luca Barilla,M,58.0,1.1,Italy,Food and Beverage,Barilla pasta,34318
+1409,Paolo Barilla,M,57.0,1.1,Italy,Food and Beverage,Barilla pasta,34318
+1410,Dietrich Mateschitz,M,74.0,23.0,Austria,Food and Beverage,Red Bull,51513
+1411,Johann Graf,M,71.0,8.1,Austria,Gambling & Casinos,gambling,51513
+1412,Heidi Horten,F,77.0,3.4,Austria,Fashion & Retail,retail,51513
+1413,Georg Stumpf,M,45.0,2.9,Austria,Diversified,"real estate, construction",51513
+1414,Wolfgang Leitner,M,65.0,2.0,Austria,Construction & Engineering,engineering,51513
+1415,Reinold Geiger,M,70.0,1.5,Austria,Fashion & Retail,beauty products,51513
+1416,Helmut Sohmen,M,78.0,1.3,Austria,Logistics,shipping,51513
+1417,Stefan Pierer,M,61.0,1.2,Austria,Automotive,automotive,51513
+1418,Masayoshi Son,M,60.0,22.7,Japan,Telecom,"internet, telecom",39287
+1419,Tadashi Yanai,M,69.0,19.5,Japan,Fashion & Retail,fashion retail,39287
+1420,Takemitsu Takizaki,M,73.0,17.5,Japan,Manufacturing,sensors,39287
+1421,Akira Mori,M,81.0,6.3,Japan,Real Estate,real estate,39287
+1422,Shigenobu Nagamori,M,73.0,5.6,Japan,Manufacturing,motors,39287
+1423,Hiroshi Mikitani,M,53.0,5.5,Japan,Fashion & Retail,online retail,39287
+1424,Keiichiro Takahara,M,87.0,5.0,Japan,Manufacturing,diapers,39287
+1425,Akio Nitori,M,74.0,4.4,Japan,Fashion & Retail,home furnishings,39287
+1426,Yasumitsu Shigeta,M,53.0,4.1,Japan,Telecom,mobile phone retailer,39287
+1427,Masatoshi Ito,M,94.0,3.9,Japan,Fashion & Retail,retail,39287
+1428,Masahiro Miki,M,62.0,3.8,Japan,Fashion & Retail,shoes,39287
+1429,Kazuo Okada,M,75.0,3.0,Japan,Gambling & Casinos,casinos,39287
+1430,Yusaku Maezawa,M,42.0,2.9,Japan,Technology,online retail,39287
+1431,Chang-Woo Han,M,87.0,2.5,Japan,Gambling & Casinos,pachinko parlors,39287
+1432,Yoshiko Mori,F,77.0,2.5,Japan,Real Estate,real estate,39287
+1433,Takao Yasuda,M,69.0,2.2,Japan,Fashion & Retail,retail,39287
+1434,Katsumi Tada,M,72.0,2.1,Japan,Real Estate,real estate,39287
+1435,Satoshi Suzuki,M,64.0,2.0,Japan,Fashion & Retail,cosmetics,39287
+1436,Masateru Uno,M,71.0,1.9,Japan,Fashion & Retail,drugstores,39287
+1437,Masahiro Noda,M,79.0,1.8,Japan,Technology,software,39287
+1438,Kenji Kasahara,M,42.0,1.6,Japan,Technology,social network,39287
+1439,Yasuhiro Fukushima,M,70.0,1.5,Japan,Media & Entertainment,video games,39287
+1440,Nobutada Saji,M,72.0,1.5,Japan,Food and Beverage,beverages,39287
+1441,Kagemasa Kozuki,M,77.0,1.4,Japan,Technology,video games,39287
+1442,Yoshiyuki Sankai,M,59.0,1.4,Japan,Technology,robotics,39287
+1443,Soichiro Fukutake,M,72.0,1.3,Japan,Service,education,39287
+1444,Nobutoshi Shimamura,M,92.0,1.3,Japan,Fashion & Retail,retail,39287
+1445,Eiichi Kuriwada,M,71.0,1.2,Japan,Logistics,package delivery,39287
+1446,Kentaro Ogawa,M,69.0,1.2,Japan,Food and Beverage,restaurants,39287
+1447,Yoshikazu Tanaka,M,41.0,1.2,Japan,Technology,social network,39287
+1448,Hideyuki Busujima,M,65.0,1.1,Japan,Gambling & Casinos,pachinko machines,39287
+1449,Hiroshi Ishibashi,M,71.0,1.1,Japan,Automotive,tires,39287
+1450,Yoshiko Shinohara,F,83.0,1.1,Japan,Service,staffing,39287
+1451,Susumu Fujita,M,45.0,1.0,Japan,Media & Entertainment,internet media,39287
+1452,Masayuki Ishihara,M,69.0,1.0,Japan,Gambling & Casinos,pachinko machines,39287
+1453,Henry Sy,M,93.0,20.0,Philippines,Diversified,diversified,3103
+1454,"John Gokongwei, Jr.",M,91.0,5.8,Philippines,Diversified,food and beverage,3103
+1455,"Enrique Razon, Jr.",M,58.0,4.9,Philippines,Logistics,ports,3103
+1456,Lucio Tan,M,83.0,4.7,Philippines,Diversified,diversified,3103
+1457,Tony Tan Caktiong,M,65.0,4.0,Philippines,Food and Beverage,food,3103
+1458,George Ty,M,85.0,3.9,Philippines,Finance and Investments,banking,3103
+1459,Manuel Villar,M,68.0,3.0,Philippines,Real Estate,real estate,3103
+1460,Andrew Tan,M,65.0,2.7,Philippines,Diversified,diversified,3103
+1461,Ramon Ang,M,64.0,2.5,Philippines,Food and Beverage,Diversified,3103
+1462,"Robert Coyiuto, Jr.",M,65.0,1.4,Philippines,Energy,power,3103
+1463,Eduardo Cojuangco,M,83.0,1.3,Philippines,Food and Beverage,"food, drinks",3103
+1464,Roberto Ongpin,M,81.0,1.1,Philippines,Diversified,diversified,3103
+1465,Vladimir Lisin,M,62.0,19.1,Russia,Metals & Mining,"steel, transport",11289
+1466,Alexey Mordashov,M,52.0,18.7,Russia,Metals & Mining,"steel, investments",11289
+1467,Leonid Mikhelson,M,62.0,18.0,Russia,Energy,"gas, chemicals",11289
+1468,Vagit Alekperov,M,67.0,16.4,Russia,Energy,oil,11289
+1469,Gennady Timchenko,M,65.0,16.0,Russia,Energy,"oil, gas",11289
+1470,Vladimir Potanin,M,57.0,15.9,Russia,Metals & Mining,metals,11289
+1471,Andrey Melnichenko,M,46.0,15.5,Russia,Energy,"coal, fertilizers",11289
+1472,Mikhail Fridman,M,54.0,15.1,Russia,Energy,"oil, banking, telecom",11289
+1473,Viktor Vekselberg,M,61.0,14.4,Russia,Energy,"metals, energy",11289
+1474,Alisher Usmanov,M,64.0,12.5,Russia,Metals & Mining,"steel, telecom, investments",11289
+1475,Roman Abramovich,M,51.0,10.8,Russia,Diversified,"steel, investments",11289
+1476,German Khan,M,56.0,9.8,Russia,Energy,"oil, banking, telecom",11289
+1477,Mikhail Prokhorov,M,53.0,9.6,Russia,Finance and Investments,investments,11289
+1478,Viktor Rashnikov,M,69.0,9.3,Russia,Manufacturing,steel,11289
+1479,Alexei Kuzmichev,M,55.0,7.6,Russia,Energy,"oil, banking, telecom",11289
+1480,Iskander Makhmudov,M,54.0,7.3,Russia,Metals & Mining,"mining, metals, machinery",11289
+1481,Leonid Fedun,M,62.0,6.9,Russia,Energy,oil,11289
+1482,Dmitry Rybolovlev,M,51.0,6.8,Russia,Manufacturing,fertilizer,11289
+1483,Oleg Deripaska,M,50.0,6.7,Russia,Metals & Mining,"aluminum, utilities",11289
+1484,Suleiman Kerimov,M,52.0,6.4,Russia,Finance and Investments,investments,11289
+1485,Alexander Abramov,M,59.0,5.2,Russia,Metals & Mining,"steel, mining",11289
+1486,Pyotr Aven,M,63.0,5.1,Russia,Energy,"oil, banking, telecom",11289
+1487,Andrei Skoch,M,52.0,4.9,Russia,Metals & Mining,steel,11289
+1488,Mikhail Gutseriev,M,60.0,4.8,Russia,Energy,"oil, real estate",11289
+1489,Andrei Kozitsyn,M,58.0,4.8,Russia,Metals & Mining,metals,11289
+1490,Andrei Guriev,M,58.0,4.5,Russia,Manufacturing,fertilizers,11289
+1491,Sergei Popov,M,46.0,4.5,Russia,Finance and Investments,banking,11289
+1492,Sergei Galitsky,M,50.0,4.0,Russia,Fashion & Retail,retail,11289
+1493,Viatcheslav Kantor,M,64.0,3.7,Russia,Manufacturing,"fertilizer, real estate",11289
+1494,Samvel Karapetyan,M,52.0,3.7,Russia,Construction & Engineering,real estate,11289
+1495,Yuri Milner,M,56.0,3.7,Russia,Finance and Investments,tech investments,11289
+1496,Dmitry Kamenshchik,M,50.0,3.5,Russia,Service,airport,11289
+1497,Igor Altushkin,M,47.0,3.4,Russia,Metals & Mining,metals,11289
+1498,Alexander Ponomarenko,M,53.0,3.4,Russia,Logistics,"real estate, airport",11289
+1499,Alexander Skorobogatko,M,50.0,3.4,Russia,Logistics,"real estate, airport",11289
+1500,Zarakh Iliev,M,51.0,3.3,Russia,Real Estate,real estate,11289
+1501,God Nisanov,M,46.0,3.3,Russia,Real Estate,real estate,11289
+1502,Alexander Svetakov,M,50.0,3.3,Russia,Finance and Investments,real estate,11289
+1503,Arkady Rotenberg,M,66.0,3.0,Russia,Construction & Engineering,"construction, pipes, banking",11289
+1504,Igor Kesaev,M,51.0,2.4,Russia,Fashion & Retail,"tobacco distribution, retail",11289
+1505,Alexander Mamut,M,58.0,2.4,Russia,Finance and Investments,investments,11289
+1506,Alexander Frolov,M,54.0,2.2,Russia,Metals & Mining,"mining, steel",11289
+1507,Oleg Tinkov,M,50.0,2.2,Russia,Finance and Investments,banking,11289
+1508,Nikolai Buinov,M,50.0,2.1,Russia,Energy,"oil, gas",11289
+1509,Igor Makarov,M,56.0,2.1,Russia,Energy,investments,11289
+1510,Alexey Repik,M,38.0,2.1,Russia,Healthcare,pharmaceuticals,11289
+1511,Andrei Bokarev,M,51.0,2.0,Russia,Manufacturing,"metals, mining",11289
+1512,Vadim Moshkovich,M,51.0,2.0,Russia,Food and Beverage,"agriculture, land",11289
+1513,Vladimir Yevtushenkov,M,69.0,2.0,Russia,Telecom,"telecom, investments",11289
+1514,Alexander Nesis,M,55.0,1.9,Russia,Finance and Investments,"metals, banking, fertilizers",11289
+1515,Megdet Rahimkulov,M,72.0,1.9,Russia,Finance and Investments,investments,11289
+1516,Aras Agalarov,M,62.0,1.8,Russia,Fashion & Retail,real estate,11289
+1517,Vladimir Bogdanov,M,67.0,1.8,Russia,Energy,oil,11289
+1518,Roman Avdeev,M,50.0,1.7,Russia,Finance and Investments,"banking, development",11289
+1519,Pavel Durov,M,32.0,1.7,Russia,Technology,messaging app,11289
+1520,Sergei Gordeev,M,45.0,1.7,Russia,Real Estate,real estate,11289
+1521,Konstantin Strukov,M,59.0,1.7,Russia,Metals & Mining,"gold, coal mining",11289
+1522,Roman Trotsenko,M,47.0,1.7,Russia,Logistics,"transport, engineering, real estate",11289
+1523,Alexander Dzhaparidze,M,62.0,1.6,Russia,Energy,oil services,11289
+1524,Dmitry Pumpyansky,M,54.0,1.6,Russia,Metals & Mining,steel pipes,11289
+1525,Oleg Boyko,M,53.0,1.5,Russia,Diversified,diversified,11289
+1526,Alexander Klyachin,M,51.0,1.5,Russia,Real Estate,real estate,11289
+1527,Yuri Shefler,M,50.0,1.5,Russia,Food and Beverage,alcohol,11289
+1528,Arkady Volozh,M,54.0,1.5,Russia,Media & Entertainment,search engine,11289
+1529,Farkhad Akhmedov,M,62.0,1.4,Russia,Energy,investments,11289
+1530,Vasily Anisimov,M,66.0,1.4,Russia,Metals & Mining,real estate,11289
+1531,Eugene Kaspersky,M,52.0,1.4,Russia,Technology,software,11289
+1532,Viktor Kharitonin,M,45.0,1.4,Russia,Healthcare,pharmaceuticals,11289
+1533,Pyotr Kondrashev,M,68.0,1.4,Russia,Manufacturing,investments,11289
+1534,Yuri Kovalchuk,M,66.0,1.4,Russia,Finance and Investments,"banking, insurance, media",11289
+1535,Anatoly Lomakin,M,65.0,1.4,Russia,Metals & Mining,investments,11289
+1536,Kirill Shamalov,M,35.0,1.4,Russia,Energy,petrochemicals,11289
+1537,Gavril Yushvaev,M,60.0,1.4,Russia,Finance and Investments,"precious metals, real estate",11289
+1538,Leonid Boguslavsky,M,67.0,1.3,Russia,Finance and Investments,venture capital,11289
+1539,Andrei Kosogov,M,57.0,1.3,Russia,Energy,"oil, banking, telecom",11289
+1540,Elena Baturina,F,55.0,1.2,Russia,Construction & Engineering,"investments, real estate",11289
+1541,Gleb Fetisov,M,52.0,1.2,Russia,Telecom,investments,11289
+1542,Sergei Kolesnikov,M,46.0,1.2,Russia,Manufacturing,building materials,11289
+1543,Ziyavudin Magomedov,M,49.0,1.2,Russia,Energy,"port, gas",11289
+1544,Andrei Molchanov,M,46.0,1.2,Russia,Construction & Engineering,construction materials,11289
+1545,Boris Rotenberg,M,61.0,1.2,Russia,Construction & Engineering,"construction, pipes, chemicals",11289
+1546,Igor Rybakov,M,46.0,1.2,Russia,Manufacturing,building materials,11289
+1547,Airat Shaimiev,M,56.0,1.2,Russia,Energy,"refinery, chemicals",11289
+1548,Radik Shaimiev,M,53.0,1.2,Russia,Energy,"refinery, chemicals",11289
+1549,Mikhail Shelkov,M,50.0,1.2,Russia,Metals & Mining,titanium,11289
+1550,Leonid Simanovsky,M,68.0,1.2,Russia,Finance and Investments,investments,11289
+1551,Vadim Yakunin,M,55.0,1.2,Russia,Healthcare,pharmacy,11289
+1552,Andrei Filatov,M,46.0,1.1,Russia,Logistics,"ports, railway transport",11289
+1553,Vladimir Kogan,M,55.0,1.1,Russia,Diversified,banking,11289
+1554,Nikita Mishin,M,46.0,1.1,Russia,Logistics,"ports, railway transport",11289
+1555,Konstantin Nikolaev,M,47.0,1.1,Russia,Logistics,"ports, railway transport",11289
+1556,Andrei Rappoport,M,55.0,1.1,Russia,Finance and Investments,investments,11289
+1557,Igor Rotenberg,M,45.0,1.1,Russia,Diversified,"construction, real estate",11289
+1558,Albert Shigaboutdinov,M,65.0,1.1,Russia,Diversified,"refinery, chemicals",11289
+1559,Rustem Sulteev,M,64.0,1.1,Russia,Energy,"refinery, chemicals",11289
+1560,Eduard Chukhlebov,M,54.0,1.0,Russia,Metals & Mining,metallurgy,11289
+1561,Filaret Galchev,M,55.0,1.0,Russia,Construction & Engineering,construction materials,11289
+1562,Yuri Gushchin,M,73.0,1.0,Russia,Food and Beverage,"candy, real estate",11289
+1563,Igor Kudryashkin,M,56.0,1.0,Russia,Metals & Mining,metallurgy,11289
+1564,Lev Kvetnoi,M,52.0,1.0,Russia,Finance and Investments,cement,11289
+1565,Sergei Petrov,M,63.0,1.0,Russia,Automotive,auto import and dealerships,11289
+1566,Charoen Sirivadhanabhakdi,M,74.0,17.9,Thailand,Food and Beverage,"drinks, real estate",7274
+1567,Dhanin Chearavanont,M,79.0,14.9,Thailand,Diversified,diversified,7274
+1568,Vichai Srivaddhanaprabha,M,60.0,5.0,Thailand,Fashion & Retail,duty-free,7274
+1569,Sumet Jiaravanon,M,83.0,4.2,Thailand,Diversified,diversified,7274
+1570,Jaran Chiaravanont,M,88.0,4.1,Thailand,Diversified,diversified,7274
+1571,Montri Jiaravanont,M,87.0,4.1,Thailand,Diversified,diversified,7274
+1572,Sarath Ratanavadi,M,52.0,3.6,Thailand,Energy,energy,7274
+1573,Somphote Ahunai,M,51.0,3.4,Thailand,Energy,energy,7274
+1574,Vanich Chaiyawan,M,86.0,3.3,Thailand,Finance and Investments,"insurance, beverages",7274
+1575,Prasert Prasarttong-Osoth,M,85.0,3.0,Thailand,Healthcare,hospitals,7274
+1576,Krit Ratanarak,M,72.0,2.7,Thailand,Media & Entertainment,"media, real estate",7274
+1577,William Heinecke,M,69.0,2.1,Thailand,Real Estate,hotels,7274
+1578,Harald Link,M,63.0,2.0,Thailand,Diversified,diversified,7274
+1579,Chuchat & Daonapa Petaumpai,,65.0,2.0,Thailand,Finance and Investments,motorcycle loans,7274
+1580,Kiat Chiaravanont,M,,1.9,Thailand,Diversified,diversified,7274
+1581,Thaksin Shinawatra,M,68.0,1.8,Thailand,Finance and Investments,investments,7274
+1582,Prayudh Mahagitsiri,M,72.0,1.7,Thailand,Food and Beverage,"coffee, shipping",7274
+1583,Wichai Thongtang,M,71.0,1.7,Thailand,Real Estate,investments,7274
+1584,Keeree Kanjanapas,M,67.0,1.5,Thailand,Real Estate,transportation,7274
+1585,Thongma Vijitpongpun,M,60.0,1.5,Thailand,Real Estate,real estate,7274
+1586,Phongthep Chiaravanont,M,66.0,1.2,Thailand,Diversified,diversified,7274
+1587,Rit Thirakomen,M,66.0,1.2,Thailand,Food and Beverage,restaurants,7274
+1588,Manas Chiaravanond,M,,1.1,Thailand,Diversified,diversified,7274
+1589,Yupa Chiaravanond,F,,1.1,Thailand,Diversified,diversified,7274
+1590,Prathip Chiravanond,M,,1.1,Thailand,Diversified,diversified,7274
+1591,Chatchai Kaewbootta,M,66.0,1.1,Thailand,Finance and Investments,auto loans,7274
+1592,Niti Osathanugrah,M,44.0,1.1,Thailand,Finance and Investments,investments,7274
+1593,Pete Bodharamik,M,45.0,1.0,Thailand,Telecom,telecom,7274
+1594,Sathien Setthasit,M,64.0,1.0,Thailand,Food and Beverage,energy drinks,7274
+1595,Surin Upatkoon,M,69.0,1.0,Thailand,Diversified,"telecom, lotteries, insurance",7274
+1596,Pallonji Mistry,M,89.0,17.8,Ireland,Construction & Engineering,construction,77450
+1597,John Grayken,M,62.0,6.6,Ireland,Finance and Investments,private equity,77450
+1598,Denis O'Brien,M,60.0,4.6,Ireland,Telecom,telecom,77450
+1599,Dermot Desmond,M,67.0,2.3,Ireland,Finance and Investments,finance,77450
+1600,Michael O'Leary,M,57.0,1.1,Ireland,Service,Ryanair,77450
+1601,John Collison,M,26.0,1.0,Ireland,Technology,Stripe,77450
+1602,Patrick Collison,M,28.0,1.0,Ireland,Technology,Stripe,77450
+1603,Martin Naughton,M,79.0,1.0,Ireland,Manufacturing,heating equipment,77450
+1604,R. Budi Hartono,M,77.0,17.4,Indonesia,Finance and Investments,"banking, tobacco",3894
+1605,Michael Hartono,M,78.0,16.7,Indonesia,Manufacturing,"banking, tobacco",3894
+1606,Sri Prakash Lohia,M,65.0,7.0,Indonesia,Manufacturing,polyester,3894
+1607,Tahir,M,66.0,3.5,Indonesia,Diversified,diversified,3894
+1608,Chairul Tanjung,M,56.0,3.5,Indonesia,Diversified,diversified,3894
+1609,Mochtar Riady,M,89.0,3.0,Indonesia,Diversified,diversified,3894
+1610,Prajogo Pangestu,M,74.0,2.9,Indonesia,Diversified,petrochemicals,3894
+1611,Murdaya Poo,M,77.0,2.0,Indonesia,Diversified,diversified,3894
+1612,Peter Sondakh,M,68.0,1.9,Indonesia,Finance and Investments,investments,3894
+1613,Theodore Rachmat,M,74.0,1.7,Indonesia,Diversified,diversified,3894
+1614,Low Tuck Kwong,M,70.0,1.5,Indonesia,Energy,coal,3894
+1615,Eddy Kusnadi Sariaatmadja,M,64.0,1.5,Indonesia,Media & Entertainment,"media, tech",3894
+1616,Ciputra,M,86.0,1.4,Indonesia,Real Estate,real estate,3894
+1617,Martua Sitorus,M,58.0,1.4,Indonesia,Manufacturing,palm oil,3894
+1618,Djoko Susanto,M,68.0,1.3,Indonesia,Fashion & Retail,supermarkets,3894
+1619,Alexander Tedja,M,72.0,1.3,Indonesia,Real Estate,real estate,3894
+1620,Harjo Sutanto,M,92.0,1.2,Indonesia,Fashion & Retail,consumer goods,3894
+1621,Soegiarto Adikoesoemo,M,80.0,1.1,Indonesia,Logistics,chemicals,3894
+1622,Hary Tanoesoedibjo,M,52.0,1.1,Indonesia,Media & Entertainment,media,3894
+1623,Sukanto Tanoto,M,68.0,1.1,Indonesia,Diversified,diversified,3894
+1624,Gina Rinehart,F,64.0,17.4,Australia,Metals & Mining,mining,57305
+1625,Harry Triguboff,M,85.0,9.2,Australia,Real Estate,real estate,57305
+1626,Vivek Chaand Sehgal,M,61.0,6.0,Australia,Automotive,auto parts,57305
+1627,Frank Lowy,M,87.0,5.9,Australia,Real Estate,shopping malls,57305
+1628,Anthony Pratt,M,58.0,5.5,Australia,Manufacturing,manufacturing,57305
+1629,Andrew Forrest,M,56.0,4.4,Australia,Metals & Mining,mining,57305
+1630,John Gandel,M,83.0,4.1,Australia,Real Estate,shopping malls,57305
+1631,James Packer,M,50.0,4.1,Australia,Gambling & Casinos,casinos,57305
+1632,Mike Cannon-Brookes,M,38.0,3.4,Australia,Technology,software,57305
+1633,Scott Farquhar,M,38.0,3.4,Australia,Technology,software,57305
+1634,Lindsay Fox,M,81.0,3.4,Australia,Logistics,"logistics, real estate",57305
+1635,Kerry Stokes,M,77.0,3.1,Australia,Diversified,"construction equipment, media",57305
+1636,Fiona Geminder,F,53.0,2.7,Australia,Manufacturing,manufacturing,57305
+1637,Michael Hintze,M,64.0,2.4,Australia,Finance and Investments,investment,57305
+1638,Stanley Perron,M,95.0,2.3,Australia,Real Estate,"real estate, retail",57305
+1639,Lang Walker,M,72.0,2.2,Australia,Real Estate,real estate,57305
+1640,David Hains,M,87.0,2.1,Australia,Finance and Investments,Investment,57305
+1641,Heloise Pratt,F,55.0,2.1,Australia,Manufacturing,"manufacturing, investment",57305
+1642,Maurice Alter,M,93.0,1.8,Australia,Real Estate,real estate,57305
+1643,Jack Cowin,M,75.0,1.8,Australia,Food and Beverage,fast food,57305
+1644,Angela Bennett,F,74.0,1.7,Australia,Metals & Mining,mining,57305
+1645,Gerry Harvey,M,78.0,1.7,Australia,Fashion & Retail,retail,57305
+1646,Kerr Neilson,M,68.0,1.7,Australia,Finance and Investments,investment,57305
+1647,David Teoh,M,62.0,1.6,Australia,Telecom,telecoms,57305
+1648,Richard White,M,63.0,1.6,Australia,Technology,software,57305
+1649,Judith Neilson,F,72.0,1.5,Australia,Finance and Investments,investments,57305
+1650,Nigel Austin,M,47.0,1.4,Australia,Fashion & Retail,retailing,57305
+1651,Bob Ell,M,73.0,1.4,Australia,Construction & Engineering,real estate,57305
+1652,Manny Stul,M,69.0,1.4,Australia,Manufacturing,toys,57305
+1653,Len Ainsworth,M,94.0,1.3,Australia,Gambling & Casinos,betting machines,57305
+1654,John Hancock,M,42.0,1.3,Australia,Metals & Mining,trust fund,57305
+1655,Solomon Lew,M,73.0,1.3,Australia,Fashion & Retail,retail,57305
+1656,Bianca Rinehart,F,41.0,1.3,Australia,Metals & Mining,trust fund,57305
+1657,Ginia Rinehart,F,30.0,1.3,Australia,Metals & Mining,trust fund,57305
+1658,Hope Welker,F,31.0,1.3,Australia,Metals & Mining,trust fund,57305
+1659,Brett Blundy,M,58.0,1.2,Australia,Fashion & Retail,"retail, agribusiness",57305
+1660,Terry Snow,M,74.0,1.2,Australia,Real Estate,"airports, real estate",57305
+1661,John Van Lieshout,M,72.0,1.2,Australia,Real Estate,real estate,57305
+1662,Gretel Packer,F,52.0,1.1,Australia,Media & Entertainment,casinos,57305
+1663,Alan Rydge,M,66.0,1.1,Australia,Real Estate,entertainment,57305
+1664,Huang Bingwen,M,64.0,1.0,Australia,Manufacturing,packaging,57305
+1665,Paul Little,M,70.0,1.0,Australia,Real Estate,"logistics, real estate",57305
+1666,Sam Tarascio,M,73.0,1.0,Australia,Real Estate,real estate,57305
+1667,Stefan Persson,M,70.0,16.8,Sweden,Fashion & Retail,H&M,54112
+1668,Hans Rausing,M,92.0,12.5,Sweden,Manufacturing,packaging,54112
+1669,Melker Schorling,M,71.0,8.2,Sweden,Finance and Investments,investments,54112
+1670,Frederik Paulsen,M,67.0,7.3,Sweden,Healthcare,health care,54112
+1671,Jorn Rausing,M,58.0,7.0,Sweden,Food and Beverage,packaging,54112
+1672,Finn Rausing,M,63.0,6.6,Sweden,Food and Beverage,packaging,54112
+1673,Kirsten Rausing,F,66.0,6.6,Sweden,Food and Beverage,packaging,54112
+1674,Dan Olsson,M,71.0,6.0,Sweden,Diversified,diversified,54112
+1675,Fredrik Lundberg,M,66.0,4.7,Sweden,Real Estate,"real estate, investments",54112
+1676,Bertil Hult,M,77.0,4.5,Sweden,Service,education,54112
+1677,Carl Bennet,M,66.0,4.1,Sweden,Finance and Investments,investments,54112
+1678,Gustaf Douglas,M,80.0,3.8,Sweden,Diversified,investments,54112
+1679,Stefan Olsson,M,69.0,2.8,Sweden,Diversified,diversified,54112
+1680,Torbjorn Tornqvist,M,64.0,2.6,Sweden,Energy,oil trading,54112
+1681,Lottie Tham,F,69.0,2.5,Sweden,Fashion & Retail,H&M,54112
+1682,Erik Selin,M,51.0,1.9,Sweden,Real Estate,real estate,54112
+1683,Karl-Johan Persson,M,43.0,1.6,Sweden,Fashion & Retail,H&M,54112
+1684,Tom Persson,M,32.0,1.6,Sweden,Fashion & Retail,H&M,54112
+1685,Charlotte Soderstrom,F,41.0,1.6,Sweden,Fashion & Retail,H&M,54112
+1686,Carl Douglas,M,57.0,1.5,Sweden,Diversified,investments,54112
+1687,Eric Douglas,M,50.0,1.5,Sweden,Diversified,investments,54112
+1688,Madeleine Olsson Ericksson,F,73.0,1.5,Sweden,Diversified,diversified,54112
+1689,Thomas Sandell,M,57.0,1.5,Sweden,Finance and Investments,hedge funds,54112
+1690,Markus Persson,M,39.0,1.4,Sweden,Media & Entertainment,computer games,54112
+1691,Louise Lindh,F,38.0,1.3,Sweden,Diversified,investments,54112
+1692,Katarina Martinson,F,36.0,1.3,Sweden,Diversified,investments,54112
+1693,Erik Paulsson,M,76.0,1.2,Sweden,Real Estate,"construction, real estate",54112
+1694,Jonas Kamprad,M,52.0,1.1,Sweden,Finance and Investments,IKEA,54112
+1695,Mathias Kamprad,M,48.0,1.1,Sweden,Finance and Investments,IKEA,54112
+1696,Peter Kamprad,M,54.0,1.1,Sweden,Finance and Investments,IKEA,54112
+1697,Jenny Lindén Urnes,F,47.0,1.1,Sweden,Manufacturing,powdered metal,54112
+1698,James Ratcliffe,M,65.0,16.4,United Kingdom,Manufacturing,chemicals,42491
+1699,Michael Platt,M,50.0,6.9,United Kingdom,Finance and Investments,hedge funds,42491
+1700,Ian & Richard Livingstone,M,,6.4,United Kingdom,Real Estate,real estate,42491
+1701,Bruno Schroder,M,85.0,6.2,United Kingdom,Finance and Investments,banking,42491
+1702,David & Frederick Barclay,M,84.0,5.8,United Kingdom,Diversified,"media, retail",42491
+1703,James Dyson,M,71.0,5.6,United Kingdom,Manufacturing,vacuums,42491
+1704,Laurence Graff,M,80.0,5.6,United Kingdom,Fashion & Retail,diamond jewelry,42491
+1705,Andrew Currie,M,62.0,5.5,United Kingdom,Manufacturing,chemicals,42491
+1706,John Reece,M,61.0,5.5,United Kingdom,Manufacturing,chemicals,42491
+1707,Richard Branson,M,67.0,5.0,United Kingdom,Diversified,Virgin,42491
+1708,Denise Coates,F,50.0,5.0,United Kingdom,Gambling & Casinos,online gambling,42491
+1709,Joe Lewis,M,81.0,5.0,United Kingdom,Finance and Investments,investments,42491
+1710,Philip & Cristina Green,,66.0,4.8,United Kingdom,Fashion & Retail,fashion retail,42491
+1711,Clive Calder,M,71.0,4.7,United Kingdom,Media & Entertainment,record label,42491
+1712,Robert Miller,M,85.0,4.5,United Kingdom,Fashion & Retail,retail,42491
+1713,Robert Miller,M,72.0,2.6,United Kingdom,Technology,electronics components,42491
+1714,Anthony Bamford,M,72.0,4.4,United Kingdom,Construction & Engineering,construction equipment,42491
+1715,Peter Hargreaves,M,71.0,3.9,United Kingdom,Finance and Investments,financial services,42491
+1716,Michael Ashley,M,53.0,3.6,United Kingdom,Fashion & Retail,sports retailing,42491
+1717,Bernard Ecclestone,M,87.0,3.5,United Kingdom,Sports,Formula One,42491
+1718,Tom Morris,M,63.0,3.1,United Kingdom,Fashion & Retail,retail,42491
+1719,Christopher Hohn,M,51.0,3.0,United Kingdom,Finance and Investments,Hedge funds,42491
+1720,John Caudwell,M,65.0,2.6,United Kingdom,Telecom,mobile phones,42491
+1721,John Coates,M,48.0,2.5,United Kingdom,Gambling & Casinos,online gambling,42491
+1722,Maritsa Lazari,F,73.0,2.5,United Kingdom,Real Estate,real estate,42491
+1723,Bernard Lewis,M,92.0,2.5,United Kingdom,Fashion & Retail,fashion retailer,42491
+1724,Kenneth Lo,M,79.0,2.3,United Kingdom,Finance and Investments,textiles,42491
+1725,Mark Coombs,M,57.0,2.2,United Kingdom,Finance and Investments,finance,42491
+1726,Sunil Vaswani,M,54.0,2.2,United Kingdom,Diversified,diversified,42491
+1727,Eddie & Sol Zakay,M,,2.2,United Kingdom,Real Estate,Real Estate,42491
+1728,Hilton Schlosberg,M,65.0,2.0,United Kingdom,Food and Beverage,energy drinks,42491
+1729,Stephen Rubin,M,81.0,1.9,United Kingdom,Fashion & Retail,sports apparel,42491
+1730,Alex Beard,M,50.0,1.8,United Kingdom,Metals & Mining,"mining, commodities",42491
+1731,David Harding,M,56.0,1.8,United Kingdom,Finance and Investments,finance,42491
+1732,Michael Ashcroft,M,72.0,1.7,United Kingdom,Finance and Investments,security,42491
+1733,Anthony Langley,M,63.0,1.7,United Kingdom,Diversified,manufacturing,42491
+1734,Farhad Moshiri,M,63.0,1.7,United Kingdom,Diversified,diversified,42491
+1735,John Whittaker,M,76.0,1.7,United Kingdom,Real Estate,real estate,42491
+1736,John Bloor,M,75.0,1.6,United Kingdom,Diversified,"real estate, manufacturing",42491
+1737,Andrey Andreev,M,44.0,1.5,United Kingdom,Technology,online dating,42491
+1738,Richard Desmond,M,66.0,1.5,United Kingdom,Media & Entertainment,publishing,42491
+1739,Ian Wood,M,75.0,1.5,United Kingdom,Energy,energy services,42491
+1740,Jasminder Singh,M,67.0,1.4,United Kingdom,Real Estate,hotels,42491
+1741,Saket Burman,M,41.0,1.3,United Kingdom,Food and Beverage,consumer goods,42491
+1742,Charles Dunstone,M,54.0,1.3,United Kingdom,Telecom,mobile phones,42491
+1743,Alan Howard,M,54.0,1.3,United Kingdom,Finance and Investments,hedge funds,42491
+1744,Raghuvinder Kataria,M,69.0,1.3,United Kingdom,Finance and Investments,diversified,42491
+1745,Philip Day,M,52.0,1.2,United Kingdom,Fashion & Retail,clothing retail,42491
+1746,Mark Dixon,M,59.0,1.2,United Kingdom,Real Estate,office real estate,42491
+1747,Dennis Gillings,M,74.0,1.2,United Kingdom,Healthcare,drug testing,42491
+1748,Mohammed Ibrahim,M,72.0,1.1,United Kingdom,Telecom,communications,42491
+1749,Simon Nixon,M,50.0,1.1,United Kingdom,Technology,price comparison website,42491
+1750,Iris Fontbona,F,75.0,16.3,Chile,Metals & Mining,mining,15923
+1751,Horst Paulmann,M,83.0,4.8,Chile,Fashion & Retail,retail,15923
+1752,Julio Ponce Lerou,M,72.0,4.8,Chile,Metals & Mining,fertilizer,15923
+1753,Alvaro Saieh Bendeck,M,68.0,3.2,Chile,Finance and Investments,banking,15923
+1754,Sebastian Piñera,M,68.0,2.8,Chile,Finance and Investments,investments,15923
+1755,Roberto Angelini Rossi,M,69.0,2.7,Chile,Diversified,"forestry, mining",15923
+1756,Patricia Angelini Rossi,F,64.0,2.1,Chile,Diversified,"forestry, mining",15923
+1757,Jean Salata,M,52.0,1.6,Chile,Finance and Investments,finance,15923
+1758,Luis Enrique Yarur Rey,M,67.0,1.6,Chile,Finance and Investments,banking,15923
+1759,Bernardo Matte,M,62.0,1.0,Chile,Manufacturing,paper,15923
+1760,Eliodoro Matte,M,72.0,1.0,Chile,Manufacturing,paper,15923
+1761,Petr Kellner,M,54.0,15.5,Czech Republic,Finance and Investments,banking,22973
+1762,Andrej Babis,M,63.0,4.6,Czech Republic,Food and Beverage,agriculture,22973
+1763,Karel Komarek,M,49.0,3.2,Czech Republic,Gambling & Casinos,lotteries,22973
+1764,Radovan Vitek,M,47.0,2.9,Czech Republic,Real Estate,real estate,22973
+1765,Daniel Kretinsky,M,42.0,2.6,Czech Republic,Energy,energy generation,22973
+1766,Pavel Tykac,M,54.0,1.3,Czech Republic,Metals & Mining,coal mines,22973
+1767,Robert Kuok,M,94.0,14.8,Malaysia,Diversified,"palm oil, shipping, property",11239
+1768,Ananda Krishnan,M,80.0,7.2,Malaysia,Telecom,"telecoms, media, oil-services",11239
+1769,Quek Leng Chan,M,76.0,7.2,Malaysia,Diversified,"banking, property",11239
+1770,Teh Hong Piow,M,88.0,6.0,Malaysia,Finance and Investments,banking,11239
+1771,Lee Shin Cheng,M,79.0,5.6,Malaysia,Manufacturing,"palm oil, property",11239
+1772,Lim Kok Thay,M,66.0,4.7,Malaysia,Gambling & Casinos,casinos,11239
+1773,Chen Lip Keong,M,70.0,3.3,Malaysia,Gambling & Casinos,"casinos, property, energy",11239
+1774,Lau Cho Kun,M,82.0,2.6,Malaysia,Diversified,"palm oil, property",11239
+1775,Kuan Kam Hon,M,70.0,2.5,Malaysia,Manufacturing,synthetic gloves,11239
+1776,Koon Poh Keong,M,57.0,2.4,Malaysia,Manufacturing,aluminum,11239
+1777,Jeffrey Cheah,M,73.0,1.3,Malaysia,Real Estate,property,11239
+1778,Lim Wee Chai,M,60.0,1.2,Malaysia,Manufacturing,rubber gloves,11239
+1779,Tiong Hiew King,M,83.0,1.1,Malaysia,Diversified,"timber, media",11239
+1780,Aliko Dangote,M,61.0,14.1,Nigeria,Manufacturing,"cement, sugar, flour",2028
+1781,Mike Adenuga,M,65.0,5.3,Nigeria,Diversified,"telecom, oil",2028
+1782,Folorunsho Alakija,F,67.0,1.5,Nigeria,Energy,oil,2028
+1783,Luis Carlos Sarmiento,M,85.0,12.1,Colombia,Finance and Investments,banking,6651
+1784,Jaime Gilinski Bacal,M,60.0,3.7,Colombia,Finance and Investments,banking,6651
+1785,Carlos Ardila Lülle,M,88.0,2.8,Colombia,Food and Beverage,"soft drinks, diversified",6651
+1786,Robert & Philip Ng,M,,10.8,Singapore,Real Estate,real estate,64582
+1787,Goh Cheng Liang,M,91.0,7.0,Singapore,Manufacturing,paints,64582
+1788,Wee Cho Yaw,M,89.0,6.6,Singapore,Finance and Investments,banking,64582
+1789,Jason Chang,M,74.0,2.9,Singapore,Technology,electronics,64582
+1790,Kwek Leng Beng,M,77.0,2.9,Singapore,Real Estate,real estate,64582
+1791,Zhao Tao,M,52.0,2.5,Singapore,Healthcare,pharmaceuticals,64582
+1792,Peter Lim,M,65.0,2.2,Singapore,Finance and Investments,investments,64582
+1793,Choo Chong Ngen,M,65.0,2.1,Singapore,Real Estate,hotels,64582
+1794,Kuok Khoon Hong,M,68.0,2.1,Singapore,Manufacturing,palm oil,64582
+1795,Sam Goi,M,69.0,2.0,Singapore,Food and Beverage,frozen foods,64582
+1796,Chang Yun Chung,M,99.0,1.9,Singapore,Logistics,shipping,64582
+1797,Lim Oon Kuin,M,74.0,1.7,Singapore,Energy,oil trading,64582
+1798,Asok Kumar Hiranandani,M,63.0,1.5,Singapore,Real Estate,real estate,64582
+1799,Chua Thian Poh,M,69.0,1.4,Singapore,Real Estate,real estate,64582
+1800,Oei Hong Leong,M,70.0,1.4,Singapore,Finance and Investments,investments,64582
+1801,Ron Sim,M,59.0,1.2,Singapore,Fashion & Retail,retail,64582
+1802,Koh Wee Meng,M,54.0,1.1,Singapore,Real Estate,"real estate, hotels",64582
+1803,Min-Liang Tan,M,40.0,1.1,Singapore,Media & Entertainment,gaming,64582
+1804,Graeme Hart,M,63.0,10.1,New Zealand,Finance and Investments,investments,41966
+1805,Richard Chandler,M,59.0,2.1,New Zealand,Finance and Investments,investments,41966
+1806,Eyal Ofer,M,68.0,9.4,Israel,Diversified,"real estate, shipping",41614
+1807,Stef Wertheimer,M,91.0,5.7,Israel,Manufacturing,metalworking tools,41614
+1808,Shari Arison,F,60.0,5.5,Israel,Service,Carnival Cruises,41614
+1809,Yitzhak Tshuva,M,69.0,3.7,Israel,Real Estate,real estate,41614
+1810,Idan Ofer,M,62.0,3.6,Israel,Diversified,"drilling, shipping",41614
+1811,Arnon Milchan,M,73.0,3.5,Israel,Media & Entertainment,movie making,41614
+1812,Teddy Sagi,M,46.0,3.4,Israel,Gambling & Casinos,gambling software,41614
+1813,Shaul Shani,M,63.0,3.4,Israel,Telecom,telecom,41614
+1814,Gil Shwed,M,50.0,2.6,Israel,Technology,software,41614
+1815,Adam Neumann,M,39.0,2.5,Israel,Real Estate,WeWork,41614
+1816,Alexander Machkevich,M,64.0,2.3,Israel,Metals & Mining,"mining, metals",41614
+1817,Shmuel Harlap,M,73.0,1.9,Israel,Automotive,automotive,41614
+1818,Marius Nacht,M,52.0,1.6,Israel,Technology,software,41614
+1819,Mori Arkin,M,65.0,1.4,Israel,Healthcare,pharmaceuticals,41614
+1820,Zadik Bino,M,74.0,1.2,Israel,Diversified,"banking, oil",41614
+1821,Dan Gertler,M,44.0,1.2,Israel,Metals & Mining,mining,41614
+1822,Liora Ofer,F,64.0,1.1,Israel,Finance and Investments,investments,41614
+1823,Morris Kahn,M,88.0,1.0,Israel,Technology,software,41614
+1824,Lev Leviev,M,62.0,1.0,Israel,Metals & Mining,diamonds,41614
+1825,Beny Steinmetz,M,62.0,1.0,Israel,Metals & Mining,"mining, diamonds, real estate",41614
+1826,Gianluigi & Rafaela Aponte,,77.0,9.3,Switzerland,Logistics,Shipping,82839
+1827,Ernesto Bertarelli,M,52.0,8.9,Switzerland,Healthcare,"biotech, investments",82839
+1828,Willi & Isolde Liebherr,,,7.1,Switzerland,Construction & Engineering,Construction,82839
+1829,Ivan Glasenberg,M,61.0,6.5,Switzerland,Metals & Mining,mining,82839
+1830,Hansjoerg Wyss,M,83.0,5.7,Switzerland,Healthcare,medical devices,82839
+1831,Rahel Blocher,F,42.0,5.5,Switzerland,Manufacturing,chemicals,82839
+1832,Magdalena Martullo-Blocher,F,49.0,5.5,Switzerland,Manufacturing,chemicals,82839
+1833,Margarita Louis-Dreyfus,F,56.0,5.4,Switzerland,Food and Beverage,commodities,82839
+1834,Thomas Schmidheiny,M,72.0,5.0,Switzerland,Construction & Engineering,cement,82839
+1835,Dona Bertarelli,F,50.0,4.6,Switzerland,Diversified,biotech,82839
+1836,Michael Pieper,M,72.0,4.1,Switzerland,Manufacturing,kitchen appliances,82839
+1837,Rudolf Maag,M,72.0,3.4,Switzerland,Healthcare,medical devices,82839
+1838,Hans Peter Wild,M,77.0,3.3,Switzerland,Food and Beverage,flavorings,82839
+1839,Martin Ebner,M,72.0,3.2,Switzerland,Finance and Investments,investments,82839
+1840,Martin Haefner,M,64.0,3.0,Switzerland,Technology,"software, investments",82839
+1841,Sergio Mantegazza,M,90.0,2.9,Switzerland,Service,travel,82839
+1842,Thomas Straumann,M,54.0,2.7,Switzerland,Healthcare,dental implants,82839
+1843,Stephan Schmidheiny,M,70.0,2.5,Switzerland,Finance and Investments,investments,82839
+1844,Marcel Erni,M,53.0,2.4,Switzerland,Finance and Investments,private equity,82839
+1845,Alfred Gantner,M,50.0,2.4,Switzerland,Finance and Investments,private equity,82839
+1846,Urs Wietlisbach,M,56.0,2.4,Switzerland,Finance and Investments,private equity,82839
+1847,Eva Maria Bucher-Haefner,F,61.0,2.3,Switzerland,Technology,Computer Associates,82839
+1848,Thomas Flohr,M,48.0,2.3,Switzerland,Logistics,VistaJet,82839
+1849,Peter Spuhler,M,58.0,2.3,Switzerland,Manufacturing,train cars,82839
+1850,Maja Oeri,F,63.0,2.1,Switzerland,Healthcare,Roche Holding,82839
+1851,Miriam Baumann-Blocher,F,43.0,1.9,Switzerland,Manufacturing,chemicals,82839
+1852,Willy Michel,M,71.0,1.8,Switzerland,Healthcare,medical devices,82839
+1853,Matthias Reinhart,M,58.0,1.8,Switzerland,Finance and Investments,finance,82839
+1854,Thomas Meyer,M,58.0,1.5,Switzerland,Fashion & Retail,apparel retailer,82839
+1855,Gary Fegel,M,44.0,1.4,Switzerland,Metals & Mining,"commodities, investments",82839
+1856,Markus Blocher,M,47.0,1.3,Switzerland,Manufacturing,chemicals,82839
+1857,Beda Diethelm,M,77.0,1.2,Switzerland,Healthcare,hearing aids,82839
+1858,Nicky Oppenheimer,M,73.0,7.7,South Africa,Metals & Mining,diamonds,6340
+1859,Johann Rupert,M,68.0,7.0,South Africa,Fashion & Retail,luxury goods,6340
+1860,Koos Bekker,M,65.0,2.6,South Africa,Media & Entertainment,"media, investments",6340
+1861,Patrice Motsepe,M,56.0,2.4,South Africa,Metals & Mining,mining,6340
+1862,Stephen Saad,M,54.0,1.2,South Africa,Healthcare,pharmaceuticals,6340
+1863,Anders Holch Povlsen,M,45.0,7.4,Denmark,Fashion & Retail,fashion retail,60596
+1864,Kjeld Kirk Kristiansen,M,70.0,5.4,Denmark,Manufacturing,Lego,60596
+1865,Sofie Kirk Kristiansen,F,42.0,5.4,Denmark,Manufacturing,Lego,60596
+1866,Thomas Kirk Kristiansen,M,,5.4,Denmark,Manufacturing,Lego,60596
+1867,Agnete Kirk Thinggaard,F,,5.4,Denmark,Manufacturing,Lego,60596
+1868,Niels Peter Louis-Hansen,M,70.0,4.7,Denmark,Healthcare,medical devices,60596
+1869,Lars Larsen,M,69.0,4.2,Denmark,Fashion & Retail,retail,60596
+1870,Hanni Toosbuy Kasprzak,F,60.0,2.6,Denmark,Fashion & Retail,shoes,60596
+1871,Martin Moller Nielsen,M,53.0,2.1,Denmark,Logistics,aircraft leasing,60596
+1872,Bent Jensen,M,66.0,1.1,Denmark,Manufacturing,electric linear systems,60596
+1873,John Fredriksen,M,73.0,7.0,Cyprus,Logistics,shipping,28159
+1874,Yakir Gabay,M,52.0,3.1,Cyprus,Real Estate,real estate,28159
+1875,Suat Gunsel,M,65.0,1.9,Cyprus,Real Estate,"real estate, education",28159
+1876,Stelios Haji-Ioannou,M,51.0,1.6,Cyprus,Service,EasyJet,28159
+1877,Polys Haji-Ioannou,M,58.0,1.4,Cyprus,Service,EasyJet,28159
+1878,Clelia Haji-Ioannou,F,47.0,1.3,Cyprus,Service,EasyJet,28159
+1879,Surendra Hiranandani,M,63.0,1.3,Cyprus,Real Estate,real estate,28159
+1880,Odd Reitan,M,66.0,6.6,Norway,Fashion & Retail,"retail, real estate",81807
+1881,Johan Johannson,M,51.0,4.4,Norway,Fashion & Retail,grocery stores,81807
+1882,Andreas Halvorsen,M,57.0,3.7,Norway,Finance and Investments,hedge funds,81807
+1883,Arne Wilhelmsen,M,88.0,3.6,Norway,Logistics,cruise ships,81807
+1884,Kjell Inge Rokke,M,59.0,3.5,Norway,Logistics,"shipping, seafood",81807
+1885,Caroline Hagen Kjos,F,33.0,2.8,Norway,Diversified,conglomerate,81807
+1886,Stein Erik Hagen,M,61.0,2.5,Norway,Fashion & Retail,consumer goods,81807
+1887,Torstein Hagen,M,75.0,2.2,Norway,Service,cruises,81807
+1888,Gustav Magnar Witzoe,M,24.0,1.9,Norway,Food and Beverage,fish farming,81807
+1889,Petter Stordalen,M,55.0,1.8,Norway,Service,hotels,81807
+1890,Alexandra Andresen,F,20.0,1.4,Norway,Diversified,investments,81807
+1891,Katharina Andresen,F,22.0,1.4,Norway,Diversified,investments,81807
+1892,Ivar Tollefsen,M,57.0,1.2,Norway,Real Estate,Real estate,81807
+1893,Svein Stole,M,55.0,1.1,Norway,Finance and Investments,investments,81807
+1894,Alexander Vik,M,63.0,1.0,Norway,Finance and Investments,investments,81807
+1895,Nassef Sawiris,M,57.0,6.6,Egypt,Construction & Engineering,"construction, chemicals",2549
+1896,Naguib Sawiris,M,64.0,4.0,Egypt,Telecom,telecom,2549
+1897,Mohamed Mansour,M,70.0,2.7,Egypt,Diversified,diversified,2549
+1898,Yasseen Mansour,M,56.0,1.9,Egypt,Diversified,diversified,2549
+1899,Mohamed Al Fayed,M,89.0,1.6,Egypt,Fashion & Retail,"retail, investments",2549
+1900,Youssef Mansour,M,73.0,1.4,Egypt,Diversified,diversified,2549
+1901,Albert Frere,M,92.0,6.2,Belgium,Finance and Investments,investments,46556
+1902,Patokh Chodiev,M,65.0,2.1,Belgium,Metals & Mining,"mining, metals",46556
+1903,Rinat Akhmetov,M,51.0,5.5,Ukraine,Metals & Mining,"steel, coal",3095
+1904,Kostyantin Zhevago,M,44.0,1.6,Ukraine,Metals & Mining,mining,3095
+1905,Yuriy Kosiuk,M,50.0,1.5,Ukraine,Food and Beverage,agriculture,3095
+1906,Victor Pinchuk,M,57.0,1.4,Ukraine,Metals & Mining,"steel pipes, diversified",3095
+1907,Henadiy Boholyubov,M,56.0,1.2,Ukraine,Diversified,"banking, investments",3095
+1908,Ihor Kolomoyskyy,M,55.0,1.0,Ukraine,Diversified,"banking, investments",3095
+1909,Vadim Novinsky,M,55.0,1.0,Ukraine,Metals & Mining,steel,3095
+1910,Frits Goldschmeding,M,84.0,5.2,Netherlands,Service,temp agency,52978
+1911,Hans Melchers,M,80.0,2.9,Netherlands,Finance and Investments,"chemicals, investments",52978
+1912,Ralph Sonnenberg,M,84.0,2.9,Netherlands,Manufacturing,blinds,52978
+1913,Kommer Damen,M,74.0,1.8,Netherlands,Manufacturing,shipbuilding,52978
+1914,Lesley Bamberger,M,53.0,1.7,Netherlands,Real Estate,real estate,52978
+1915,Robert Defares,M,56.0,1.6,Netherlands,Finance and Investments,electronic trading,52978
+1916,Maria Fernanda Amorim,F,83.0,5.1,Portugal,Diversified,"energy, investments",23146
+1917,Murat Ulker,M,59.0,4.8,Turkey,Food and Beverage,food,9311
+1918,Erman Ilicak,M,50.0,4.0,Turkey,Construction & Engineering,construction,9311
+1919,Husnu Ozyegin,M,73.0,2.9,Turkey,Finance and Investments,"finance, diversified",9311
+1920,Mustafa Kucuk,M,55.0,2.7,Turkey,Fashion & Retail,fashion retail,9311
+1921,Semahat Sevim Arsel,F,89.0,2.6,Turkey,Diversified,diversified,9311
+1922,Mustafa Rahmi Koc,M,87.0,2.5,Turkey,Diversified,diversified,9311
+1923,Sarik Tara,M,88.0,2.5,Turkey,Construction & Engineering,construction,9311
+1924,Ferit Faik Sahenk,M,54.0,2.4,Turkey,Diversified,diversified,9311
+1925,Filiz Sahenk,F,51.0,2.3,Turkey,Diversified,diversified,9311
+1926,Suna Kirac,F,77.0,2.2,Turkey,Diversified,diversified,9311
+1927,Hamdi Ulukaya,M,45.0,1.8,Turkey,Food and Beverage,greek yogurt,9311
+1928,Sezai Bacaksiz,M,68.0,1.7,Turkey,Diversified,diversified,9311
+1929,Sefik Yilmaz Dizdar,M,80.0,1.7,Turkey,Fashion & Retail,fashion retail,9311
+1930,Mehmet Nazif Gunal,M,70.0,1.7,Turkey,Diversified,"tourism, construction",9311
+1931,Nihat Ozdemir,M,68.0,1.7,Turkey,Diversified,diversified,9311
+1932,Melih Abdulhayoglu,M,50.0,1.6,Turkey,Technology,internet security,9311
+1933,Ahmet Calik,M,60.0,1.6,Turkey,Diversified,"energy, banking, construction",9311
+1934,Turgay Ciner,M,62.0,1.6,Turkey,Diversified,diversified,9311
+1935,Bulent Eczacibasi,M,68.0,1.5,Turkey,Diversified,"pharmaceuticals, diversified",9311
+1936,Faruk Eczacibasi,M,64.0,1.5,Turkey,Diversified,"pharmaceuticals, diversified",9311
+1937,Mehmet Hattat,M,72.0,1.4,Turkey,Diversified,diversified,9311
+1938,Fuat Tosyali,M,55.0,1.4,Turkey,Metals & Mining,steel,9311
+1939,Ahmet Nazif Zorlu,M,73.0,1.4,Turkey,Diversified,diversified,9311
+1940,Deniz Sahenk,F,72.0,1.3,Turkey,Diversified,diversified,9311
+1941,Erol Tabanca,M,61.0,1.3,Turkey,Construction & Engineering,Construction,9311
+1942,Ayhan Tosyali,M,54.0,1.3,Turkey,Metals & Mining,steel,9311
+1943,Fatih Tosyali,M,52.0,1.3,Turkey,Metals & Mining,steel,9311
+1944,Mehmet Sinan Tara,M,60.0,1.2,Turkey,Construction & Engineering,construction,9311
+1945,Mustafa Latif Topbas,M,74.0,1.2,Turkey,Fashion & Retail,"food, retail",9311
+1946,Ali Ibrahim Agaoglu,M,64.0,1.1,Turkey,Construction & Engineering,construction,9311
+1947,Hamdi Akin,M,63.0,1.1,Turkey,Diversified,diversified,9311
+1948,Mehmet Aydinlar,M,61.0,1.1,Turkey,Healthcare,hospitals,9311
+1949,Mehmet Rustu Basaran,M,71.0,1.1,Turkey,Energy,"banking, gas",9311
+1950,Murat Vargi,M,70.0,1.1,Turkey,Telecom,telecom,9311
+1951,Fatma Tuba Yazici,F,45.0,1.1,Turkey,Diversified,diversified,9311
+1952,Olgun Zorlu,M,54.0,1.0,Turkey,Diversified,diversified,9311
+1953,Majid Al Futtaim,M,,4.6,United Arab Emirates,Real Estate,"real estate, retail",43005
+1954,Hussain Sajwani,M,65.0,4.1,United Arab Emirates,Real Estate,real estate,43005
+1955,Abdulla Al Futtaim,M,,3.3,United Arab Emirates,Automotive,"auto dealers, investments",43005
+1956,Saeed Bin Butti Al Qebaisi,M,,2.7,United Arab Emirates,Diversified,"hospitals, investments",43005
+1957,Saif Al Ghurair,M,94.0,1.9,United Arab Emirates,Diversified,diversified,43005
+1958,Khalifa Bin Butti Al Muhairi,M,39.0,1.5,United Arab Emirates,Diversified,"hospitals, investments",43005
+1959,Bidzina Ivanishvili,M,62.0,4.6,Georgia,Finance and Investments,investments,4345
+1960,Pham Nhat Vuong,M,49.0,4.3,Vietnam,Diversified,diversified,2564
+1961,Tran Dinh Long,M,57.0,1.3,Vietnam,Manufacturing,"steel, heavy industry",2564
+1962,Antti Herlin,M,61.0,4.2,Finland,Manufacturing,"elevators, escalators",49960
+1963,Heikki Kyostila,M,72.0,2.2,Finland,Healthcare,dental products,49960
+1964,Antti Aarnio-Wihuri,M,78.0,2.0,Finland,Diversified,diversified,49960
+1965,Mika Anttonen,M,51.0,2.0,Finland,Energy,oil & gas,49960
+1966,Ilkka Herlin,M,59.0,1.6,Finland,Manufacturing,"elevators, escalators",49960
+1967,Ilona Herlin,F,53.0,1.5,Finland,Manufacturing,"elevators, escalators",49960
+1968,Issad Rebrab,M,74.0,4.0,Algeria,Food and Beverage,food,4279
+1969,Suhail Bahwan,M,79.0,3.9,Oman,Diversified,diversified,16419
+1970,P.N.C. Menon,M,69.0,1.5,Oman,Real Estate,real estate,16419
+1971,Carlos Rodriguez-Pastor,M,59.0,3.4,Peru,Finance and Investments,finance,6947
+1972,Vito Rodriguez Rodriguez,M,79.0,1.9,Peru,Diversified,processed milk,6947
+1973,Ana Maria Brescia Cafferata,F,94.0,1.5,Peru,Diversified,"mining, banking",6947
+1974,Jorge Rodriguez Rodriguez,M,72.0,1.5,Peru,Diversified,processed milk,6947
+1975,Eduardo Hochschild,M,54.0,1.4,Peru,Metals & Mining,mining,6947
+1976,Eduardo Belmont Anderson,M,72.0,1.2,Peru,Fashion & Retail,cosmetics,6947
+1977,Timur Kulibaev,M,51.0,3.2,Kazakhstan,Finance and Investments,banking,9331
+1978,Dinara Kulibaeva,F,50.0,3.2,Kazakhstan,Finance and Investments,banking,9331
+1979,Vladimir Kim,M,57.0,3.1,Kazakhstan,Metals & Mining,mining,9331
+1980,Bulat Utemuratov,M,60.0,2.6,Kazakhstan,Metals & Mining,"mining, banking, hotels",9331
+1981,Alijan Ibragimov,M,64.0,2.3,Kazakhstan,Metals & Mining,"mining, metals",9331
+1982,Spiro Latsis,M,71.0,3.2,Greece,Diversified,"banking, shipping",20324
+1983,Philip Niarchos,M,64.0,2.8,Greece,Diversified,art collection,20324
+1984,Aristotelis Mistakidis,M,56.0,2.5,Greece,Metals & Mining,"mining, commodities",20324
+1985,Vardis Vardinoyannis,M,85.0,1.1,Greece,Energy,oil and gas,20324
+1986,Michal Solowow,M,55.0,3.2,Poland,Finance and Investments,investments,15424
+1987,Zygmunt Solorz-Zak,M,61.0,2.8,Poland,Media & Entertainment,TV broadcasting,15424
+1988,Dariusz Milek,M,50.0,1.4,Poland,Fashion & Retail,"real estate, retail",15424
+1989,Jerzy Starak,M,70.0,1.4,Poland,Healthcare,pharmaceuticals,15424
+1990,Tomasz Biernacki,M,45.0,1.2,Poland,Fashion & Retail,supermarkets,15424
+1991,Alejandro Bulgheroni,M,73.0,3.0,Argentina,Energy,oil & gas,11653
+1992,Eduardo Eurnekian,M,85.0,2.7,Argentina,Diversified,"airports, investments",11653
+1993,Gregorio Perez Companc,M,82.0,1.8,Argentina,Energy,oil & gas,11653
+1994,Alberto Roemmers,M,91.0,1.8,Argentina,Healthcare,pharmaceuticals,11653
+1995,Marcos Galperin,M,,1.6,Argentina,Technology,e-commerce,11653
+1996,Jorge Horacio Brito,M,65.0,1.3,Argentina,Finance and Investments,banking,11653
+1997,Eduardo Costantini,M,71.0,1.2,Argentina,Real Estate,real estate,11653
+1998,Delfin Jorge Ezequiel Carballo,M,65.0,1.1,Argentina,Finance and Investments,banking,11653
+1999,Julio Patricio Supervielle,M,61.0,1.1,Argentina,Finance and Investments,banking,11653
+2000,Taha Mikati,M,73.0,2.8,Lebanon,Telecom,telecom,8270
+2001,Najib Mikati,M,62.0,2.7,Lebanon,Telecom,telecom,8270
+2002,Bahaa Hariri,M,52.0,2.1,Lebanon,Real Estate,"real estate, investments, logistics",8270
+2003,Robert Mouawad,M,73.0,1.6,Lebanon,Service,fine jewelry,8270
+2004,Saad Hariri,M,48.0,1.5,Lebanon,Construction & Engineering,"construction, investments",8270
+2005,Ayman Hariri,M,40.0,1.3,Lebanon,Construction & Engineering,"construction, investments",8270
+2006,Aziz Akhannouch,M,57.0,2.2,Morocco,Diversified,"petroleum, diversified",3238
+2007,Othman Benjelloun,M,85.0,1.6,Morocco,Finance and Investments,"banking, insurance",3238
+2008,Thor Bjorgolfsson,M,51.0,2.0,Iceland,Diversified,investments,73191
+2009,Faisal Bin Qassim Al Thani,M,70.0,1.6,Qatar,Diversified,"hotels, diversified",69027
+2010,Binod Chaudhary,M,63.0,1.5,Nepal,Diversified,diversified,1026
+2011,Mohammed Dewji,M,43.0,1.5,Tanzania,Diversified,diversified,1051
+2012,Bassam Alghanim,M,66.0,1.4,Kuwait,Diversified,diversified,34244
+2013,Kutayba Alghanim,M,72.0,1.4,Kuwait,Diversified,diversified,34244
+2014,Fawzi Al-Kharafi,M,,1.2,Kuwait,Diversified,diversified,34244
+2015,Mohannad Al-Kharafi,M,,1.2,Kuwait,Diversified,diversified,34244
+2016,Hoi Kin Hong,M,65.0,1.4,Macau,Real Estate,real estate,86365
+2017,Strive Masiyiwa,M,57.0,1.4,Zimbabwe,Telecom,telecom,2147
+2018,Ion Tiriac,M,79.0,1.2,Romania,Finance and Investments,"banking, insurance",12301
+2019,Sandor Csanyi,M,65.0,1.1,Hungary,Diversified,"finance, real estate",15939
