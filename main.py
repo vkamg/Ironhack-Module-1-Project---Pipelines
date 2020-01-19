@@ -3,8 +3,7 @@ import argparse
 from packages.acquisition import create_dataset
 from packages.cleaning import cleaning_dataset
 from packages.web_scraping import import_data
-#from packages.newdata import import_data
-from packages.report_creation import analysis
+from packages.analysis import analysis
 
 
 def main(country):
