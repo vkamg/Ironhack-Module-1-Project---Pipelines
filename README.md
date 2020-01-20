@@ -12,7 +12,7 @@ First Ironhack Project
 **Input**
 
 - A country -- The argparse method has been used to enter variables from the console.
-  Example: python main.py -c "Spain"
+  - Example: python main.py -c "Spain"
 
 **Output**
 
