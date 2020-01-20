@@ -1,11 +1,14 @@
 # Ironhack-Module-1-Project---Pipelines
+
 First Ironhack Project 
+
+**Learning objective:** Create a Pipeline and get some hands on experience on working with web scraping through Python: getting, transforming and exporting data.
+
 
 ## Overview
 
 *The goal of this project is to create a pipeline to analyze the data provided on the forbes 2018 list.*
 
-**Learning objective:** Create a Pipeline and get some hands on experience on working with web scraping through Python: getting, transforming and exporting data.
 
 ## Results
 
@@ -36,4 +39,4 @@ First Ironhack Project
   
   **2. Wrangling:** Data cleaning - Change the data type of the numeric columns (from object to integer or float),      Standardize the data format of each column (ex. gender: F, Female; or age: 27 years old, 1991), etc.
   
-  **3.Analysis and Reporting:** Analyse the data and create the plots and PDF with the analised data.
+  **3. Analysis and Reporting:** Analyse the data and create the plots and PDF with the analised data.
