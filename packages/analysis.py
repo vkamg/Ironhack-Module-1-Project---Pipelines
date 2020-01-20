@@ -17,7 +17,7 @@ def plot_gdp_x(label, BUSD, country):
     plt.bar(index, BUSD)
     plt.ylabel('USD', fontsize=12)
     plt.xticks(index, label, fontsize=12, rotation=0)
-    plt.title(f'{country} compared to Average GDP per capita (2018)', fontsize=16)
+    plt.title(f'{country} GDP per capita compared to Average GDP per capita (2018)', fontsize=16)
     plt.savefig(f'data/results/gdppercapita.png')
     return f'data/results/gdppercapita.png'
 
@@ -33,7 +33,7 @@ def age_distribution(dataframe, country):
     filter_country = dataframe['country'] == country
     plt.figure(figsize=(12,4))
     dataframe[filter_country]['age'].plot(kind='hist',bins=[0,20,40,60,80,100],rwidth=0.9);
-    plt.title(f'The richest age distribution by gender in {country} according to Forbes List (2018)', fontsize=14)
+    plt.title(f'The richest age distribution in {country} according to Forbes List (2018)', fontsize=14)
     plt.savefig(f'data/results/age_distribution.png')
     return f'data/results/age_distribution.png'
 
